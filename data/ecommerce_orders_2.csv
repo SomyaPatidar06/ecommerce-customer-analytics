@@ -1,0 +1,1251 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Age,Gender,Region,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount,Shipping_Cost,Payment_Method,Delivery_Days,Order_Status,Customer_Rating,Cost,Revenue,Profit
+ORD-50001,2023-10-25 06:00:00,UID-652,Standard,40,Female,East,PRD-TEC-87,Bluetooth Speaker,Tech Accessories,2,60,0.14,0.0,Credit Card,13,Delivered,2.3,30,103.2,43.2
+ORD-50002,2023-02-06 08:00:00,UID-297,Standard,28,Male,West,PRD-SPO-34,Treadmill,Sports,4,500,0.13,0.0,Credit Card,11,Shipped,3.5,300,1740.0,540.0
+ORD-50003,2023-08-28 09:00:00,UID-316,Occasional,25,Female,North,PRD-BEA-58,Makeup Set,Beauty,2,40,0.0,13.09,PayPal,11,Delivered,2.7,12,80.0,42.91
+ORD-50004,2023-04-21 17:00:00,UID-196,Premium,40,Male,West,PRD-BEA-11,Perfume,Beauty,6,80,0.22,0.0,Bank Transfer,7,Delivered,3.9,25,374.4,224.4
+ORD-50005,2023-03-19 12:00:00,UID-801,Premium,64,Female,East,PRD-SPO-73,Dumbbells,Sports,4,40,0.2,0.0,PayPal,1,Delivered,4.9,20,128.0,48.0
+ORD-50006,2023-02-03 01:00:00,UID-689,Standard,40,Female,East,PRD-TEC-91,Smart Watch,Tech Accessories,2,150,0.12,0.0,Credit Card,4,Delivered,4.6,75,264.0,114.0
+ORD-50007,2023-10-08 14:00:00,UID-242,Premium,23,Male,West,PRD-BEA-58,Perfume,Beauty,2,80,0.18,0.0,PayPal,12,Delivered,2.8,25,131.2,81.2
+ORD-50008,2023-06-17 02:00:00,UID-386,Occasional,27,Female,East,PRD-SPO-64,Dumbbells,Sports,1,40,0.08,24.19,Bank Transfer,4,Delivered,3.6,20,36.8,-7.39
+ORD-50009,2023-12-01 05:00:00,UID-112,Standard,18,Female,South,PRD-SPO-53,Yoga Mat,Sports,2,25,0.13,8.92,Bank Transfer,10,Delivered,3.5,10,43.5,14.58
+ORD-50010,2023-03-10 09:00:00,UID-453,Occasional,61,Female,West,PRD-SPO-91,Resistance Bands,Sports,1,15,0.05,9.32,PayPal,6,Returned,1.2,5,14.25,-0.07
+ORD-50011,2023-01-13 14:00:00,UID-980,Premium,60,Male,North,PRD-BEA-26,Moisturizer,Beauty,7,25,0.18,0.0,PayPal,5,Shipped,4.6,6,143.5,101.5
+ORD-50012,2023-05-04 13:00:00,UID-308,Premium,47,Female,North,PRD-TEC-16,Bluetooth Speaker,Tech Accessories,6,60,0.23,0.0,PayPal,1,Delivered,3.9,30,277.2,97.2
+ORD-50013,2023-12-30 06:00:00,UID-134,Occasional,67,Female,South,PRD-TEC-62,Wireless Charger,Tech Accessories,4,35,0.32,21.11,PayPal,11,Delivered,2.4,15,95.2,14.09
+ORD-50014,2023-05-17 19:00:00,UID-753,Premium,25,Male,North,PRD-SPO-76,Treadmill,Sports,2,500,0.17,0.0,PayPal,2,Delivered,3.9,300,830.0,230.0
+ORD-50015,2023-05-03 11:00:00,UID-321,Standard,59,Male,North,PRD-HOM-93,Table Lamp,Home & Garden,2,45,0.07,23.32,Credit Card,13,Delivered,3.1,20,83.7,20.38
+ORD-50016,2023-08-18 04:00:00,UID-138,Standard,30,Male,West,PRD-TEC-52,Wireless Charger,Tech Accessories,2,35,0.11,14.62,Bank Transfer,6,Delivered,3.7,15,62.3,17.68
+ORD-50017,2023-01-21 14:00:00,UID-726,Standard,54,Male,East,PRD-BEA-27,Makeup Set,Beauty,1,40,0.06,18.69,Credit Card,1,Delivered,5.0,12,37.6,6.91
+ORD-50018,2023-06-02 09:00:00,UID-340,Premium,28,Female,East,PRD-SPO-91,Dumbbells,Sports,6,40,0.1,0.0,Crypto,4,Delivered,4.2,20,216.0,96.0
+ORD-50019,2023-04-13 13:00:00,UID-254,Standard,56,Male,South,PRD-SPO-72,Resistance Bands,Sports,2,15,0.36,8.82,PayPal,13,Delivered,2.8,5,19.2,0.38
+ORD-50020,2023-05-16 01:00:00,UID-874,Standard,42,Male,East,PRD-BEA-68,Perfume,Beauty,3,80,0.13,0.0,PayPal,11,Delivered,3.3,25,208.8,133.8
+ORD-50021,2023-01-11 11:00:00,UID-593,Occasional,20,Female,East,PRD-TEC-17,Phone Case,Tech Accessories,2,20,0.0,7.51,PayPal,7,Delivered,4.8,5,40.0,22.49
+ORD-50022,2023-04-06 13:00:00,UID-804,Occasional,60,Female,North,PRD-BEA-37,Perfume,Beauty,3,80,0.01,0.0,Credit Card,11,Delivered,2.8,25,237.6,162.6
+ORD-50023,2023-08-04 16:00:00,UID-147,Premium,21,Male,West,PRD-TEC-46,Smart Watch,Tech Accessories,7,150,0.16,0.0,Credit Card,12,Delivered,3.3,75,882.0,357.0
+ORD-50024,2023-08-15 23:00:00,UID-165,Standard,42,Male,South,PRD-SPO-79,Yoga Mat,Sports,1,25,0.14,21.29,Credit Card,14,Delivered,2.8,10,21.5,-9.79
+ORD-50025,2023-10-12 07:00:00,UID-987,Standard,66,Female,East,PRD-SPO-98,Dumbbells,Sports,1,40,0.09,21.7,PayPal,2,Delivered,3.5,20,36.4,-5.3
+ORD-50026,2023-05-11 22:00:00,UID-262,Standard,51,Male,South,PRD-BEA-80,Moisturizer,Beauty,1,25,0.07,8.75,Credit Card,8,Delivered,3.1,6,23.25,8.5
+ORD-50027,2023-09-13 09:00:00,UID-288,Occasional,26,Male,North,PRD-HOM-64,Bed Sheets,Home & Garden,4,50,0.02,0.0,Credit Card,2,Delivered,4.4,20,196.0,116.0
+ORD-50028,2023-04-02 21:00:00,UID-104,Occasional,18,Female,South,PRD-TEC-44,Bluetooth Speaker,Tech Accessories,2,60,0.38,13.19,PayPal,11,Returned,2.2,30,74.4,1.21
+ORD-50029,2023-10-25 10:00:00,UID-458,Occasional,62,Female,South,PRD-BEA-83,Moisturizer,Beauty,3,25,0.0,23.77,Bank Transfer,13,Delivered,2.3,6,75.0,33.23
+ORD-50030,2023-01-06 12:00:00,UID-210,Standard,51,Female,West,PRD-HOM-37,Vacuum Cleaner,Home & Garden,4,200,0.1,0.0,PayPal,6,Delivered,3.6,100,720.0,320.0
+ORD-50031,2023-12-15 12:00:00,UID-997,Standard,67,Male,East,PRD-BEA-89,Moisturizer,Beauty,2,25,0.1,19.95,Crypto,1,Delivered,4.9,6,45.0,13.05
+ORD-50032,2023-11-12 11:00:00,UID-729,Standard,23,Male,South,PRD-HOM-10,Vacuum Cleaner,Home & Garden,2,200,0.14,0.0,Credit Card,9,Delivered,2.4,100,344.0,144.0
+ORD-50033,2023-12-23 16:00:00,UID-595,Standard,62,Male,East,PRD-HOM-32,Vacuum Cleaner,Home & Garden,1,200,0.1,0.0,Credit Card,11,Delivered,3.7,100,180.0,80.0
+ORD-50034,2023-08-14 10:00:00,UID-170,Premium,44,Female,West,PRD-BEA-99,Face Serum,Beauty,5,30,0.11,0.0,Credit Card,14,Delivered,3.4,8,133.5,93.5
+ORD-50035,2023-02-11 14:00:00,UID-486,Standard,37,Male,North,PRD-BEA-32,Moisturizer,Beauty,2,25,0.14,7.7,Crypto,9,Delivered,2.6,6,43.0,23.3
+ORD-50036,2023-10-25 03:00:00,UID-827,Standard,27,Female,North,PRD-TEC-88,Bluetooth Speaker,Tech Accessories,4,60,0.12,0.0,PayPal,6,Shipped,4.4,30,211.2,91.2
+ORD-50037,2023-03-16 13:00:00,UID-787,Standard,50,Male,North,PRD-SPO-13,Yoga Mat,Sports,3,25,0.09,21.51,Bank Transfer,4,Delivered,4.6,10,68.25,16.74
+ORD-50038,2023-03-29 02:00:00,UID-798,Standard,37,Male,West,PRD-BEA-29,Perfume,Beauty,3,80,0.05,0.0,Credit Card,5,Delivered,4.3,25,228.0,153.0
+ORD-50039,2023-05-28 20:00:00,UID-693,Premium,43,Male,West,PRD-SPO-22,Treadmill,Sports,6,500,0.16,0.0,Credit Card,11,Delivered,3.0,300,2520.0,720.0
+ORD-50040,2023-06-07 17:00:00,UID-580,Occasional,67,Male,West,PRD-SPO-29,Dumbbells,Sports,1,40,0.0,8.19,Credit Card,13,Returned,1.9,20,40.0,11.81
+ORD-50041,2023-04-07 23:00:00,UID-489,Standard,70,Female,West,PRD-TEC-46,Bluetooth Speaker,Tech Accessories,3,60,0.14,0.0,PayPal,6,Delivered,4.6,30,154.8,64.8
+ORD-50042,2023-12-18 20:00:00,UID-731,Standard,65,Female,South,PRD-TEC-54,Bluetooth Speaker,Tech Accessories,1,60,0.31,15.61,PayPal,14,Delivered,3.5,30,41.4,-4.21
+ORD-50043,2023-04-15 04:00:00,UID-298,Standard,48,Male,East,PRD-SPO-64,Dumbbells,Sports,2,40,0.09,21.42,PayPal,10,Shipped,3.0,20,72.8,11.38
+ORD-50044,2023-02-10 03:00:00,UID-626,Standard,19,Female,East,PRD-HOM-95,Bed Sheets,Home & Garden,2,50,0.12,10.09,Credit Card,10,Delivered,3.1,20,88.0,37.91
+ORD-50045,2023-04-04 03:00:00,UID-785,Occasional,46,Male,West,PRD-HOM-17,Table Lamp,Home & Garden,1,45,0.0,9.08,Crypto,12,Delivered,3.1,20,45.0,15.92
+ORD-50046,2023-04-20 19:00:00,UID-871,Occasional,58,Male,South,PRD-SPO-24,Resistance Bands,Sports,3,15,0.02,6.02,Credit Card,13,Delivered,3.5,5,44.1,23.08
+ORD-50047,2023-05-21 19:00:00,UID-176,Standard,69,Male,North,PRD-TEC-18,Wireless Charger,Tech Accessories,1,35,0.14,24.41,Credit Card,12,Returned,2.4,15,30.1,-9.31
+ORD-50048,2023-05-26 20:00:00,UID-155,Occasional,58,Male,West,PRD-HOM-73,Indoor Plant,Home & Garden,4,25,0.08,7.25,PayPal,10,Delivered,3.4,10,92.0,44.75
+ORD-50049,2023-08-14 18:00:00,UID-720,Standard,64,Male,South,PRD-BEA-33,Moisturizer,Beauty,4,25,0.35,15.94,PayPal,14,Delivered,2.5,6,65.0,25.06
+ORD-50050,2023-01-20 05:00:00,UID-556,Premium,48,Female,East,PRD-BEA-68,Face Serum,Beauty,5,30,0.14,0.0,Credit Card,7,Delivered,4.0,8,129.0,89.0
+ORD-50051,2023-11-02 21:00:00,UID-446,Standard,19,Male,North,PRD-BEA-23,Moisturizer,Beauty,4,25,0.13,15.52,PayPal,13,Delivered,3.4,6,87.0,47.48
+ORD-50052,2023-11-28 10:00:00,UID-357,Occasional,33,Male,East,PRD-TEC-37,Phone Case,Tech Accessories,4,20,0.01,24.57,Credit Card,14,Delivered,3.3,5,79.2,34.63
+ORD-50053,2023-05-24 04:00:00,UID-780,Standard,68,Female,South,PRD-BEA-80,Face Serum,Beauty,1,30,0.34,24.56,Bank Transfer,1,Delivered,3.8,8,19.8,-12.76
+ORD-50054,2023-09-12 02:00:00,UID-352,Standard,19,Female,South,PRD-BEA-98,Perfume,Beauty,4,80,0.06,0.0,Credit Card,11,Delivered,3.4,25,300.8,200.8
+ORD-50055,2023-05-22 17:00:00,UID-692,Occasional,44,Female,South,PRD-HOM-72,Bed Sheets,Home & Garden,1,50,0.38,15.17,PayPal,13,Delivered,4.3,20,31.0,-4.17
+ORD-50056,2023-08-10 15:00:00,UID-425,Premium,41,Female,East,PRD-HOM-26,Vacuum Cleaner,Home & Garden,3,200,0.12,0.0,Crypto,9,Delivered,3.1,100,528.0,228.0
+ORD-50057,2023-10-09 17:00:00,UID-528,Occasional,65,Female,West,PRD-BEA-76,Perfume,Beauty,1,80,0.05,9.65,Credit Card,14,Delivered,3.9,25,76.0,41.35
+ORD-50058,2023-08-22 08:00:00,UID-974,Standard,35,Female,East,PRD-SPO-79,Treadmill,Sports,4,500,0.13,0.0,Credit Card,9,Delivered,3.2,300,1740.0,540.0
+ORD-50059,2023-03-20 13:00:00,UID-391,Standard,41,Male,East,PRD-SPO-50,Resistance Bands,Sports,4,15,0.1,20.07,Credit Card,10,Returned,1.1,5,54.0,13.93
+ORD-50060,2023-12-27 03:00:00,UID-106,Occasional,22,Male,North,PRD-HOM-38,Bed Sheets,Home & Garden,3,50,0.01,0.0,PayPal,4,Returned,1.9,20,148.5,88.5
+ORD-50061,2023-09-11 08:00:00,UID-998,Standard,55,Female,South,PRD-SPO-56,Yoga Mat,Sports,1,25,0.26,7.92,PayPal,11,Delivered,3.7,10,18.5,0.58
+ORD-50062,2023-09-03 12:00:00,UID-807,Standard,66,Male,North,PRD-TEC-88,Bluetooth Speaker,Tech Accessories,2,60,0.06,0.0,Credit Card,5,Delivered,4.3,30,112.8,52.8
+ORD-50063,2023-04-12 09:00:00,UID-529,Occasional,58,Male,South,PRD-HOM-62,Indoor Plant,Home & Garden,2,25,0.32,22.57,Credit Card,6,Delivered,4.8,10,34.0,-8.57
+ORD-50064,2023-06-02 17:00:00,UID-957,Standard,28,Female,East,PRD-BEA-90,Perfume,Beauty,4,80,0.1,0.0,Credit Card,4,Delivered,4.9,25,288.0,188.0
+ORD-50065,2023-09-30 15:00:00,UID-297,Occasional,44,Male,South,PRD-SPO-67,Yoga Mat,Sports,1,25,0.0,20.96,PayPal,11,Delivered,3.3,10,25.0,-5.96
+ORD-50066,2023-04-25 08:00:00,UID-127,Occasional,36,Male,West,PRD-TEC-35,Phone Case,Tech Accessories,2,20,0.09,20.94,PayPal,14,Delivered,4.3,5,36.4,5.46
+ORD-50067,2023-10-31 02:00:00,UID-397,Standard,50,Female,West,PRD-SPO-94,Dumbbells,Sports,2,40,0.07,5.96,PayPal,13,Delivered,3.1,20,74.4,28.44
+ORD-50068,2023-03-05 03:00:00,UID-247,Premium,41,Male,South,PRD-HOM-62,Table Lamp,Home & Garden,5,45,0.39,0.0,Credit Card,14,Delivered,3.0,20,137.25,37.25
+ORD-50069,2023-07-14 16:00:00,UID-643,Occasional,54,Female,West,PRD-SPO-68,Dumbbells,Sports,4,40,0.01,0.0,PayPal,10,Delivered,4.2,20,158.4,78.4
+ORD-50070,2023-06-16 03:00:00,UID-556,Premium,42,Female,West,PRD-TEC-13,Wireless Charger,Tech Accessories,4,35,0.21,0.0,Credit Card,11,Delivered,4.3,15,110.6,50.6
+ORD-50071,2023-02-10 22:00:00,UID-950,Occasional,25,Female,North,PRD-HOM-87,Bed Sheets,Home & Garden,1,50,0.0,16.01,PayPal,12,Delivered,3.1,20,50.0,13.99
+ORD-50072,2023-02-10 07:00:00,UID-884,Premium,20,Male,North,PRD-HOM-92,Bed Sheets,Home & Garden,4,50,0.19,0.0,Credit Card,4,Delivered,3.9,20,162.0,82.0
+ORD-50073,2023-07-01 23:00:00,UID-210,Standard,67,Male,West,PRD-TEC-59,Smart Watch,Tech Accessories,1,150,0.09,0.0,Credit Card,8,Delivered,2.4,75,136.5,61.5
+ORD-50074,2023-01-08 16:00:00,UID-494,Occasional,60,Male,West,PRD-BEA-91,Moisturizer,Beauty,4,25,0.08,14.43,PayPal,12,Delivered,2.8,6,92.0,53.57
+ORD-50075,2023-12-20 23:00:00,UID-621,Standard,36,Female,East,PRD-SPO-66,Yoga Mat,Sports,1,25,0.09,22.12,Credit Card,4,Delivered,3.5,10,22.75,-9.37
+ORD-50076,2023-05-31 08:00:00,UID-651,Standard,56,Male,South,PRD-BEA-58,Moisturizer,Beauty,1,25,0.34,12.03,Credit Card,13,Delivered,3.5,6,16.5,-1.53
+ORD-50077,2023-08-05 21:00:00,UID-937,Premium,32,Female,South,PRD-BEA-48,Face Serum,Beauty,5,30,0.39,7.75,Bank Transfer,6,Delivered,4.1,8,91.5,43.75
+ORD-50078,2023-07-21 09:00:00,UID-672,Standard,57,Female,North,PRD-HOM-10,Bed Sheets,Home & Garden,4,50,0.06,0.0,PayPal,9,Delivered,3.1,20,188.0,108.0
+ORD-50079,2023-06-28 07:00:00,UID-479,Occasional,67,Male,South,PRD-HOM-77,Table Lamp,Home & Garden,1,45,0.04,23.91,Credit Card,13,Delivered,3.1,20,43.2,-0.71
+ORD-50080,2023-06-20 07:00:00,UID-224,Standard,33,Male,East,PRD-BEA-62,Perfume,Beauty,1,80,0.13,7.76,Crypto,13,Returned,2.3,25,69.6,36.84
+ORD-50081,2023-03-25 13:00:00,UID-446,Standard,63,Female,North,PRD-SPO-99,Yoga Mat,Sports,3,25,0.06,5.19,Crypto,2,Delivered,3.8,10,70.5,35.31
+ORD-50082,2023-05-26 15:00:00,UID-839,Occasional,67,Female,East,PRD-BEA-44,Perfume,Beauty,4,80,0.08,0.0,PayPal,11,Shipped,4.3,25,294.4,194.4
+ORD-50083,2023-07-10 21:00:00,UID-340,Standard,62,Female,North,PRD-SPO-72,Yoga Mat,Sports,2,25,0.14,11.48,Credit Card,7,Returned,1.6,10,43.0,11.52
+ORD-50084,2023-02-07 02:00:00,UID-543,Standard,28,Male,North,PRD-BEA-97,Makeup Set,Beauty,1,40,0.14,6.77,PayPal,5,Delivered,3.7,12,34.4,15.63
+ORD-50085,2023-04-08 15:00:00,UID-341,Occasional,22,Male,East,PRD-SPO-52,Yoga Mat,Sports,1,25,0.0,15.08,Credit Card,8,Delivered,3.8,10,25.0,-0.08
+ORD-50086,2023-08-12 17:00:00,UID-172,Occasional,49,Female,North,PRD-BEA-33,Moisturizer,Beauty,1,25,0.0,6.01,Credit Card,8,Returned,1.9,6,25.0,12.99
+ORD-50087,2023-04-17 14:00:00,UID-706,Occasional,47,Female,East,PRD-TEC-78,Bluetooth Speaker,Tech Accessories,4,60,0.0,0.0,Crypto,9,Delivered,4.0,30,240.0,120.0
+ORD-50088,2023-02-04 13:00:00,UID-478,Standard,38,Male,South,PRD-HOM-80,Bed Sheets,Home & Garden,3,50,0.08,0.0,Credit Card,1,Delivered,4.8,20,138.0,78.0
+ORD-50089,2023-03-02 22:00:00,UID-454,Standard,21,Female,South,PRD-BEA-38,Moisturizer,Beauty,3,25,0.34,11.63,Credit Card,13,Shipped,3.8,6,49.5,19.87
+ORD-50090,2023-07-12 21:00:00,UID-580,Premium,28,Female,North,PRD-TEC-59,Wireless Charger,Tech Accessories,3,35,0.12,5.7,PayPal,3,Delivered,4.5,15,92.4,41.7
+ORD-50091,2023-10-20 17:00:00,UID-529,Occasional,24,Female,South,PRD-TEC-70,Phone Case,Tech Accessories,2,20,0.0,23.75,Crypto,8,Delivered,3.4,5,40.0,6.25
+ORD-50092,2023-10-20 08:00:00,UID-867,Occasional,30,Male,West,PRD-SPO-80,Yoga Mat,Sports,1,25,0.03,10.4,Bank Transfer,8,Delivered,4.0,10,24.25,3.85
+ORD-50093,2023-05-29 19:00:00,UID-614,Occasional,21,Male,East,PRD-TEC-89,Smart Watch,Tech Accessories,4,150,0.04,0.0,Credit Card,11,Delivered,2.3,75,576.0,276.0
+ORD-50094,2023-05-03 03:00:00,UID-895,Occasional,63,Female,North,PRD-SPO-38,Treadmill,Sports,3,500,0.0,0.0,Crypto,7,Delivered,4.8,300,1500.0,600.0
+ORD-50095,2023-07-20 23:00:00,UID-867,Standard,40,Male,East,PRD-SPO-61,Dumbbells,Sports,1,40,0.15,24.35,Crypto,2,Delivered,4.2,20,34.0,-10.35
+ORD-50096,2023-06-16 07:00:00,UID-361,Occasional,44,Female,North,PRD-HOM-21,Table Lamp,Home & Garden,1,45,0.0,11.55,Crypto,7,Returned,1.6,20,45.0,13.45
+ORD-50097,2023-05-03 21:00:00,UID-223,Occasional,33,Female,North,PRD-HOM-98,Indoor Plant,Home & Garden,4,25,0.0,8.52,Credit Card,7,Delivered,4.3,10,100.0,51.48
+ORD-50098,2023-05-31 07:00:00,UID-402,Premium,68,Male,West,PRD-BEA-76,Moisturizer,Beauty,4,25,0.2,8.53,Credit Card,14,Delivered,2.8,6,80.0,47.47
+ORD-50099,2023-10-21 10:00:00,UID-982,Standard,60,Male,North,PRD-SPO-19,Yoga Mat,Sports,2,25,0.11,21.79,PayPal,10,Shipped,4.0,10,44.5,2.71
+ORD-50100,2023-09-07 16:00:00,UID-686,Occasional,54,Female,East,PRD-HOM-20,Indoor Plant,Home & Garden,4,25,0.04,7.4,PayPal,10,Delivered,3.6,10,96.0,48.6
+ORD-50101,2023-06-07 11:00:00,UID-217,Standard,50,Female,North,PRD-TEC-85,Phone Case,Tech Accessories,4,20,0.15,13.32,Credit Card,8,Delivered,3.2,5,68.0,34.68
+ORD-50102,2023-12-30 11:00:00,UID-545,Standard,61,Female,South,PRD-BEA-58,Face Serum,Beauty,3,30,0.07,7.93,PayPal,10,Delivered,2.2,8,83.7,51.77
+ORD-50103,2023-05-15 09:00:00,UID-703,Premium,23,Female,East,PRD-TEC-84,Smart Watch,Tech Accessories,3,150,0.13,0.0,Crypto,10,Delivered,3.1,75,391.5,166.5
+ORD-50104,2023-11-18 01:00:00,UID-255,Premium,44,Male,South,PRD-SPO-40,Resistance Bands,Sports,5,15,0.14,10.58,Credit Card,7,Delivered,4.6,5,64.5,28.92
+ORD-50105,2023-07-30 18:00:00,UID-701,Premium,46,Female,West,PRD-TEC-65,Phone Case,Tech Accessories,7,20,0.13,0.0,Bank Transfer,7,Delivered,4.6,5,121.8,86.8
+ORD-50106,2023-02-03 19:00:00,UID-851,Standard,24,Male,North,PRD-BEA-80,Makeup Set,Beauty,4,40,0.06,0.0,PayPal,11,Delivered,3.5,12,150.4,102.4
+ORD-50107,2023-08-21 11:00:00,UID-859,Standard,55,Male,North,PRD-SPO-61,Yoga Mat,Sports,3,25,0.07,10.94,Credit Card,8,Delivered,2.8,10,69.75,28.81
+ORD-50108,2023-05-29 02:00:00,UID-155,Occasional,32,Female,North,PRD-HOM-79,Vacuum Cleaner,Home & Garden,1,200,0.04,0.0,Credit Card,12,Delivered,2.9,100,192.0,92.0
+ORD-50109,2023-02-05 07:00:00,UID-634,Standard,41,Male,West,PRD-SPO-38,Yoga Mat,Sports,1,25,0.11,12.48,Crypto,12,Returned,1.5,10,22.25,-0.23
+ORD-50110,2023-04-17 23:00:00,UID-336,Standard,46,Male,East,PRD-SPO-41,Yoga Mat,Sports,3,25,0.06,24.06,Crypto,3,Delivered,5.0,10,70.5,16.44
+ORD-50111,2023-07-21 14:00:00,UID-261,Standard,27,Female,East,PRD-TEC-43,Smart Watch,Tech Accessories,2,150,0.07,0.0,Crypto,3,Delivered,3.6,75,279.0,129.0
+ORD-50112,2023-03-09 04:00:00,UID-555,Standard,54,Female,South,PRD-BEA-64,Face Serum,Beauty,1,30,0.09,15.38,Credit Card,8,Returned,1.4,8,27.3,3.92
+ORD-50113,2023-03-31 13:00:00,UID-814,Standard,53,Male,West,PRD-TEC-15,Bluetooth Speaker,Tech Accessories,1,60,0.13,8.16,PayPal,12,Delivered,3.6,30,52.2,14.04
+ORD-50114,2023-08-25 07:00:00,UID-200,Occasional,26,Male,North,PRD-SPO-66,Resistance Bands,Sports,3,15,0.02,18.5,Credit Card,6,Delivered,4.3,5,44.1,10.6
+ORD-50115,2023-11-13 23:00:00,UID-944,Occasional,44,Female,East,PRD-SPO-64,Treadmill,Sports,1,500,0.0,0.0,PayPal,11,Delivered,2.8,300,500.0,200.0
+ORD-50116,2023-07-30 11:00:00,UID-180,Occasional,68,Male,North,PRD-TEC-66,Wireless Charger,Tech Accessories,4,35,0.1,0.0,Credit Card,3,Delivered,4.8,15,126.0,66.0
+ORD-50117,2023-03-10 03:00:00,UID-895,Standard,45,Female,East,PRD-SPO-79,Yoga Mat,Sports,4,25,0.08,7.67,Credit Card,3,Returned,1.9,10,92.0,44.33
+ORD-50118,2023-08-01 21:00:00,UID-748,Standard,59,Female,South,PRD-BEA-14,Makeup Set,Beauty,2,40,0.09,24.7,Bank Transfer,6,Delivered,4.7,12,72.8,24.1
+ORD-50119,2023-11-10 20:00:00,UID-920,Standard,49,Female,West,PRD-SPO-56,Dumbbells,Sports,2,40,0.14,10.43,Credit Card,10,Delivered,4.2,20,68.8,18.37
+ORD-50120,2023-04-08 11:00:00,UID-397,Premium,41,Male,East,PRD-BEA-98,Face Serum,Beauty,4,30,0.2,20.36,Credit Card,13,Delivered,2.6,8,96.0,43.64
+ORD-50121,2023-05-01 02:00:00,UID-448,Standard,19,Male,North,PRD-BEA-86,Moisturizer,Beauty,1,25,0.1,16.74,Credit Card,4,Returned,1.9,6,22.5,-0.24
+ORD-50122,2023-02-22 00:00:00,UID-778,Occasional,33,Male,West,PRD-HOM-84,Indoor Plant,Home & Garden,4,25,0.0,9.28,Credit Card,11,Delivered,4.1,10,100.0,50.72
+ORD-50123,2023-04-18 00:00:00,UID-553,Standard,40,Male,North,PRD-TEC-14,Smart Watch,Tech Accessories,4,150,0.13,0.0,Crypto,14,Delivered,3.1,75,522.0,222.0
+ORD-50124,2023-03-05 02:00:00,UID-536,Standard,39,Male,South,PRD-BEA-42,Moisturizer,Beauty,3,25,0.05,15.81,Bank Transfer,4,Delivered,4.7,6,71.25,37.44
+ORD-50125,2023-02-17 18:00:00,UID-781,Occasional,31,Female,North,PRD-TEC-59,Smart Watch,Tech Accessories,2,150,0.0,0.0,PayPal,6,Delivered,3.6,75,300.0,150.0
+ORD-50126,2023-11-28 03:00:00,UID-765,Standard,61,Female,South,PRD-SPO-73,Treadmill,Sports,1,500,0.37,0.0,PayPal,7,Delivered,4.9,300,315.0,15.0
+ORD-50127,2023-03-19 13:00:00,UID-873,Occasional,20,Male,East,PRD-SPO-52,Resistance Bands,Sports,3,15,0.0,11.37,Credit Card,1,Delivered,4.6,5,45.0,18.63
+ORD-50128,2023-01-10 13:00:00,UID-445,Standard,39,Male,West,PRD-TEC-28,Phone Case,Tech Accessories,2,20,0.08,19.77,Crypto,8,Delivered,3.5,5,36.8,7.03
+ORD-50129,2023-12-16 23:00:00,UID-956,Standard,41,Female,North,PRD-HOM-45,Table Lamp,Home & Garden,4,45,0.08,0.0,Credit Card,8,Delivered,3.3,20,165.6,85.6
+ORD-50130,2023-02-28 05:00:00,UID-843,Standard,47,Female,North,PRD-BEA-83,Perfume,Beauty,1,80,0.08,12.73,PayPal,14,Delivered,2.8,25,73.6,35.87
+ORD-50131,2023-09-21 07:00:00,UID-255,Standard,64,Male,East,PRD-BEA-95,Face Serum,Beauty,3,30,0.11,11.13,Credit Card,12,Delivered,3.8,8,80.1,44.97
+ORD-50132,2023-05-21 22:00:00,UID-373,Standard,67,Female,West,PRD-BEA-52,Makeup Set,Beauty,2,40,0.1,10.2,Credit Card,5,Delivered,4.2,12,72.0,37.8
+ORD-50133,2023-10-15 00:00:00,UID-986,Standard,30,Male,South,PRD-BEA-12,Perfume,Beauty,2,80,0.08,0.0,Bank Transfer,13,Delivered,2.2,25,147.2,97.2
+ORD-50134,2023-11-22 23:00:00,UID-804,Occasional,42,Female,North,PRD-BEA-80,Makeup Set,Beauty,3,40,0.06,0.0,PayPal,1,Delivered,4.7,12,112.8,76.8
+ORD-50135,2023-04-30 22:00:00,UID-583,Premium,20,Female,North,PRD-BEA-96,Face Serum,Beauty,3,30,0.25,9.71,PayPal,13,Delivered,3.0,8,67.5,33.79
+ORD-50136,2023-07-18 14:00:00,UID-783,Standard,51,Female,North,PRD-HOM-39,Indoor Plant,Home & Garden,3,25,0.05,18.22,Credit Card,6,Delivered,4.3,10,71.25,23.03
+ORD-50137,2023-06-26 18:00:00,UID-271,Standard,52,Female,North,PRD-BEA-72,Moisturizer,Beauty,4,25,0.15,20.15,Crypto,12,Delivered,3.9,6,85.0,40.85
+ORD-50138,2023-06-13 22:00:00,UID-182,Standard,21,Male,East,PRD-TEC-70,Wireless Charger,Tech Accessories,1,35,0.12,24.7,Credit Card,10,Delivered,3.2,15,30.8,-8.9
+ORD-50139,2023-12-13 06:00:00,UID-437,Standard,65,Female,North,PRD-SPO-38,Dumbbells,Sports,3,40,0.14,0.0,Credit Card,12,Returned,1.8,20,103.2,43.2
+ORD-50140,2023-10-14 13:00:00,UID-151,Premium,58,Female,North,PRD-HOM-38,Indoor Plant,Home & Garden,7,25,0.24,0.0,Credit Card,8,Delivered,3.2,10,133.0,63.0
+ORD-50141,2023-07-03 20:00:00,UID-656,Occasional,45,Female,West,PRD-HOM-24,Bed Sheets,Home & Garden,4,50,0.06,0.0,Credit Card,11,Delivered,2.9,20,188.0,108.0
+ORD-50142,2023-11-11 08:00:00,UID-388,Standard,51,Male,West,PRD-HOM-15,Table Lamp,Home & Garden,1,45,0.12,9.94,PayPal,9,Delivered,4.3,20,39.6,9.66
+ORD-50143,2023-08-08 01:00:00,UID-656,Standard,33,Male,North,PRD-BEA-96,Moisturizer,Beauty,1,25,0.07,13.8,PayPal,13,Delivered,2.5,6,23.25,3.45
+ORD-50144,2023-01-07 11:00:00,UID-487,Standard,70,Male,West,PRD-BEA-79,Face Serum,Beauty,3,30,0.08,21.7,PayPal,14,Delivered,2.8,8,82.8,37.1
+ORD-50145,2023-08-23 16:00:00,UID-806,Standard,36,Male,East,PRD-HOM-37,Indoor Plant,Home & Garden,4,25,0.09,22.59,Credit Card,11,Returned,2.5,10,91.0,28.41
+ORD-50146,2023-12-05 18:00:00,UID-700,Standard,29,Male,East,PRD-HOM-24,Table Lamp,Home & Garden,1,45,0.11,16.31,Credit Card,11,Delivered,3.3,20,40.05,3.74
+ORD-50147,2023-02-08 01:00:00,UID-851,Premium,19,Female,North,PRD-HOM-53,Indoor Plant,Home & Garden,7,25,0.14,0.0,Credit Card,5,Delivered,4.6,10,150.5,80.5
+ORD-50148,2023-06-05 20:00:00,UID-847,Standard,65,Male,North,PRD-SPO-67,Resistance Bands,Sports,1,15,0.14,13.33,Crypto,6,Delivered,3.6,5,12.9,-5.43
+ORD-50149,2023-07-06 00:00:00,UID-543,Occasional,50,Male,South,PRD-BEA-24,Makeup Set,Beauty,4,40,0.34,0.0,Bank Transfer,4,Delivered,3.8,12,105.6,57.6
+ORD-50150,2023-02-28 15:00:00,UID-678,Standard,33,Male,South,PRD-TEC-71,Phone Case,Tech Accessories,1,20,0.39,23.64,Crypto,14,Delivered,3.7,5,12.2,-16.44
+ORD-50151,2023-05-23 02:00:00,UID-334,Standard,50,Female,East,PRD-TEC-33,Wireless Charger,Tech Accessories,4,35,0.05,0.0,Credit Card,3,Delivered,3.6,15,133.0,73.0
+ORD-50152,2023-05-03 17:00:00,UID-135,Standard,69,Male,East,PRD-BEA-45,Perfume,Beauty,2,80,0.08,0.0,PayPal,6,Returned,2.3,25,147.2,97.2
+ORD-50153,2023-06-24 08:00:00,UID-380,Standard,49,Male,North,PRD-BEA-52,Face Serum,Beauty,4,30,0.07,0.0,Bank Transfer,14,Delivered,3.3,8,111.6,79.6
+ORD-50154,2023-06-12 10:00:00,UID-946,Occasional,69,Male,West,PRD-HOM-12,Bed Sheets,Home & Garden,1,50,0.01,21.69,Credit Card,7,Delivered,3.8,20,49.5,7.81
+ORD-50155,2023-11-08 05:00:00,UID-188,Standard,39,Male,South,PRD-SPO-12,Treadmill,Sports,1,500,0.14,0.0,PayPal,12,Delivered,3.4,300,430.0,130.0
+ORD-50156,2023-02-26 19:00:00,UID-414,Occasional,19,Male,North,PRD-HOM-51,Bed Sheets,Home & Garden,1,50,0.01,7.99,Credit Card,11,Delivered,3.8,20,49.5,21.51
+ORD-50157,2023-02-22 09:00:00,UID-237,Occasional,60,Female,West,PRD-SPO-93,Treadmill,Sports,4,500,0.0,0.0,Credit Card,7,Returned,1.8,300,2000.0,800.0
+ORD-50158,2023-09-04 01:00:00,UID-320,Occasional,46,Female,North,PRD-BEA-24,Moisturizer,Beauty,1,25,0.0,5.53,Bank Transfer,5,Delivered,3.7,6,25.0,13.47
+ORD-50159,2023-04-17 13:00:00,UID-805,Standard,49,Male,West,PRD-TEC-90,Bluetooth Speaker,Tech Accessories,4,60,0.12,0.0,PayPal,7,Shipped,3.9,30,211.2,91.2
+ORD-50160,2023-05-25 04:00:00,UID-162,Premium,21,Female,East,PRD-SPO-64,Dumbbells,Sports,4,40,0.16,0.0,Credit Card,11,Delivered,3.1,20,134.4,54.4
+ORD-50161,2023-07-04 20:00:00,UID-103,Standard,70,Male,West,PRD-HOM-22,Vacuum Cleaner,Home & Garden,4,200,0.1,0.0,Crypto,12,Delivered,4.3,100,720.0,320.0
+ORD-50162,2023-05-29 08:00:00,UID-697,Standard,23,Female,East,PRD-SPO-21,Dumbbells,Sports,1,40,0.07,11.91,Credit Card,14,Delivered,2.2,20,37.2,5.29
+ORD-50163,2023-01-15 18:00:00,UID-695,Occasional,18,Female,West,PRD-BEA-27,Perfume,Beauty,4,80,0.1,0.0,Credit Card,9,Delivered,3.4,25,288.0,188.0
+ORD-50164,2023-09-10 14:00:00,UID-568,Standard,64,Male,East,PRD-HOM-52,Indoor Plant,Home & Garden,2,25,0.12,15.05,PayPal,3,Returned,1.8,10,44.0,8.95
+ORD-50165,2023-10-23 18:00:00,UID-694,Occasional,69,Female,South,PRD-SPO-76,Resistance Bands,Sports,3,15,0.39,18.94,Credit Card,5,Delivered,3.6,5,27.45,-6.49
+ORD-50166,2023-10-14 02:00:00,UID-561,Standard,53,Female,South,PRD-SPO-78,Yoga Mat,Sports,1,25,0.34,18.14,PayPal,9,Shipped,4.1,10,16.5,-11.64
+ORD-50167,2023-07-14 04:00:00,UID-551,Occasional,55,Male,East,PRD-TEC-42,Phone Case,Tech Accessories,2,20,0.01,17.33,Credit Card,12,Delivered,3.1,5,39.6,12.27
+ORD-50168,2023-06-22 21:00:00,UID-555,Standard,41,Male,North,PRD-BEA-34,Face Serum,Beauty,3,30,0.08,9.76,Credit Card,5,Delivered,4.3,8,82.8,49.04
+ORD-50169,2023-05-29 15:00:00,UID-547,Occasional,54,Female,North,PRD-BEA-40,Moisturizer,Beauty,3,25,0.0,20.48,PayPal,6,Delivered,4.4,6,75.0,36.52
+ORD-50170,2023-02-20 18:00:00,UID-115,Standard,57,Female,East,PRD-HOM-44,Vacuum Cleaner,Home & Garden,3,200,0.14,0.0,PayPal,1,Delivered,4.5,100,516.0,216.0
+ORD-50171,2023-07-21 09:00:00,UID-802,Premium,68,Male,East,PRD-TEC-93,Phone Case,Tech Accessories,5,20,0.14,18.03,Credit Card,9,Delivered,2.9,5,86.0,42.97
+ORD-50172,2023-07-25 14:00:00,UID-265,Standard,63,Male,North,PRD-SPO-24,Treadmill,Sports,1,500,0.14,0.0,Credit Card,10,Shipped,2.6,300,430.0,130.0
+ORD-50173,2023-01-17 10:00:00,UID-909,Standard,65,Female,East,PRD-BEA-62,Perfume,Beauty,1,80,0.12,7.31,Credit Card,13,Delivered,3.6,25,70.4,38.09
+ORD-50174,2023-11-25 05:00:00,UID-982,Standard,64,Female,East,PRD-BEA-63,Makeup Set,Beauty,2,40,0.12,6.32,Credit Card,10,Delivered,3.5,12,70.4,40.08
+ORD-50175,2023-05-14 23:00:00,UID-690,Premium,54,Female,South,PRD-BEA-16,Moisturizer,Beauty,3,25,0.23,11.79,PayPal,7,Delivered,4.0,6,57.75,27.96
+ORD-50176,2023-04-03 15:00:00,UID-598,Occasional,51,Male,West,PRD-HOM-66,Vacuum Cleaner,Home & Garden,2,200,0.01,0.0,Crypto,8,Delivered,2.3,100,396.0,196.0
+ORD-50177,2023-03-08 08:00:00,UID-861,Premium,61,Female,East,PRD-TEC-27,Wireless Charger,Tech Accessories,3,35,0.21,19.59,PayPal,13,Delivered,3.4,15,82.95,18.36
+ORD-50178,2023-09-26 02:00:00,UID-555,Standard,70,Male,North,PRD-HOM-44,Indoor Plant,Home & Garden,3,25,0.12,14.47,Credit Card,9,Delivered,3.1,10,66.0,21.53
+ORD-50179,2023-04-06 20:00:00,UID-991,Standard,68,Male,North,PRD-BEA-17,Makeup Set,Beauty,2,40,0.1,13.34,Credit Card,5,Delivered,4.6,12,72.0,34.66
+ORD-50180,2023-03-03 20:00:00,UID-504,Standard,70,Female,South,PRD-TEC-60,Bluetooth Speaker,Tech Accessories,4,60,0.27,0.0,Credit Card,11,Delivered,2.9,30,175.2,55.2
+ORD-50181,2023-08-21 01:00:00,UID-922,Occasional,61,Male,East,PRD-HOM-19,Bed Sheets,Home & Garden,1,50,0.04,11.95,Credit Card,5,Delivered,4.0,20,48.0,16.05
+ORD-50182,2023-01-23 15:00:00,UID-632,Standard,35,Female,West,PRD-TEC-73,Bluetooth Speaker,Tech Accessories,3,60,0.1,0.0,PayPal,13,Delivered,3.0,30,162.0,72.0
+ORD-50183,2023-10-05 02:00:00,UID-687,Occasional,38,Female,East,PRD-BEA-56,Makeup Set,Beauty,2,40,0.0,5.39,PayPal,10,Returned,1.6,12,80.0,50.61
+ORD-50184,2023-08-17 21:00:00,UID-491,Standard,24,Female,East,PRD-BEA-62,Moisturizer,Beauty,3,25,0.14,22.13,Credit Card,3,Delivered,4.0,6,64.5,24.37
+ORD-50185,2023-11-18 12:00:00,UID-489,Standard,33,Male,North,PRD-BEA-58,Perfume,Beauty,3,80,0.13,0.0,Credit Card,8,Delivered,3.5,25,208.8,133.8
+ORD-50186,2023-06-08 20:00:00,UID-758,Standard,68,Female,East,PRD-TEC-33,Phone Case,Tech Accessories,2,20,0.15,6.36,Credit Card,12,Delivered,3.7,5,34.0,17.64
+ORD-50187,2023-12-16 01:00:00,UID-848,Standard,28,Female,East,PRD-HOM-81,Indoor Plant,Home & Garden,1,25,0.15,23.86,Credit Card,4,Returned,1.1,10,21.25,-12.61
+ORD-50188,2023-07-21 06:00:00,UID-593,Occasional,25,Male,South,PRD-SPO-35,Resistance Bands,Sports,2,15,0.09,9.19,Credit Card,10,Shipped,3.2,5,27.3,8.11
+ORD-50189,2023-06-06 04:00:00,UID-544,Occasional,57,Male,East,PRD-SPO-18,Dumbbells,Sports,3,40,0.0,0.0,Credit Card,3,Returned,1.9,20,120.0,60.0
+ORD-50190,2023-08-19 21:00:00,UID-515,Occasional,45,Female,South,PRD-TEC-44,Bluetooth Speaker,Tech Accessories,4,60,0.01,0.0,Credit Card,4,Delivered,3.6,30,237.6,117.6
+ORD-50191,2023-11-21 04:00:00,UID-255,Premium,57,Female,West,PRD-SPO-31,Resistance Bands,Sports,7,15,0.21,22.7,PayPal,12,Delivered,3.9,5,82.95,25.25
+ORD-50192,2023-12-01 06:00:00,UID-954,Standard,50,Female,North,PRD-SPO-38,Yoga Mat,Sports,3,25,0.14,23.23,Bank Transfer,11,Shipped,3.1,10,64.5,11.27
+ORD-50193,2023-07-30 03:00:00,UID-826,Standard,52,Male,North,PRD-BEA-87,Perfume,Beauty,2,80,0.06,0.0,Credit Card,9,Delivered,2.9,25,150.4,100.4
+ORD-50194,2023-06-28 09:00:00,UID-665,Occasional,64,Female,South,PRD-HOM-40,Table Lamp,Home & Garden,2,45,0.0,9.5,PayPal,9,Delivered,3.7,20,90.0,40.5
+ORD-50195,2023-03-08 04:00:00,UID-534,Premium,34,Female,North,PRD-BEA-65,Perfume,Beauty,3,80,0.15,0.0,PayPal,5,Delivered,4.1,25,204.0,129.0
+ORD-50196,2023-05-15 18:00:00,UID-356,Premium,19,Male,South,PRD-SPO-25,Treadmill,Sports,4,500,0.3,0.0,PayPal,2,Delivered,4.6,300,1400.0,200.0
+ORD-50197,2023-08-02 16:00:00,UID-138,Standard,66,Female,West,PRD-BEA-70,Makeup Set,Beauty,2,40,0.11,20.34,PayPal,13,Delivered,3.5,12,71.2,26.86
+ORD-50198,2023-06-21 13:00:00,UID-632,Standard,66,Male,East,PRD-BEA-75,Makeup Set,Beauty,4,40,0.05,0.0,Credit Card,11,Delivered,3.8,12,152.0,104.0
+ORD-50199,2023-08-01 04:00:00,UID-877,Premium,34,Female,North,PRD-TEC-47,Phone Case,Tech Accessories,5,20,0.14,9.69,Crypto,14,Returned,2.3,5,86.0,51.31
+ORD-50200,2023-03-15 14:00:00,UID-368,Standard,61,Female,North,PRD-SPO-37,Dumbbells,Sports,1,40,0.07,6.11,Credit Card,9,Delivered,3.0,20,37.2,11.09
+ORD-50201,2023-04-23 20:00:00,UID-979,Occasional,55,Male,North,PRD-HOM-67,Table Lamp,Home & Garden,4,45,0.0,0.0,Credit Card,14,Delivered,2.3,20,180.0,100.0
+ORD-50202,2023-12-17 18:00:00,UID-609,Premium,50,Female,West,PRD-HOM-84,Indoor Plant,Home & Garden,4,25,0.25,18.57,Credit Card,7,Delivered,3.8,10,75.0,16.43
+ORD-50203,2023-10-07 23:00:00,UID-510,Standard,24,Female,West,PRD-SPO-82,Resistance Bands,Sports,1,15,0.11,14.8,Crypto,7,Delivered,3.7,5,13.35,-6.45
+ORD-50204,2023-02-12 01:00:00,UID-508,Standard,25,Male,East,PRD-HOM-48,Bed Sheets,Home & Garden,4,50,0.12,0.0,Credit Card,14,Delivered,3.4,20,176.0,96.0
+ORD-50205,2023-08-01 00:00:00,UID-456,Occasional,65,Female,North,PRD-BEA-57,Face Serum,Beauty,4,30,0.07,0.0,Credit Card,2,Delivered,4.5,8,111.6,79.6
+ORD-50206,2023-04-07 20:00:00,UID-116,Standard,47,Male,South,PRD-TEC-14,Bluetooth Speaker,Tech Accessories,4,60,0.09,0.0,Credit Card,5,Delivered,4.6,30,218.4,98.4
+ORD-50207,2023-04-27 05:00:00,UID-816,Occasional,62,Female,North,PRD-HOM-61,Bed Sheets,Home & Garden,2,50,0.0,12.5,PayPal,13,Shipped,3.7,20,100.0,47.5
+ORD-50208,2023-10-19 02:00:00,UID-434,Occasional,21,Male,East,PRD-TEC-97,Wireless Charger,Tech Accessories,3,35,0.0,0.0,Credit Card,13,Shipped,3.2,15,105.0,60.0
+ORD-50209,2023-02-09 03:00:00,UID-299,Standard,46,Female,North,PRD-SPO-51,Yoga Mat,Sports,2,25,0.09,24.89,Credit Card,14,Delivered,2.2,10,45.5,0.61
+ORD-50210,2023-08-04 20:00:00,UID-265,Standard,26,Female,West,PRD-SPO-72,Resistance Bands,Sports,2,15,0.06,6.22,Credit Card,7,Delivered,4.2,5,28.2,11.98
+ORD-50211,2023-03-07 21:00:00,UID-574,Occasional,45,Female,North,PRD-TEC-33,Phone Case,Tech Accessories,1,20,0.07,6.28,Credit Card,7,Delivered,4.7,5,18.6,7.32
+ORD-50212,2023-03-04 16:00:00,UID-372,Standard,18,Female,West,PRD-HOM-25,Bed Sheets,Home & Garden,2,50,0.09,21.59,Crypto,12,Delivered,3.5,20,91.0,29.41
+ORD-50213,2023-07-27 02:00:00,UID-570,Occasional,58,Female,South,PRD-SPO-92,Treadmill,Sports,4,500,0.36,0.0,PayPal,5,Delivered,3.6,300,1280.0,80.0
+ORD-50214,2023-09-19 04:00:00,UID-405,Standard,28,Female,West,PRD-HOM-84,Indoor Plant,Home & Garden,4,25,0.13,16.73,Crypto,6,Delivered,4.8,10,87.0,30.27
+ORD-50215,2023-11-01 22:00:00,UID-820,Occasional,39,Male,East,PRD-SPO-53,Yoga Mat,Sports,3,25,0.07,24.52,Credit Card,9,Delivered,3.1,10,69.75,15.23
+ORD-50216,2023-06-18 12:00:00,UID-180,Standard,28,Female,West,PRD-SPO-57,Treadmill,Sports,1,500,0.14,0.0,Credit Card,12,Delivered,3.8,300,430.0,130.0
+ORD-50217,2023-10-12 00:00:00,UID-303,Occasional,53,Female,North,PRD-SPO-40,Yoga Mat,Sports,1,25,0.0,6.69,Credit Card,9,Delivered,3.2,10,25.0,8.31
+ORD-50218,2023-04-08 10:00:00,UID-749,Standard,68,Male,East,PRD-HOM-21,Indoor Plant,Home & Garden,2,25,0.09,8.2,Credit Card,7,Returned,2.1,10,45.5,17.3
+ORD-50219,2023-03-11 07:00:00,UID-435,Premium,24,Male,North,PRD-HOM-32,Bed Sheets,Home & Garden,2,50,0.1,7.43,PayPal,7,Delivered,4.6,20,90.0,42.57
+ORD-50220,2023-12-21 23:00:00,UID-396,Premium,26,Male,East,PRD-SPO-74,Treadmill,Sports,6,500,0.16,0.0,PayPal,9,Shipped,3.3,300,2520.0,720.0
+ORD-50221,2023-03-05 13:00:00,UID-757,Occasional,60,Male,West,PRD-HOM-68,Table Lamp,Home & Garden,3,45,0.0,0.0,Credit Card,12,Delivered,2.2,20,135.0,75.0
+ORD-50222,2023-04-02 00:00:00,UID-445,Standard,59,Male,East,PRD-HOM-99,Vacuum Cleaner,Home & Garden,4,200,0.06,0.0,Credit Card,12,Delivered,2.7,100,752.0,352.0
+ORD-50223,2023-06-25 01:00:00,UID-260,Occasional,28,Male,North,PRD-SPO-12,Dumbbells,Sports,2,40,0.02,16.97,PayPal,3,Delivered,4.3,20,78.4,21.43
+ORD-50224,2023-03-04 14:00:00,UID-185,Premium,19,Male,North,PRD-TEC-47,Bluetooth Speaker,Tech Accessories,4,60,0.19,0.0,Bank Transfer,13,Delivered,4.1,30,194.4,74.4
+ORD-50225,2023-02-11 03:00:00,UID-716,Standard,44,Male,South,PRD-BEA-31,Face Serum,Beauty,1,30,0.06,5.87,Credit Card,4,Delivered,4.8,8,28.2,14.33
+ORD-50226,2023-08-17 09:00:00,UID-913,Premium,42,Male,North,PRD-BEA-52,Moisturizer,Beauty,5,25,0.17,0.0,Credit Card,12,Delivered,3.2,6,103.75,73.75
+ORD-50227,2023-04-03 11:00:00,UID-681,Standard,52,Female,North,PRD-SPO-99,Yoga Mat,Sports,4,25,0.12,11.73,PayPal,10,Returned,2.1,10,88.0,36.27
+ORD-50228,2023-07-16 08:00:00,UID-473,Occasional,52,Male,South,PRD-BEA-22,Perfume,Beauty,4,80,0.0,0.0,PayPal,11,Delivered,2.1,25,320.0,220.0
+ORD-50229,2023-06-29 09:00:00,UID-292,Occasional,44,Female,South,PRD-HOM-98,Vacuum Cleaner,Home & Garden,4,200,0.34,0.0,PayPal,13,Returned,1.5,100,528.0,128.0
+ORD-50230,2023-02-02 18:00:00,UID-697,Standard,62,Female,South,PRD-HOM-13,Table Lamp,Home & Garden,4,45,0.11,0.0,Credit Card,14,Delivered,2.3,20,160.2,80.2
+ORD-50231,2023-08-26 18:00:00,UID-812,Premium,38,Male,West,PRD-HOM-36,Indoor Plant,Home & Garden,4,25,0.19,13.66,PayPal,11,Delivered,3.4,10,81.0,27.34
+ORD-50232,2023-03-19 16:00:00,UID-450,Standard,61,Male,South,PRD-BEA-56,Face Serum,Beauty,4,30,0.36,15.78,Bank Transfer,13,Delivered,3.3,8,76.8,29.02
+ORD-50233,2023-08-19 19:00:00,UID-348,Standard,62,Female,South,PRD-HOM-15,Indoor Plant,Home & Garden,4,25,0.13,21.71,Crypto,14,Returned,1.3,10,87.0,25.29
+ORD-50234,2023-05-20 06:00:00,UID-851,Standard,37,Male,East,PRD-TEC-26,Wireless Charger,Tech Accessories,1,35,0.08,16.49,Credit Card,6,Delivered,3.8,15,32.2,0.71
+ORD-50235,2023-01-07 04:00:00,UID-728,Standard,65,Female,South,PRD-TEC-66,Bluetooth Speaker,Tech Accessories,3,60,0.34,0.0,Credit Card,10,Delivered,4.0,30,118.8,28.8
+ORD-50236,2023-09-10 05:00:00,UID-917,Standard,39,Female,West,PRD-HOM-58,Vacuum Cleaner,Home & Garden,3,200,0.05,0.0,Credit Card,14,Returned,1.8,100,570.0,270.0
+ORD-50237,2023-01-23 04:00:00,UID-496,Premium,29,Male,West,PRD-TEC-41,Phone Case,Tech Accessories,6,20,0.24,17.11,PayPal,9,Delivered,3.5,5,91.2,44.09
+ORD-50238,2023-08-31 06:00:00,UID-753,Premium,46,Male,North,PRD-BEA-96,Moisturizer,Beauty,5,25,0.12,0.0,PayPal,8,Delivered,2.5,6,110.0,80.0
+ORD-50239,2023-06-07 23:00:00,UID-613,Standard,62,Male,East,PRD-HOM-29,Table Lamp,Home & Garden,4,45,0.1,0.0,Credit Card,9,Delivered,3.9,20,162.0,82.0
+ORD-50240,2023-06-19 06:00:00,UID-377,Standard,20,Female,West,PRD-TEC-10,Bluetooth Speaker,Tech Accessories,4,60,0.07,0.0,Credit Card,14,Delivered,2.8,30,223.2,103.2
+ORD-50241,2023-10-04 14:00:00,UID-703,Standard,18,Male,North,PRD-BEA-12,Perfume,Beauty,1,80,0.06,22.97,Credit Card,8,Delivered,2.5,25,75.2,27.23
+ORD-50242,2023-04-05 18:00:00,UID-507,Standard,41,Female,South,PRD-TEC-92,Smart Watch,Tech Accessories,3,150,0.09,0.0,PayPal,5,Delivered,4.1,75,409.5,184.5
+ORD-50243,2023-01-06 22:00:00,UID-422,Standard,65,Female,South,PRD-TEC-44,Smart Watch,Tech Accessories,1,150,0.13,0.0,Credit Card,5,Delivered,4.8,75,130.5,55.5
+ORD-50244,2023-04-10 15:00:00,UID-154,Occasional,35,Male,West,PRD-BEA-96,Moisturizer,Beauty,4,25,0.05,7.39,Credit Card,11,Delivered,3.8,6,95.0,63.61
+ORD-50245,2023-12-20 23:00:00,UID-287,Standard,41,Male,East,PRD-SPO-87,Resistance Bands,Sports,1,15,0.08,16.94,Credit Card,6,Delivered,4.5,5,13.8,-8.14
+ORD-50246,2023-06-20 09:00:00,UID-221,Occasional,51,Male,North,PRD-TEC-40,Phone Case,Tech Accessories,3,20,0.06,17.57,Crypto,3,Delivered,3.9,5,56.4,23.83
+ORD-50247,2023-06-10 05:00:00,UID-461,Standard,26,Female,South,PRD-HOM-52,Vacuum Cleaner,Home & Garden,4,200,0.37,0.0,Credit Card,10,Delivered,3.4,100,504.0,104.0
+ORD-50248,2023-04-19 16:00:00,UID-912,Occasional,58,Female,West,PRD-BEA-69,Face Serum,Beauty,4,30,0.04,0.0,Crypto,12,Delivered,3.5,8,115.2,83.2
+ORD-50249,2023-12-22 20:00:00,UID-668,Occasional,26,Female,North,PRD-HOM-52,Bed Sheets,Home & Garden,4,50,0.01,0.0,Credit Card,13,Delivered,3.0,20,198.0,118.0
+ORD-50250,2023-10-30 04:00:00,UID-916,Standard,46,Male,East,PRD-SPO-56,Treadmill,Sports,2,500,0.12,0.0,Crypto,11,Delivered,3.5,300,880.0,280.0
+ORD-50251,2023-07-10 09:00:00,UID-356,Occasional,41,Male,West,PRD-HOM-17,Vacuum Cleaner,Home & Garden,3,200,0.0,0.0,Credit Card,9,Delivered,3.5,100,600.0,300.0
+ORD-50252,2023-10-04 23:00:00,UID-963,Occasional,27,Male,North,PRD-SPO-34,Treadmill,Sports,2,500,0.08,0.0,PayPal,13,Delivered,4.0,300,920.0,320.0
+ORD-50253,2023-07-07 17:00:00,UID-964,Standard,66,Male,West,PRD-SPO-61,Resistance Bands,Sports,4,15,0.12,15.02,Credit Card,14,Delivered,3.1,5,52.8,17.78
+ORD-50254,2023-04-24 22:00:00,UID-565,Occasional,51,Female,East,PRD-TEC-88,Phone Case,Tech Accessories,3,20,0.09,15.69,Crypto,12,Delivered,2.4,5,54.6,23.91
+ORD-50255,2023-08-02 02:00:00,UID-114,Standard,27,Male,West,PRD-TEC-61,Phone Case,Tech Accessories,2,20,0.13,23.13,Credit Card,13,Shipped,2.9,5,34.8,1.67
+ORD-50256,2023-07-10 00:00:00,UID-780,Standard,36,Male,East,PRD-HOM-80,Table Lamp,Home & Garden,1,45,0.11,5.73,Bank Transfer,1,Delivered,4.2,20,40.05,14.32
+ORD-50257,2023-03-13 13:00:00,UID-863,Standard,42,Female,West,PRD-SPO-59,Yoga Mat,Sports,1,25,0.12,16.98,Crypto,9,Delivered,2.4,10,22.0,-4.98
+ORD-50258,2023-01-09 07:00:00,UID-546,Standard,61,Male,West,PRD-TEC-24,Bluetooth Speaker,Tech Accessories,3,60,0.13,0.0,Credit Card,11,Delivered,4.3,30,156.6,66.6
+ORD-50259,2023-05-23 15:00:00,UID-521,Standard,43,Female,West,PRD-SPO-99,Resistance Bands,Sports,4,15,0.08,19.14,Crypto,12,Shipped,3.0,5,55.2,16.06
+ORD-50260,2023-02-12 16:00:00,UID-113,Standard,49,Female,West,PRD-SPO-55,Resistance Bands,Sports,1,15,0.1,22.53,Bank Transfer,12,Delivered,3.2,5,13.5,-14.03
+ORD-50261,2023-11-06 22:00:00,UID-503,Standard,55,Male,West,PRD-HOM-39,Indoor Plant,Home & Garden,3,25,0.09,18.07,Crypto,10,Returned,1.4,10,68.25,20.18
+ORD-50262,2023-04-29 16:00:00,UID-813,Occasional,66,Female,North,PRD-TEC-27,Smart Watch,Tech Accessories,1,150,0.0,0.0,Crypto,13,Delivered,3.6,75,150.0,75.0
+ORD-50263,2023-03-11 00:00:00,UID-999,Standard,18,Female,West,PRD-TEC-54,Bluetooth Speaker,Tech Accessories,1,60,0.07,18.36,Bank Transfer,8,Shipped,3.2,30,55.8,7.44
+ORD-50264,2023-12-19 03:00:00,UID-893,Standard,53,Male,West,PRD-HOM-44,Vacuum Cleaner,Home & Garden,2,200,0.14,0.0,PayPal,7,Delivered,4.1,100,344.0,144.0
+ORD-50265,2023-02-03 02:00:00,UID-969,Standard,25,Male,North,PRD-HOM-19,Bed Sheets,Home & Garden,4,50,0.11,0.0,Credit Card,1,Delivered,3.5,20,178.0,98.0
+ORD-50266,2023-07-19 04:00:00,UID-510,Occasional,49,Female,South,PRD-BEA-89,Makeup Set,Beauty,3,40,0.01,0.0,Credit Card,8,Returned,1.9,12,118.8,82.8
+ORD-50267,2023-09-17 05:00:00,UID-449,Occasional,36,Male,East,PRD-SPO-31,Dumbbells,Sports,4,40,0.0,0.0,PayPal,10,Delivered,3.3,20,160.0,80.0
+ORD-50268,2023-02-02 09:00:00,UID-113,Standard,41,Male,East,PRD-BEA-23,Makeup Set,Beauty,2,40,0.06,17.05,PayPal,13,Delivered,3.3,12,75.2,34.15
+ORD-50269,2023-08-29 01:00:00,UID-528,Premium,63,Male,West,PRD-TEC-89,Phone Case,Tech Accessories,3,20,0.18,15.44,Credit Card,12,Shipped,2.7,5,49.2,18.76
+ORD-50270,2023-04-20 09:00:00,UID-473,Standard,29,Female,North,PRD-SPO-57,Treadmill,Sports,1,500,0.1,0.0,PayPal,3,Returned,1.9,300,450.0,150.0
+ORD-50271,2023-02-12 23:00:00,UID-446,Occasional,68,Female,West,PRD-SPO-71,Resistance Bands,Sports,4,15,0.0,5.42,Bank Transfer,6,Delivered,3.6,5,60.0,34.58
+ORD-50272,2023-07-17 07:00:00,UID-852,Standard,18,Female,South,PRD-SPO-38,Yoga Mat,Sports,4,25,0.37,17.36,Crypto,10,Delivered,3.0,10,63.0,5.64
+ORD-50273,2023-01-20 22:00:00,UID-412,Occasional,65,Female,West,PRD-BEA-44,Face Serum,Beauty,4,30,0.0,0.0,Credit Card,14,Delivered,3.3,8,120.0,88.0
+ORD-50274,2023-09-27 20:00:00,UID-664,Standard,43,Female,West,PRD-TEC-24,Phone Case,Tech Accessories,2,20,0.15,20.32,PayPal,13,Delivered,3.3,5,34.0,3.68
+ORD-50275,2023-05-12 14:00:00,UID-397,Standard,37,Female,East,PRD-HOM-75,Vacuum Cleaner,Home & Garden,1,200,0.12,0.0,Credit Card,8,Delivered,3.7,100,176.0,76.0
+ORD-50276,2023-02-10 11:00:00,UID-622,Standard,36,Female,East,PRD-SPO-36,Yoga Mat,Sports,1,25,0.06,10.63,PayPal,13,Delivered,3.0,10,23.5,2.87
+ORD-50277,2023-01-29 13:00:00,UID-636,Standard,29,Male,North,PRD-HOM-29,Indoor Plant,Home & Garden,4,25,0.14,6.52,Credit Card,12,Delivered,3.0,10,86.0,39.48
+ORD-50278,2023-04-11 13:00:00,UID-493,Premium,27,Male,West,PRD-TEC-16,Phone Case,Tech Accessories,5,20,0.22,11.29,PayPal,12,Delivered,3.5,5,78.0,41.71
+ORD-50279,2023-03-25 01:00:00,UID-895,Standard,63,Female,North,PRD-SPO-84,Yoga Mat,Sports,2,25,0.09,20.87,PayPal,3,Returned,2.5,10,45.5,4.63
+ORD-50280,2023-09-17 02:00:00,UID-319,Premium,23,Male,East,PRD-SPO-97,Yoga Mat,Sports,6,25,0.12,0.0,Credit Card,12,Shipped,2.6,10,132.0,72.0
+ORD-50281,2023-05-08 14:00:00,UID-884,Standard,24,Female,North,PRD-BEA-53,Perfume,Beauty,4,80,0.12,0.0,Credit Card,4,Delivered,3.7,25,281.6,181.6
+ORD-50282,2023-03-24 23:00:00,UID-319,Standard,25,Male,West,PRD-SPO-48,Treadmill,Sports,1,500,0.15,0.0,Crypto,11,Delivered,3.2,300,425.0,125.0
+ORD-50283,2023-10-21 23:00:00,UID-286,Standard,22,Male,East,PRD-TEC-40,Smart Watch,Tech Accessories,3,150,0.15,0.0,Credit Card,13,Delivered,2.7,75,382.5,157.5
+ORD-50284,2023-12-18 03:00:00,UID-200,Occasional,21,Male,East,PRD-HOM-35,Table Lamp,Home & Garden,3,45,0.0,0.0,PayPal,3,Delivered,4.8,20,135.0,75.0
+ORD-50285,2023-12-15 03:00:00,UID-483,Premium,18,Female,South,PRD-HOM-84,Bed Sheets,Home & Garden,5,50,0.25,0.0,Credit Card,2,Returned,1.2,20,187.5,87.5
+ORD-50286,2023-12-25 07:00:00,UID-242,Standard,66,Female,West,PRD-HOM-66,Table Lamp,Home & Garden,4,45,0.12,0.0,Credit Card,11,Delivered,2.3,20,158.4,78.4
+ORD-50287,2023-07-21 03:00:00,UID-227,Premium,54,Female,North,PRD-SPO-35,Dumbbells,Sports,6,40,0.13,0.0,Crypto,6,Delivered,4.1,20,208.8,88.8
+ORD-50288,2023-03-06 18:00:00,UID-336,Standard,59,Female,West,PRD-TEC-49,Phone Case,Tech Accessories,4,20,0.12,16.33,Credit Card,8,Delivered,2.9,5,70.4,34.07
+ORD-50289,2023-12-18 06:00:00,UID-183,Standard,27,Female,South,PRD-TEC-29,Bluetooth Speaker,Tech Accessories,2,60,0.4,6.88,Crypto,10,Returned,2.3,30,72.0,5.12
+ORD-50290,2023-01-23 03:00:00,UID-563,Standard,52,Male,East,PRD-SPO-27,Yoga Mat,Sports,3,25,0.09,15.51,Bank Transfer,10,Delivered,3.5,10,68.25,22.74
+ORD-50291,2023-08-25 13:00:00,UID-326,Standard,19,Male,North,PRD-SPO-93,Dumbbells,Sports,1,40,0.14,5.98,Credit Card,3,Delivered,4.0,20,34.4,8.42
+ORD-50292,2023-11-18 03:00:00,UID-911,Occasional,67,Female,East,PRD-TEC-55,Wireless Charger,Tech Accessories,3,35,0.01,0.0,PayPal,10,Delivered,3.5,15,103.95,58.95
+ORD-50293,2023-04-12 20:00:00,UID-162,Standard,22,Male,West,PRD-HOM-70,Vacuum Cleaner,Home & Garden,2,200,0.13,0.0,PayPal,10,Delivered,3.8,100,348.0,148.0
+ORD-50294,2023-05-09 20:00:00,UID-826,Occasional,56,Female,North,PRD-SPO-39,Yoga Mat,Sports,4,25,0.0,17.61,PayPal,8,Delivered,3.3,10,100.0,42.39
+ORD-50295,2023-03-17 22:00:00,UID-551,Standard,48,Female,North,PRD-BEA-35,Makeup Set,Beauty,4,40,0.07,0.0,Credit Card,13,Delivered,3.9,12,148.8,100.8
+ORD-50296,2023-11-30 01:00:00,UID-526,Occasional,20,Female,East,PRD-SPO-18,Treadmill,Sports,1,500,0.0,0.0,Crypto,14,Delivered,3.2,300,500.0,200.0
+ORD-50297,2023-10-27 17:00:00,UID-971,Premium,37,Male,West,PRD-TEC-56,Smart Watch,Tech Accessories,5,150,0.16,0.0,PayPal,14,Delivered,3.2,75,630.0,255.0
+ORD-50298,2023-04-30 01:00:00,UID-763,Standard,64,Female,South,PRD-SPO-90,Yoga Mat,Sports,1,25,0.09,5.68,Credit Card,1,Delivered,4.6,10,22.75,7.07
+ORD-50299,2023-10-19 22:00:00,UID-901,Premium,54,Male,South,PRD-HOM-57,Bed Sheets,Home & Garden,6,50,0.23,0.0,PayPal,14,Delivered,2.8,20,231.0,111.0
+ORD-50300,2023-07-16 19:00:00,UID-449,Standard,35,Female,West,PRD-SPO-95,Yoga Mat,Sports,2,25,0.07,18.99,Credit Card,9,Delivered,3.1,10,46.5,7.51
+ORD-50301,2023-02-02 17:00:00,UID-688,Premium,57,Male,West,PRD-SPO-16,Resistance Bands,Sports,7,15,0.22,18.75,PayPal,5,Delivered,4.9,5,81.9,28.15
+ORD-50302,2023-12-24 14:00:00,UID-591,Standard,58,Male,North,PRD-BEA-97,Perfume,Beauty,2,80,0.13,0.0,Credit Card,10,Returned,1.4,25,139.2,89.2
+ORD-50303,2023-10-26 12:00:00,UID-235,Occasional,58,Female,South,PRD-SPO-62,Resistance Bands,Sports,1,15,0.0,6.35,PayPal,1,Delivered,4.9,5,15.0,3.65
+ORD-50304,2023-01-14 22:00:00,UID-766,Standard,44,Male,East,PRD-BEA-54,Face Serum,Beauty,2,30,0.09,16.44,PayPal,8,Delivered,2.7,8,54.6,22.16
+ORD-50305,2023-04-03 20:00:00,UID-571,Standard,37,Female,West,PRD-HOM-19,Bed Sheets,Home & Garden,2,50,0.09,5.99,Credit Card,12,Delivered,3.0,20,91.0,45.01
+ORD-50306,2023-01-05 13:00:00,UID-508,Standard,59,Female,East,PRD-BEA-44,Makeup Set,Beauty,1,40,0.08,11.97,Credit Card,7,Delivered,4.4,12,36.8,12.83
+ORD-50307,2023-02-13 16:00:00,UID-316,Standard,54,Male,East,PRD-SPO-67,Yoga Mat,Sports,2,25,0.1,13.01,PayPal,14,Delivered,3.5,10,45.0,11.99
+ORD-50308,2023-07-26 23:00:00,UID-900,Standard,38,Male,South,PRD-SPO-76,Resistance Bands,Sports,4,15,0.1,21.54,Credit Card,11,Delivered,3.7,5,54.0,12.46
+ORD-50309,2023-08-31 00:00:00,UID-440,Standard,68,Male,North,PRD-BEA-83,Moisturizer,Beauty,4,25,0.07,19.99,Credit Card,2,Delivered,4.4,6,93.0,49.01
+ORD-50310,2023-06-20 20:00:00,UID-957,Occasional,49,Female,West,PRD-TEC-85,Bluetooth Speaker,Tech Accessories,2,60,0.0,0.0,Crypto,5,Returned,1.5,30,120.0,60.0
+ORD-50311,2023-10-12 20:00:00,UID-375,Premium,48,Female,North,PRD-BEA-67,Moisturizer,Beauty,6,25,0.15,0.0,Credit Card,3,Delivered,4.7,6,127.5,91.5
+ORD-50312,2023-02-07 11:00:00,UID-522,Occasional,34,Male,West,PRD-HOM-20,Vacuum Cleaner,Home & Garden,3,200,0.08,0.0,Credit Card,9,Returned,1.5,100,552.0,252.0
+ORD-50313,2023-11-01 16:00:00,UID-366,Occasional,44,Female,North,PRD-SPO-63,Dumbbells,Sports,3,40,0.0,0.0,Crypto,14,Delivered,2.6,20,120.0,60.0
+ORD-50314,2023-11-17 00:00:00,UID-396,Occasional,36,Male,East,PRD-HOM-31,Indoor Plant,Home & Garden,3,25,0.09,14.32,Credit Card,9,Delivered,2.8,10,68.25,23.93
+ORD-50315,2023-05-12 03:00:00,UID-581,Standard,46,Female,North,PRD-BEA-92,Perfume,Beauty,1,80,0.13,17.05,Credit Card,12,Delivered,3.7,25,69.6,27.55
+ORD-50316,2023-09-27 15:00:00,UID-770,Standard,46,Male,East,PRD-BEA-98,Perfume,Beauty,3,80,0.08,0.0,Credit Card,14,Delivered,2.9,25,220.8,145.8
+ORD-50317,2023-04-05 01:00:00,UID-727,Standard,58,Female,North,PRD-TEC-86,Smart Watch,Tech Accessories,3,150,0.08,0.0,PayPal,4,Delivered,4.0,75,414.0,189.0
+ORD-50318,2023-02-16 08:00:00,UID-272,Premium,68,Male,North,PRD-TEC-11,Bluetooth Speaker,Tech Accessories,5,60,0.23,0.0,Bank Transfer,12,Delivered,3.4,30,231.0,81.0
+ORD-50319,2023-05-17 23:00:00,UID-341,Premium,43,Male,East,PRD-BEA-29,Moisturizer,Beauty,3,25,0.12,19.04,Bank Transfer,14,Delivered,2.4,6,66.0,28.96
+ORD-50320,2023-07-05 16:00:00,UID-690,Premium,55,Female,South,PRD-HOM-94,Table Lamp,Home & Garden,3,45,0.36,15.67,PayPal,9,Delivered,3.0,20,86.4,10.73
+ORD-50321,2023-05-16 02:00:00,UID-910,Standard,32,Female,West,PRD-TEC-46,Smart Watch,Tech Accessories,4,150,0.09,0.0,Credit Card,8,Returned,2.4,75,546.0,246.0
+ORD-50322,2023-05-08 03:00:00,UID-798,Occasional,55,Male,North,PRD-SPO-41,Resistance Bands,Sports,4,15,0.0,20.28,PayPal,6,Delivered,3.5,5,60.0,19.72
+ORD-50323,2023-10-01 09:00:00,UID-781,Occasional,41,Female,South,PRD-HOM-29,Vacuum Cleaner,Home & Garden,2,200,0.06,0.0,Bank Transfer,7,Delivered,4.8,100,376.0,176.0
+ORD-50324,2023-02-22 21:00:00,UID-160,Standard,31,Female,North,PRD-TEC-70,Phone Case,Tech Accessories,1,20,0.14,23.53,PayPal,4,Delivered,4.5,5,17.2,-11.33
+ORD-50325,2023-01-03 16:00:00,UID-986,Standard,67,Male,West,PRD-SPO-97,Dumbbells,Sports,3,40,0.06,0.0,Credit Card,9,Delivered,4.2,20,112.8,52.8
+ORD-50326,2023-09-06 18:00:00,UID-293,Occasional,70,Male,North,PRD-BEA-42,Face Serum,Beauty,1,30,0.06,17.4,Credit Card,8,Delivered,4.0,8,28.2,2.8
+ORD-50327,2023-01-08 14:00:00,UID-464,Premium,61,Male,North,PRD-BEA-80,Moisturizer,Beauty,4,25,0.15,13.37,Credit Card,8,Delivered,3.3,6,85.0,47.63
+ORD-50328,2023-12-22 09:00:00,UID-864,Standard,66,Female,South,PRD-SPO-10,Yoga Mat,Sports,3,25,0.38,11.17,Credit Card,1,Delivered,4.1,10,46.5,5.33
+ORD-50329,2023-01-28 05:00:00,UID-626,Standard,66,Female,East,PRD-BEA-43,Face Serum,Beauty,1,30,0.1,19.05,Credit Card,4,Delivered,4.8,8,27.0,-0.05
+ORD-50330,2023-07-27 20:00:00,UID-737,Premium,51,Female,North,PRD-HOM-59,Bed Sheets,Home & Garden,5,50,0.22,0.0,Credit Card,7,Delivered,3.6,20,195.0,95.0
+ORD-50331,2023-04-02 01:00:00,UID-618,Standard,55,Female,East,PRD-HOM-72,Table Lamp,Home & Garden,2,45,0.14,19.94,Crypto,2,Delivered,3.7,20,77.4,17.46
+ORD-50332,2023-04-03 09:00:00,UID-606,Standard,43,Female,East,PRD-TEC-25,Smart Watch,Tech Accessories,3,150,0.13,0.0,Credit Card,2,Delivered,4.0,75,391.5,166.5
+ORD-50333,2023-04-07 18:00:00,UID-563,Premium,59,Female,North,PRD-SPO-98,Resistance Bands,Sports,3,15,0.2,10.86,Credit Card,4,Delivered,3.7,5,36.0,10.14
+ORD-50334,2023-12-08 19:00:00,UID-764,Premium,49,Female,South,PRD-HOM-14,Indoor Plant,Home & Garden,4,25,0.28,6.72,PayPal,11,Delivered,3.1,10,72.0,25.28
+ORD-50335,2023-02-24 23:00:00,UID-412,Standard,47,Male,East,PRD-HOM-55,Indoor Plant,Home & Garden,3,25,0.1,24.23,Credit Card,11,Delivered,3.7,10,67.5,13.27
+ORD-50336,2023-10-06 21:00:00,UID-590,Occasional,26,Female,North,PRD-BEA-37,Perfume,Beauty,1,80,0.04,7.7,Credit Card,7,Delivered,4.9,25,76.8,44.1
+ORD-50337,2023-05-22 06:00:00,UID-235,Occasional,48,Male,South,PRD-HOM-18,Vacuum Cleaner,Home & Garden,3,200,0.31,0.0,Crypto,4,Delivered,4.6,100,414.0,114.0
+ORD-50338,2023-03-16 18:00:00,UID-487,Standard,45,Female,East,PRD-HOM-77,Indoor Plant,Home & Garden,3,25,0.08,22.09,Crypto,8,Delivered,4.4,10,69.0,16.91
+ORD-50339,2023-03-03 14:00:00,UID-640,Standard,44,Female,West,PRD-HOM-66,Vacuum Cleaner,Home & Garden,3,200,0.12,0.0,Credit Card,10,Delivered,3.2,100,528.0,228.0
+ORD-50340,2023-10-10 01:00:00,UID-592,Standard,63,Female,West,PRD-HOM-18,Table Lamp,Home & Garden,3,45,0.09,0.0,PayPal,9,Delivered,3.2,20,122.85,62.85
+ORD-50341,2023-10-27 17:00:00,UID-478,Standard,32,Female,South,PRD-SPO-34,Resistance Bands,Sports,1,15,0.34,18.12,Credit Card,8,Delivered,3.3,5,9.9,-13.22
+ORD-50342,2023-02-20 19:00:00,UID-459,Standard,49,Male,North,PRD-SPO-93,Dumbbells,Sports,1,40,0.11,13.85,Credit Card,5,Shipped,3.7,20,35.6,1.75
+ORD-50343,2023-03-18 10:00:00,UID-575,Standard,42,Male,South,PRD-BEA-47,Moisturizer,Beauty,2,25,0.3,22.17,Credit Card,4,Delivered,4.8,6,35.0,0.83
+ORD-50344,2023-10-09 10:00:00,UID-882,Standard,68,Female,West,PRD-TEC-27,Bluetooth Speaker,Tech Accessories,1,60,0.14,16.54,PayPal,6,Shipped,3.8,30,51.6,5.06
+ORD-50345,2023-11-12 09:00:00,UID-732,Premium,69,Male,North,PRD-SPO-68,Dumbbells,Sports,5,40,0.24,0.0,Credit Card,13,Delivered,4.2,20,152.0,52.0
+ORD-50346,2023-08-01 16:00:00,UID-664,Occasional,29,Female,West,PRD-TEC-33,Wireless Charger,Tech Accessories,2,35,0.0,14.24,Credit Card,14,Delivered,3.7,15,70.0,25.76
+ORD-50347,2023-06-10 15:00:00,UID-600,Standard,19,Female,North,PRD-TEC-48,Bluetooth Speaker,Tech Accessories,1,60,0.11,14.56,Credit Card,1,Delivered,4.9,30,53.4,8.84
+ORD-50348,2023-09-16 01:00:00,UID-221,Standard,27,Male,West,PRD-HOM-76,Table Lamp,Home & Garden,1,45,0.05,5.76,Bank Transfer,11,Delivered,2.9,20,42.75,16.99
+ORD-50349,2023-05-30 14:00:00,UID-895,Occasional,39,Male,North,PRD-TEC-58,Phone Case,Tech Accessories,1,20,0.0,5.44,Credit Card,2,Delivered,3.6,5,20.0,9.56
+ORD-50350,2023-05-31 23:00:00,UID-897,Standard,28,Male,South,PRD-TEC-92,Bluetooth Speaker,Tech Accessories,1,60,0.29,17.84,Credit Card,8,Delivered,2.6,30,42.6,-5.24
+ORD-50351,2023-07-14 07:00:00,UID-803,Premium,46,Female,East,PRD-SPO-67,Resistance Bands,Sports,3,15,0.21,5.52,Bank Transfer,1,Delivered,3.6,5,35.55,15.03
+ORD-50352,2023-03-01 16:00:00,UID-574,Occasional,41,Female,East,PRD-HOM-49,Vacuum Cleaner,Home & Garden,1,200,0.0,0.0,PayPal,12,Delivered,3.3,100,200.0,100.0
+ORD-50353,2023-11-19 20:00:00,UID-884,Premium,29,Female,North,PRD-HOM-99,Indoor Plant,Home & Garden,5,25,0.24,8.52,Credit Card,2,Delivered,3.9,10,95.0,36.48
+ORD-50354,2023-09-08 04:00:00,UID-933,Occasional,24,Female,East,PRD-TEC-14,Smart Watch,Tech Accessories,2,150,0.04,0.0,Bank Transfer,8,Returned,1.9,75,288.0,138.0
+ORD-50355,2023-02-24 22:00:00,UID-297,Standard,32,Male,North,PRD-SPO-11,Resistance Bands,Sports,1,15,0.15,16.15,Crypto,6,Delivered,4.8,5,12.75,-8.4
+ORD-50356,2023-06-09 09:00:00,UID-458,Standard,51,Female,West,PRD-SPO-90,Dumbbells,Sports,3,40,0.12,0.0,Credit Card,10,Returned,2.0,20,105.6,45.6
+ORD-50357,2023-04-16 05:00:00,UID-581,Standard,48,Female,East,PRD-SPO-96,Treadmill,Sports,1,500,0.12,0.0,PayPal,4,Delivered,3.6,300,440.0,140.0
+ORD-50358,2023-09-20 05:00:00,UID-174,Standard,34,Male,East,PRD-SPO-24,Resistance Bands,Sports,1,15,0.13,22.92,Credit Card,9,Delivered,3.4,5,13.05,-14.87
+ORD-50359,2023-03-13 14:00:00,UID-948,Standard,56,Female,South,PRD-TEC-89,Wireless Charger,Tech Accessories,4,35,0.26,0.0,Credit Card,6,Delivered,4.8,15,103.6,43.6
+ORD-50360,2023-03-04 07:00:00,UID-253,Occasional,42,Female,East,PRD-TEC-68,Phone Case,Tech Accessories,2,20,0.02,19.29,Bank Transfer,1,Delivered,4.5,5,39.2,9.91
+ORD-50361,2023-01-14 04:00:00,UID-764,Occasional,26,Female,South,PRD-BEA-54,Face Serum,Beauty,3,30,0.37,14.14,Crypto,6,Delivered,3.6,8,56.7,18.56
+ORD-50362,2023-02-07 09:00:00,UID-948,Standard,28,Female,North,PRD-BEA-41,Face Serum,Beauty,3,30,0.07,21.2,PayPal,12,Shipped,2.2,8,83.7,38.5
+ORD-50363,2023-01-01 18:00:00,UID-780,Standard,31,Female,West,PRD-TEC-13,Smart Watch,Tech Accessories,3,150,0.09,0.0,Bank Transfer,5,Delivered,4.7,75,409.5,184.5
+ORD-50364,2023-10-12 06:00:00,UID-528,Standard,63,Female,West,PRD-SPO-18,Treadmill,Sports,3,500,0.14,0.0,PayPal,8,Returned,1.0,300,1290.0,390.0
+ORD-50365,2023-12-01 11:00:00,UID-253,Occasional,55,Male,North,PRD-SPO-70,Treadmill,Sports,2,500,0.06,0.0,Credit Card,4,Delivered,3.8,300,940.0,340.0
+ORD-50366,2023-08-12 11:00:00,UID-279,Occasional,65,Female,North,PRD-TEC-98,Phone Case,Tech Accessories,2,20,0.0,18.83,PayPal,1,Delivered,4.8,5,40.0,11.17
+ORD-50367,2023-12-19 09:00:00,UID-922,Standard,64,Male,East,PRD-HOM-42,Vacuum Cleaner,Home & Garden,4,200,0.13,0.0,PayPal,12,Delivered,2.8,100,696.0,296.0
+ORD-50368,2023-03-05 23:00:00,UID-709,Occasional,66,Male,South,PRD-HOM-86,Table Lamp,Home & Garden,3,45,0.08,0.0,Credit Card,2,Delivered,3.7,20,124.2,64.2
+ORD-50369,2023-12-15 16:00:00,UID-475,Standard,41,Male,South,PRD-HOM-59,Indoor Plant,Home & Garden,1,25,0.11,17.32,PayPal,3,Delivered,4.3,10,22.25,-5.07
+ORD-50370,2023-11-28 14:00:00,UID-682,Occasional,55,Female,East,PRD-BEA-25,Perfume,Beauty,4,80,0.0,0.0,Credit Card,1,Delivered,4.7,25,320.0,220.0
+ORD-50371,2023-06-01 09:00:00,UID-292,Premium,26,Male,North,PRD-BEA-56,Perfume,Beauty,6,80,0.19,0.0,Bank Transfer,1,Shipped,4.4,25,388.8,238.8
+ORD-50372,2023-07-03 06:00:00,UID-445,Occasional,31,Female,South,PRD-TEC-81,Smart Watch,Tech Accessories,3,150,0.33,0.0,Credit Card,12,Delivered,2.4,75,301.5,76.5
+ORD-50373,2023-07-04 11:00:00,UID-854,Occasional,68,Female,North,PRD-HOM-56,Table Lamp,Home & Garden,2,45,0.08,5.89,Crypto,12,Returned,1.1,20,82.8,36.91
+ORD-50374,2023-04-10 14:00:00,UID-614,Standard,50,Male,East,PRD-TEC-60,Smart Watch,Tech Accessories,3,150,0.13,0.0,Bank Transfer,6,Delivered,3.6,75,391.5,166.5
+ORD-50375,2023-09-07 06:00:00,UID-238,Occasional,54,Male,South,PRD-BEA-94,Makeup Set,Beauty,2,40,0.36,9.55,Credit Card,7,Delivered,4.0,12,51.2,17.65
+ORD-50376,2023-10-08 20:00:00,UID-175,Occasional,62,Male,South,PRD-HOM-38,Vacuum Cleaner,Home & Garden,1,200,0.37,0.0,Credit Card,9,Delivered,3.2,100,126.0,26.0
+ORD-50377,2023-12-01 17:00:00,UID-523,Standard,34,Female,South,PRD-HOM-49,Vacuum Cleaner,Home & Garden,2,200,0.25,0.0,Crypto,10,Delivered,3.6,100,300.0,100.0
+ORD-50378,2023-07-07 02:00:00,UID-959,Standard,59,Female,South,PRD-SPO-43,Yoga Mat,Sports,3,25,0.36,21.69,Credit Card,4,Delivered,3.6,10,48.0,-3.69
+ORD-50379,2023-07-15 11:00:00,UID-355,Premium,49,Male,East,PRD-TEC-68,Wireless Charger,Tech Accessories,5,35,0.18,0.0,PayPal,5,Returned,1.7,15,143.5,68.5
+ORD-50380,2023-04-08 08:00:00,UID-941,Premium,24,Female,West,PRD-BEA-94,Face Serum,Beauty,5,30,0.11,0.0,Credit Card,8,Delivered,2.8,8,133.5,93.5
+ORD-50381,2023-12-13 20:00:00,UID-717,Standard,18,Male,North,PRD-SPO-53,Resistance Bands,Sports,1,15,0.14,24.12,Crypto,6,Delivered,3.7,5,12.9,-16.22
+ORD-50382,2023-03-23 14:00:00,UID-124,Standard,22,Male,East,PRD-TEC-55,Phone Case,Tech Accessories,3,20,0.12,12.38,Credit Card,4,Delivered,3.6,5,52.8,25.42
+ORD-50383,2023-06-10 19:00:00,UID-285,Standard,21,Female,West,PRD-HOM-77,Vacuum Cleaner,Home & Garden,1,200,0.05,0.0,Credit Card,9,Delivered,2.5,100,190.0,90.0
+ORD-50384,2023-02-14 22:00:00,UID-102,Premium,58,Male,North,PRD-BEA-58,Perfume,Beauty,5,80,0.22,0.0,PayPal,6,Delivered,3.8,25,312.0,187.0
+ORD-50385,2023-09-09 06:00:00,UID-312,Standard,39,Male,West,PRD-TEC-89,Smart Watch,Tech Accessories,3,150,0.07,0.0,PayPal,8,Delivered,2.5,75,418.5,193.5
+ORD-50386,2023-08-28 10:00:00,UID-721,Occasional,33,Male,West,PRD-BEA-63,Perfume,Beauty,2,80,0.02,0.0,Credit Card,5,Delivered,4.7,25,156.8,106.8
+ORD-50387,2023-07-01 16:00:00,UID-406,Occasional,20,Female,South,PRD-SPO-14,Treadmill,Sports,1,500,0.03,0.0,Credit Card,5,Delivered,3.7,300,485.0,185.0
+ORD-50388,2023-08-22 01:00:00,UID-784,Occasional,68,Male,North,PRD-TEC-72,Bluetooth Speaker,Tech Accessories,4,60,0.0,0.0,Credit Card,3,Delivered,4.4,30,240.0,120.0
+ORD-50389,2023-12-20 23:00:00,UID-428,Standard,66,Female,East,PRD-SPO-88,Treadmill,Sports,3,500,0.06,0.0,Credit Card,11,Shipped,3.5,300,1410.0,510.0
+ORD-50390,2023-06-18 21:00:00,UID-393,Standard,24,Male,North,PRD-SPO-32,Treadmill,Sports,2,500,0.13,0.0,Crypto,11,Delivered,4.0,300,870.0,270.0
+ORD-50391,2023-11-02 00:00:00,UID-954,Occasional,55,Female,West,PRD-SPO-80,Dumbbells,Sports,1,40,0.05,20.64,Credit Card,5,Delivered,4.4,20,38.0,-2.64
+ORD-50392,2023-04-24 18:00:00,UID-141,Occasional,25,Female,East,PRD-TEC-41,Wireless Charger,Tech Accessories,3,35,0.05,23.3,PayPal,8,Returned,1.1,15,99.75,31.45
+ORD-50393,2023-12-11 19:00:00,UID-812,Premium,65,Female,North,PRD-BEA-56,Makeup Set,Beauty,2,40,0.22,18.11,Credit Card,6,Delivered,4.3,12,62.4,20.29
+ORD-50394,2023-10-21 10:00:00,UID-549,Standard,55,Female,West,PRD-HOM-20,Bed Sheets,Home & Garden,2,50,0.14,22.45,Credit Card,9,Delivered,3.4,20,86.0,23.55
+ORD-50395,2023-03-09 19:00:00,UID-658,Standard,44,Female,South,PRD-HOM-53,Indoor Plant,Home & Garden,3,25,0.26,20.71,Credit Card,11,Delivered,2.9,10,55.5,4.79
+ORD-50396,2023-09-23 16:00:00,UID-133,Standard,31,Female,South,PRD-HOM-52,Table Lamp,Home & Garden,3,45,0.38,19.93,Credit Card,7,Delivered,4.5,20,83.7,3.77
+ORD-50397,2023-01-26 10:00:00,UID-426,Occasional,62,Male,East,PRD-HOM-19,Indoor Plant,Home & Garden,1,25,0.0,7.95,PayPal,3,Delivered,4.2,10,25.0,7.05
+ORD-50398,2023-10-16 10:00:00,UID-227,Standard,25,Male,North,PRD-HOM-83,Bed Sheets,Home & Garden,4,50,0.15,0.0,Credit Card,12,Delivered,3.2,20,170.0,90.0
+ORD-50399,2023-08-04 03:00:00,UID-465,Standard,53,Male,East,PRD-SPO-61,Yoga Mat,Sports,2,25,0.12,7.6,PayPal,3,Delivered,4.6,10,44.0,16.4
+ORD-50400,2023-11-22 03:00:00,UID-304,Occasional,40,Male,South,PRD-BEA-81,Makeup Set,Beauty,1,40,0.35,11.49,PayPal,1,Delivered,4.1,12,26.0,2.51
+ORD-50401,2023-05-08 02:00:00,UID-881,Standard,51,Male,South,PRD-BEA-32,Face Serum,Beauty,3,30,0.11,12.23,PayPal,7,Delivered,4.8,8,80.1,43.87
+ORD-50402,2023-02-19 10:00:00,UID-190,Standard,60,Male,North,PRD-SPO-40,Treadmill,Sports,4,500,0.1,0.0,Credit Card,2,Shipped,3.6,300,1800.0,600.0
+ORD-50403,2023-08-24 10:00:00,UID-483,Standard,46,Male,West,PRD-TEC-88,Bluetooth Speaker,Tech Accessories,4,60,0.12,0.0,Credit Card,8,Delivered,2.8,30,211.2,91.2
+ORD-50404,2023-11-01 08:00:00,UID-681,Occasional,70,Male,West,PRD-HOM-66,Vacuum Cleaner,Home & Garden,4,200,0.01,0.0,Crypto,11,Delivered,3.1,100,792.0,392.0
+ORD-50405,2023-08-15 01:00:00,UID-214,Standard,61,Female,North,PRD-BEA-14,Face Serum,Beauty,3,30,0.09,20.87,Credit Card,5,Delivered,3.6,8,81.9,37.03
+ORD-50406,2023-05-24 07:00:00,UID-575,Standard,59,Male,East,PRD-HOM-97,Table Lamp,Home & Garden,3,45,0.14,0.0,PayPal,8,Delivered,3.0,20,116.1,56.1
+ORD-50407,2023-01-25 05:00:00,UID-758,Standard,36,Male,West,PRD-BEA-54,Face Serum,Beauty,4,30,0.07,0.0,Credit Card,8,Delivered,4.0,8,111.6,79.6
+ORD-50408,2023-12-08 15:00:00,UID-971,Standard,51,Male,North,PRD-HOM-52,Bed Sheets,Home & Garden,3,50,0.06,0.0,Credit Card,5,Delivered,4.5,20,141.0,81.0
+ORD-50409,2023-10-05 09:00:00,UID-754,Premium,48,Male,North,PRD-TEC-88,Phone Case,Tech Accessories,4,20,0.15,20.35,Credit Card,3,Delivered,3.5,5,68.0,27.65
+ORD-50410,2023-03-17 15:00:00,UID-855,Standard,33,Female,West,PRD-BEA-48,Moisturizer,Beauty,2,25,0.06,8.83,Bank Transfer,6,Delivered,3.5,6,47.0,26.17
+ORD-50411,2023-05-25 17:00:00,UID-251,Standard,70,Male,North,PRD-BEA-79,Face Serum,Beauty,4,30,0.07,0.0,Credit Card,6,Shipped,3.9,8,111.6,79.6
+ORD-50412,2023-07-15 09:00:00,UID-175,Premium,56,Female,South,PRD-SPO-99,Dumbbells,Sports,4,40,0.1,0.0,PayPal,7,Delivered,3.9,20,144.0,64.0
+ORD-50413,2023-01-02 22:00:00,UID-779,Standard,65,Female,West,PRD-HOM-38,Indoor Plant,Home & Garden,4,25,0.07,5.14,Credit Card,8,Delivered,2.8,10,93.0,47.86
+ORD-50414,2023-12-23 05:00:00,UID-171,Occasional,70,Female,West,PRD-HOM-42,Table Lamp,Home & Garden,1,45,0.0,24.46,Crypto,6,Delivered,3.9,20,45.0,0.54
+ORD-50415,2023-07-09 13:00:00,UID-202,Standard,21,Male,South,PRD-HOM-93,Bed Sheets,Home & Garden,4,50,0.39,0.0,Credit Card,9,Delivered,4.2,20,122.0,42.0
+ORD-50416,2023-10-29 07:00:00,UID-165,Standard,62,Male,South,PRD-TEC-52,Phone Case,Tech Accessories,1,20,0.05,6.07,Credit Card,11,Delivered,4.1,5,19.0,7.93
+ORD-50417,2023-09-29 07:00:00,UID-930,Occasional,47,Female,East,PRD-HOM-46,Indoor Plant,Home & Garden,4,25,0.03,12.38,PayPal,8,Delivered,2.9,10,97.0,44.62
+ORD-50418,2023-02-10 12:00:00,UID-318,Standard,26,Male,North,PRD-BEA-54,Perfume,Beauty,4,80,0.09,0.0,PayPal,9,Delivered,2.5,25,291.2,191.2
+ORD-50419,2023-04-18 16:00:00,UID-535,Premium,63,Male,East,PRD-BEA-98,Face Serum,Beauty,6,30,0.15,0.0,Bank Transfer,5,Delivered,3.9,8,153.0,105.0
+ORD-50420,2023-10-25 04:00:00,UID-731,Premium,21,Male,North,PRD-SPO-47,Yoga Mat,Sports,4,25,0.18,6.32,Bank Transfer,5,Delivered,3.7,10,82.0,35.68
+ORD-50421,2023-07-23 02:00:00,UID-883,Standard,21,Female,South,PRD-HOM-34,Indoor Plant,Home & Garden,3,25,0.34,5.14,PayPal,6,Delivered,4.9,10,49.5,14.36
+ORD-50422,2023-12-21 01:00:00,UID-398,Occasional,20,Female,South,PRD-HOM-81,Table Lamp,Home & Garden,4,45,0.37,0.0,Credit Card,10,Delivered,3.1,20,113.4,33.4
+ORD-50423,2023-08-25 10:00:00,UID-979,Occasional,59,Female,North,PRD-SPO-81,Dumbbells,Sports,1,40,0.0,24.03,Credit Card,9,Delivered,2.1,20,40.0,-4.03
+ORD-50424,2023-05-28 04:00:00,UID-581,Premium,55,Female,East,PRD-TEC-46,Bluetooth Speaker,Tech Accessories,2,60,0.24,23.75,PayPal,10,Delivered,2.6,30,91.2,7.45
+ORD-50425,2023-05-17 11:00:00,UID-374,Standard,52,Male,North,PRD-BEA-38,Moisturizer,Beauty,4,25,0.11,5.34,PayPal,3,Delivered,4.9,6,89.0,59.66
+ORD-50426,2023-05-14 18:00:00,UID-527,Standard,42,Male,North,PRD-BEA-17,Moisturizer,Beauty,1,25,0.08,10.86,Crypto,12,Delivered,3.8,6,23.0,6.14
+ORD-50427,2023-01-15 05:00:00,UID-584,Occasional,42,Female,South,PRD-BEA-77,Makeup Set,Beauty,2,40,0.34,24.26,PayPal,6,Delivered,3.8,12,52.8,4.54
+ORD-50428,2023-07-16 21:00:00,UID-897,Standard,54,Male,North,PRD-BEA-27,Perfume,Beauty,1,80,0.15,21.39,PayPal,8,Delivered,3.5,25,68.0,21.61
+ORD-50429,2023-04-15 12:00:00,UID-384,Standard,56,Male,South,PRD-SPO-13,Yoga Mat,Sports,3,25,0.27,9.51,Credit Card,14,Returned,1.8,10,54.75,15.24
+ORD-50430,2023-01-03 03:00:00,UID-541,Occasional,25,Male,North,PRD-SPO-67,Treadmill,Sports,3,500,0.02,0.0,PayPal,11,Delivered,3.6,300,1470.0,570.0
+ORD-50431,2023-04-23 13:00:00,UID-116,Occasional,49,Male,South,PRD-SPO-30,Yoga Mat,Sports,2,25,0.06,21.37,Crypto,5,Delivered,5.0,10,47.0,5.63
+ORD-50432,2023-08-09 12:00:00,UID-772,Premium,48,Male,North,PRD-TEC-37,Bluetooth Speaker,Tech Accessories,4,60,0.1,0.0,Credit Card,13,Delivered,3.4,30,216.0,96.0
+ORD-50433,2023-01-13 15:00:00,UID-354,Standard,38,Male,North,PRD-SPO-81,Treadmill,Sports,1,500,0.07,0.0,PayPal,10,Delivered,3.2,300,465.0,165.0
+ORD-50434,2023-01-22 08:00:00,UID-172,Premium,18,Male,North,PRD-BEA-77,Perfume,Beauty,4,80,0.19,0.0,Credit Card,14,Delivered,2.7,25,259.2,159.2
+ORD-50435,2023-09-05 04:00:00,UID-612,Standard,49,Female,South,PRD-BEA-42,Perfume,Beauty,4,80,0.1,0.0,Credit Card,13,Delivered,3.0,25,288.0,188.0
+ORD-50436,2023-01-03 18:00:00,UID-418,Standard,25,Female,North,PRD-BEA-73,Moisturizer,Beauty,4,25,0.07,18.54,Bank Transfer,6,Delivered,3.8,6,93.0,50.46
+ORD-50437,2023-07-28 04:00:00,UID-936,Occasional,51,Male,North,PRD-HOM-56,Indoor Plant,Home & Garden,4,25,0.0,14.66,Credit Card,7,Delivered,4.5,10,100.0,45.34
+ORD-50438,2023-04-23 17:00:00,UID-739,Premium,36,Female,East,PRD-HOM-46,Table Lamp,Home & Garden,4,45,0.23,0.0,Crypto,9,Returned,1.5,20,138.6,58.6
+ORD-50439,2023-12-25 22:00:00,UID-745,Standard,54,Male,East,PRD-HOM-13,Table Lamp,Home & Garden,4,45,0.11,0.0,Credit Card,2,Delivered,3.8,20,160.2,80.2
+ORD-50440,2023-09-11 22:00:00,UID-299,Occasional,39,Female,North,PRD-BEA-32,Moisturizer,Beauty,1,25,0.01,21.32,Crypto,12,Delivered,2.1,6,24.75,-2.57
+ORD-50441,2023-11-09 21:00:00,UID-862,Standard,31,Female,East,PRD-SPO-76,Yoga Mat,Sports,3,25,0.15,6.37,Bank Transfer,13,Delivered,3.5,10,63.75,27.38
+ORD-50442,2023-09-16 01:00:00,UID-867,Standard,61,Male,East,PRD-BEA-22,Perfume,Beauty,3,80,0.07,0.0,PayPal,12,Delivered,2.6,25,223.2,148.2
+ORD-50443,2023-02-24 03:00:00,UID-780,Occasional,27,Female,West,PRD-TEC-81,Phone Case,Tech Accessories,2,20,0.0,8.15,Credit Card,9,Delivered,2.4,5,40.0,21.85
+ORD-50444,2023-11-15 17:00:00,UID-850,Occasional,34,Male,South,PRD-SPO-64,Treadmill,Sports,2,500,0.07,0.0,Credit Card,13,Delivered,3.7,300,930.0,330.0
+ORD-50445,2023-01-21 09:00:00,UID-182,Standard,49,Male,North,PRD-BEA-94,Moisturizer,Beauty,2,25,0.05,12.25,Credit Card,2,Delivered,3.6,6,47.5,23.25
+ORD-50446,2023-01-07 09:00:00,UID-296,Standard,69,Female,South,PRD-SPO-85,Treadmill,Sports,2,500,0.14,0.0,Credit Card,5,Delivered,4.9,300,860.0,260.0
+ORD-50447,2023-09-08 09:00:00,UID-120,Occasional,32,Female,South,PRD-SPO-72,Resistance Bands,Sports,1,15,0.27,15.9,PayPal,8,Delivered,3.3,5,10.95,-9.95
+ORD-50448,2023-10-20 15:00:00,UID-293,Standard,19,Male,South,PRD-SPO-63,Resistance Bands,Sports,3,15,0.27,12.06,Bank Transfer,10,Delivered,4.2,5,32.85,5.79
+ORD-50449,2023-06-13 18:00:00,UID-534,Standard,18,Male,West,PRD-TEC-53,Phone Case,Tech Accessories,2,20,0.11,6.75,Crypto,6,Delivered,3.8,5,35.6,18.85
+ORD-50450,2023-02-18 20:00:00,UID-669,Standard,29,Male,East,PRD-TEC-69,Phone Case,Tech Accessories,3,20,0.06,20.3,PayPal,2,Delivered,4.1,5,56.4,21.1
+ORD-50451,2023-11-24 03:00:00,UID-974,Occasional,59,Male,South,PRD-TEC-67,Phone Case,Tech Accessories,4,20,0.08,23.17,Credit Card,5,Returned,1.7,5,73.6,30.43
+ORD-50452,2023-10-15 12:00:00,UID-164,Standard,39,Male,West,PRD-SPO-23,Dumbbells,Sports,2,40,0.09,22.46,Credit Card,10,Delivered,3.8,20,72.8,10.34
+ORD-50453,2023-02-15 06:00:00,UID-505,Standard,63,Male,West,PRD-SPO-82,Yoga Mat,Sports,2,25,0.09,21.94,Credit Card,6,Returned,1.3,10,45.5,3.56
+ORD-50454,2023-01-21 01:00:00,UID-511,Standard,25,Female,West,PRD-HOM-23,Vacuum Cleaner,Home & Garden,3,200,0.05,0.0,Credit Card,6,Delivered,4.9,100,570.0,270.0
+ORD-50455,2023-07-17 07:00:00,UID-378,Standard,54,Female,West,PRD-HOM-93,Vacuum Cleaner,Home & Garden,4,200,0.05,0.0,Credit Card,9,Delivered,2.4,100,760.0,360.0
+ORD-50456,2023-12-05 13:00:00,UID-858,Occasional,70,Female,North,PRD-BEA-76,Moisturizer,Beauty,4,25,0.0,11.38,Bank Transfer,14,Delivered,3.1,6,100.0,64.62
+ORD-50457,2023-08-01 14:00:00,UID-751,Occasional,52,Female,North,PRD-TEC-12,Phone Case,Tech Accessories,1,20,0.1,13.4,Credit Card,12,Delivered,3.8,5,18.0,-0.4
+ORD-50458,2023-01-11 00:00:00,UID-741,Standard,56,Male,North,PRD-SPO-65,Treadmill,Sports,2,500,0.14,0.0,Crypto,2,Delivered,3.9,300,860.0,260.0
+ORD-50459,2023-11-08 04:00:00,UID-248,Premium,35,Male,North,PRD-TEC-66,Phone Case,Tech Accessories,2,20,0.23,19.52,Credit Card,9,Returned,1.3,5,30.8,1.28
+ORD-50460,2023-03-02 05:00:00,UID-110,Standard,40,Female,South,PRD-SPO-51,Treadmill,Sports,4,500,0.37,0.0,PayPal,1,Delivered,4.4,300,1260.0,60.0
+ORD-50461,2023-07-18 08:00:00,UID-632,Standard,54,Female,South,PRD-BEA-50,Perfume,Beauty,2,80,0.09,0.0,Credit Card,6,Delivered,4.1,25,145.6,95.6
+ORD-50462,2023-12-23 00:00:00,UID-385,Occasional,45,Female,West,PRD-HOM-55,Table Lamp,Home & Garden,1,45,0.09,10.73,PayPal,9,Delivered,2.4,20,40.95,10.22
+ORD-50463,2023-03-06 06:00:00,UID-855,Premium,30,Male,West,PRD-HOM-28,Table Lamp,Home & Garden,7,45,0.17,0.0,PayPal,13,Delivered,2.8,20,261.45,121.45
+ORD-50464,2023-09-18 08:00:00,UID-916,Occasional,56,Male,North,PRD-SPO-91,Treadmill,Sports,2,500,0.04,0.0,Bank Transfer,2,Returned,2.0,300,960.0,360.0
+ORD-50465,2023-02-09 21:00:00,UID-112,Standard,42,Female,East,PRD-BEA-65,Face Serum,Beauty,3,30,0.15,23.54,Credit Card,12,Delivered,3.9,8,76.5,28.96
+ORD-50466,2023-07-05 02:00:00,UID-393,Occasional,36,Male,East,PRD-HOM-66,Table Lamp,Home & Garden,1,45,0.08,24.1,Credit Card,6,Delivered,4.6,20,41.4,-2.7
+ORD-50467,2023-01-25 19:00:00,UID-872,Standard,69,Female,East,PRD-TEC-48,Smart Watch,Tech Accessories,4,150,0.07,0.0,Credit Card,8,Delivered,3.5,75,558.0,258.0
+ORD-50468,2023-01-20 19:00:00,UID-194,Occasional,27,Female,East,PRD-SPO-62,Yoga Mat,Sports,4,25,0.0,9.8,PayPal,2,Delivered,4.9,10,100.0,50.2
+ORD-50469,2023-10-28 04:00:00,UID-384,Occasional,70,Male,West,PRD-SPO-35,Yoga Mat,Sports,4,25,0.09,12.65,PayPal,12,Delivered,3.6,10,91.0,38.35
+ORD-50470,2023-09-03 03:00:00,UID-857,Standard,30,Male,West,PRD-SPO-45,Treadmill,Sports,2,500,0.1,0.0,Credit Card,11,Delivered,2.6,300,900.0,300.0
+ORD-50471,2023-10-29 20:00:00,UID-799,Standard,49,Male,North,PRD-HOM-62,Table Lamp,Home & Garden,2,45,0.07,24.09,Credit Card,10,Delivered,2.6,20,83.7,19.61
+ORD-50472,2023-12-26 20:00:00,UID-497,Premium,33,Female,South,PRD-SPO-35,Dumbbells,Sports,5,40,0.13,0.0,PayPal,14,Delivered,4.0,20,174.0,74.0
+ORD-50473,2023-02-14 01:00:00,UID-773,Standard,44,Male,North,PRD-TEC-49,Smart Watch,Tech Accessories,3,150,0.07,0.0,Credit Card,14,Delivered,2.9,75,418.5,193.5
+ORD-50474,2023-12-29 16:00:00,UID-789,Standard,31,Female,West,PRD-SPO-88,Yoga Mat,Sports,2,25,0.14,20.97,Credit Card,12,Delivered,4.0,10,43.0,2.03
+ORD-50475,2023-06-25 03:00:00,UID-738,Standard,44,Male,West,PRD-TEC-40,Phone Case,Tech Accessories,2,20,0.13,8.47,Credit Card,13,Delivered,4.1,5,34.8,16.33
+ORD-50476,2023-03-22 23:00:00,UID-444,Occasional,28,Female,East,PRD-SPO-23,Resistance Bands,Sports,4,15,0.0,11.88,PayPal,11,Delivered,3.4,5,60.0,28.12
+ORD-50477,2023-03-09 06:00:00,UID-669,Standard,62,Male,East,PRD-HOM-72,Indoor Plant,Home & Garden,2,25,0.12,13.27,PayPal,5,Delivered,4.7,10,44.0,10.73
+ORD-50478,2023-10-23 21:00:00,UID-914,Standard,23,Male,West,PRD-SPO-30,Yoga Mat,Sports,2,25,0.12,21.41,PayPal,11,Delivered,3.9,10,44.0,2.59
+ORD-50479,2023-11-21 10:00:00,UID-830,Standard,33,Male,North,PRD-BEA-41,Makeup Set,Beauty,4,40,0.1,0.0,Credit Card,11,Shipped,2.8,12,144.0,96.0
+ORD-50480,2023-04-23 18:00:00,UID-592,Standard,52,Male,East,PRD-SPO-35,Dumbbells,Sports,4,40,0.1,0.0,PayPal,13,Delivered,4.0,20,144.0,64.0
+ORD-50481,2023-06-10 03:00:00,UID-979,Occasional,22,Female,North,PRD-BEA-15,Moisturizer,Beauty,2,25,0.07,19.09,Credit Card,14,Delivered,4.1,6,46.5,15.41
+ORD-50482,2023-12-12 07:00:00,UID-793,Standard,19,Male,West,PRD-HOM-43,Vacuum Cleaner,Home & Garden,3,200,0.14,0.0,Credit Card,5,Delivered,4.9,100,516.0,216.0
+ORD-50483,2023-11-22 05:00:00,UID-955,Occasional,19,Male,North,PRD-TEC-85,Wireless Charger,Tech Accessories,1,35,0.01,11.61,PayPal,2,Delivered,3.6,15,34.65,8.04
+ORD-50484,2023-01-07 02:00:00,UID-829,Standard,45,Male,North,PRD-SPO-88,Dumbbells,Sports,1,40,0.09,12.11,PayPal,2,Delivered,4.8,20,36.4,4.29
+ORD-50485,2023-12-11 18:00:00,UID-971,Premium,37,Male,North,PRD-SPO-85,Treadmill,Sports,4,500,0.22,0.0,PayPal,9,Shipped,2.8,300,1560.0,360.0
+ORD-50486,2023-10-28 03:00:00,UID-754,Occasional,27,Female,West,PRD-HOM-75,Bed Sheets,Home & Garden,1,50,0.08,16.46,Credit Card,14,Delivered,3.1,20,46.0,9.54
+ORD-50487,2023-03-22 02:00:00,UID-678,Occasional,59,Female,North,PRD-TEC-49,Bluetooth Speaker,Tech Accessories,4,60,0.02,0.0,PayPal,1,Delivered,3.9,30,235.2,115.2
+ORD-50488,2023-10-26 22:00:00,UID-330,Premium,46,Male,West,PRD-BEA-55,Perfume,Beauty,3,80,0.22,0.0,Credit Card,7,Delivered,4.4,25,187.2,112.2
+ORD-50489,2023-11-11 16:00:00,UID-530,Occasional,25,Male,East,PRD-HOM-41,Indoor Plant,Home & Garden,1,25,0.0,8.35,PayPal,13,Delivered,2.2,10,25.0,6.65
+ORD-50490,2023-11-17 03:00:00,UID-380,Premium,26,Female,North,PRD-TEC-64,Smart Watch,Tech Accessories,5,150,0.14,0.0,Credit Card,7,Delivered,3.8,75,645.0,270.0
+ORD-50491,2023-02-25 03:00:00,UID-350,Standard,61,Female,North,PRD-BEA-12,Perfume,Beauty,2,80,0.09,0.0,Credit Card,1,Delivered,4.5,25,145.6,95.6
+ORD-50492,2023-12-28 17:00:00,UID-643,Occasional,60,Male,South,PRD-BEA-17,Moisturizer,Beauty,4,25,0.0,21.16,PayPal,11,Shipped,2.5,6,100.0,54.84
+ORD-50493,2023-09-26 16:00:00,UID-209,Occasional,30,Female,North,PRD-SPO-17,Yoga Mat,Sports,1,25,0.08,5.17,Credit Card,14,Returned,1.8,10,23.0,7.83
+ORD-50494,2023-08-26 06:00:00,UID-527,Premium,50,Male,South,PRD-BEA-90,Perfume,Beauty,4,80,0.25,0.0,PayPal,12,Delivered,3.8,25,240.0,140.0
+ORD-50495,2023-12-16 06:00:00,UID-864,Occasional,51,Male,North,PRD-TEC-36,Smart Watch,Tech Accessories,4,150,0.05,0.0,Credit Card,7,Delivered,3.6,75,570.0,270.0
+ORD-50496,2023-10-14 10:00:00,UID-910,Standard,46,Female,West,PRD-TEC-78,Phone Case,Tech Accessories,1,20,0.11,10.09,Credit Card,12,Delivered,3.2,5,17.8,2.71
+ORD-50497,2023-11-13 06:00:00,UID-413,Standard,64,Male,North,PRD-SPO-11,Yoga Mat,Sports,4,25,0.06,10.47,Credit Card,10,Delivered,2.9,10,94.0,43.53
+ORD-50498,2023-08-01 00:00:00,UID-912,Premium,53,Male,West,PRD-SPO-95,Dumbbells,Sports,6,40,0.2,0.0,Credit Card,9,Delivered,3.5,20,192.0,72.0
+ORD-50499,2023-02-28 17:00:00,UID-538,Standard,56,Female,West,PRD-HOM-58,Bed Sheets,Home & Garden,1,50,0.08,11.32,PayPal,14,Delivered,4.1,20,46.0,14.68
+ORD-50500,2023-07-03 07:00:00,UID-788,Premium,52,Male,North,PRD-HOM-57,Bed Sheets,Home & Garden,4,50,0.22,0.0,PayPal,5,Delivered,4.1,20,156.0,76.0
+ORD-50501,2023-04-11 08:00:00,UID-685,Premium,23,Male,East,PRD-BEA-33,Moisturizer,Beauty,4,25,0.23,19.33,PayPal,4,Delivered,4.4,6,77.0,33.67
+ORD-50502,2023-06-09 13:00:00,UID-967,Standard,42,Male,South,PRD-SPO-49,Resistance Bands,Sports,2,15,0.09,15.4,PayPal,3,Delivered,4.9,5,27.3,1.9
+ORD-50503,2023-07-24 18:00:00,UID-396,Occasional,32,Female,East,PRD-BEA-68,Perfume,Beauty,2,80,0.09,0.0,PayPal,13,Delivered,3.4,25,145.6,95.6
+ORD-50504,2023-01-28 01:00:00,UID-398,Standard,67,Female,South,PRD-HOM-35,Table Lamp,Home & Garden,2,45,0.07,17.03,Bank Transfer,13,Delivered,3.1,20,83.7,26.67
+ORD-50505,2023-05-05 07:00:00,UID-701,Premium,37,Female,East,PRD-TEC-73,Wireless Charger,Tech Accessories,5,35,0.13,0.0,PayPal,11,Delivered,3.3,15,152.25,77.25
+ORD-50506,2023-01-22 05:00:00,UID-352,Standard,57,Male,North,PRD-TEC-23,Bluetooth Speaker,Tech Accessories,4,60,0.09,0.0,Credit Card,5,Delivered,3.9,30,218.4,98.4
+ORD-50507,2023-11-11 10:00:00,UID-320,Occasional,69,Female,North,PRD-HOM-17,Table Lamp,Home & Garden,4,45,0.0,0.0,Credit Card,3,Delivered,4.9,20,180.0,100.0
+ORD-50508,2023-07-08 16:00:00,UID-809,Occasional,40,Female,East,PRD-HOM-98,Bed Sheets,Home & Garden,4,50,0.0,0.0,PayPal,10,Delivered,4.3,20,200.0,120.0
+ORD-50509,2023-08-01 08:00:00,UID-248,Occasional,26,Female,West,PRD-TEC-54,Smart Watch,Tech Accessories,3,150,0.1,0.0,PayPal,8,Returned,1.9,75,405.0,180.0
+ORD-50510,2023-02-25 12:00:00,UID-698,Standard,45,Male,West,PRD-TEC-55,Bluetooth Speaker,Tech Accessories,2,60,0.05,0.0,Credit Card,14,Delivered,3.2,30,114.0,54.0
+ORD-50511,2023-08-24 03:00:00,UID-237,Standard,31,Female,North,PRD-TEC-52,Smart Watch,Tech Accessories,4,150,0.12,0.0,Credit Card,3,Delivered,4.6,75,528.0,228.0
+ORD-50512,2023-12-09 05:00:00,UID-139,Occasional,65,Male,West,PRD-HOM-77,Table Lamp,Home & Garden,2,45,0.0,22.57,PayPal,10,Delivered,3.3,20,90.0,27.43
+ORD-50513,2023-10-02 03:00:00,UID-210,Standard,65,Male,North,PRD-HOM-47,Bed Sheets,Home & Garden,3,50,0.06,0.0,Credit Card,11,Delivered,2.9,20,141.0,81.0
+ORD-50514,2023-03-04 14:00:00,UID-779,Occasional,59,Male,North,PRD-TEC-10,Bluetooth Speaker,Tech Accessories,1,60,0.0,5.01,Bank Transfer,4,Delivered,4.2,30,60.0,24.99
+ORD-50515,2023-02-05 11:00:00,UID-252,Occasional,62,Male,South,PRD-SPO-79,Treadmill,Sports,4,500,0.0,0.0,PayPal,13,Delivered,3.6,300,2000.0,800.0
+ORD-50516,2023-05-28 07:00:00,UID-709,Standard,66,Male,North,PRD-TEC-46,Smart Watch,Tech Accessories,2,150,0.06,0.0,PayPal,5,Delivered,4.9,75,282.0,132.0
+ORD-50517,2023-02-11 06:00:00,UID-958,Standard,43,Male,North,PRD-BEA-71,Makeup Set,Beauty,2,40,0.12,24.33,PayPal,10,Delivered,3.0,12,70.4,22.07
+ORD-50518,2023-10-13 23:00:00,UID-338,Occasional,41,Male,North,PRD-HOM-45,Table Lamp,Home & Garden,2,45,0.06,12.0,Bank Transfer,4,Delivered,4.2,20,84.6,32.6
+ORD-50519,2023-12-02 00:00:00,UID-401,Premium,38,Male,North,PRD-SPO-45,Yoga Mat,Sports,2,25,0.14,9.03,Credit Card,6,Delivered,4.0,10,43.0,13.97
+ORD-50520,2023-12-19 14:00:00,UID-214,Standard,57,Female,South,PRD-HOM-84,Bed Sheets,Home & Garden,4,50,0.12,0.0,PayPal,10,Delivered,2.8,20,176.0,96.0
+ORD-50521,2023-04-16 19:00:00,UID-267,Premium,20,Female,North,PRD-HOM-89,Table Lamp,Home & Garden,6,45,0.18,0.0,Credit Card,3,Delivered,4.1,20,221.4,101.4
+ORD-50522,2023-07-02 22:00:00,UID-963,Premium,52,Female,West,PRD-TEC-57,Smart Watch,Tech Accessories,7,150,0.23,0.0,PayPal,13,Delivered,2.6,75,808.5,283.5
+ORD-50523,2023-01-04 18:00:00,UID-598,Occasional,42,Female,South,PRD-TEC-32,Smart Watch,Tech Accessories,3,150,0.33,0.0,PayPal,11,Delivered,2.6,75,301.5,76.5
+ORD-50524,2023-01-31 06:00:00,UID-330,Standard,51,Female,North,PRD-SPO-57,Yoga Mat,Sports,3,25,0.06,24.84,PayPal,10,Delivered,4.3,10,70.5,15.66
+ORD-50525,2023-04-17 16:00:00,UID-731,Occasional,56,Female,West,PRD-TEC-37,Phone Case,Tech Accessories,3,20,0.05,7.75,Credit Card,12,Shipped,3.9,5,57.0,34.25
+ORD-50526,2023-12-27 21:00:00,UID-176,Premium,50,Female,North,PRD-HOM-14,Table Lamp,Home & Garden,4,45,0.22,0.0,PayPal,5,Delivered,4.4,20,140.4,60.4
+ORD-50527,2023-08-09 05:00:00,UID-547,Standard,40,Male,North,PRD-BEA-51,Moisturizer,Beauty,1,25,0.06,15.67,Credit Card,2,Delivered,3.6,6,23.5,1.83
+ORD-50528,2023-05-18 21:00:00,UID-636,Standard,55,Female,East,PRD-SPO-63,Yoga Mat,Sports,1,25,0.08,15.81,Crypto,14,Delivered,3.7,10,23.0,-2.81
+ORD-50529,2023-02-07 10:00:00,UID-970,Standard,61,Female,West,PRD-BEA-32,Face Serum,Beauty,2,30,0.06,20.76,Credit Card,11,Delivered,3.3,8,56.4,19.64
+ORD-50530,2023-12-20 23:00:00,UID-110,Premium,25,Male,South,PRD-HOM-21,Indoor Plant,Home & Garden,2,25,0.32,24.2,Credit Card,4,Delivered,3.8,10,34.0,-10.2
+ORD-50531,2023-04-09 09:00:00,UID-635,Standard,48,Female,East,PRD-HOM-98,Bed Sheets,Home & Garden,2,50,0.13,14.63,Credit Card,11,Delivered,4.0,20,87.0,32.37
+ORD-50532,2023-12-30 19:00:00,UID-997,Premium,18,Male,North,PRD-HOM-59,Bed Sheets,Home & Garden,3,50,0.2,0.0,PayPal,14,Delivered,3.1,20,120.0,60.0
+ORD-50533,2023-06-22 21:00:00,UID-166,Premium,19,Male,West,PRD-TEC-14,Wireless Charger,Tech Accessories,3,35,0.12,14.05,PayPal,13,Delivered,2.7,15,92.4,33.35
+ORD-50534,2023-06-15 06:00:00,UID-879,Standard,59,Male,North,PRD-TEC-38,Smart Watch,Tech Accessories,3,150,0.09,0.0,Credit Card,12,Delivered,3.3,75,409.5,184.5
+ORD-50535,2023-09-22 10:00:00,UID-445,Standard,61,Female,East,PRD-HOM-13,Vacuum Cleaner,Home & Garden,4,200,0.13,0.0,PayPal,3,Shipped,4.4,100,696.0,296.0
+ORD-50536,2023-12-24 19:00:00,UID-108,Standard,55,Female,East,PRD-SPO-24,Dumbbells,Sports,4,40,0.12,0.0,Credit Card,6,Delivered,4.4,20,140.8,60.8
+ORD-50537,2023-08-26 13:00:00,UID-773,Standard,51,Female,East,PRD-SPO-20,Resistance Bands,Sports,2,15,0.09,23.35,PayPal,10,Delivered,3.8,5,27.3,-6.05
+ORD-50538,2023-01-31 21:00:00,UID-414,Standard,41,Female,West,PRD-TEC-82,Bluetooth Speaker,Tech Accessories,3,60,0.06,0.0,Credit Card,13,Returned,2.0,30,169.2,79.2
+ORD-50539,2023-08-16 00:00:00,UID-194,Standard,20,Female,North,PRD-TEC-94,Bluetooth Speaker,Tech Accessories,2,60,0.13,0.0,Bank Transfer,3,Delivered,4.0,30,104.4,44.4
+ORD-50540,2023-10-03 21:00:00,UID-877,Occasional,49,Female,North,PRD-SPO-92,Resistance Bands,Sports,3,15,0.02,19.02,Credit Card,7,Delivered,3.6,5,44.1,10.08
+ORD-50541,2023-01-17 07:00:00,UID-363,Standard,31,Female,North,PRD-BEA-76,Face Serum,Beauty,3,30,0.1,9.15,PayPal,2,Delivered,4.7,8,81.0,47.85
+ORD-50542,2023-08-30 05:00:00,UID-475,Standard,24,Female,East,PRD-SPO-63,Resistance Bands,Sports,1,15,0.05,13.64,PayPal,7,Delivered,3.9,5,14.25,-4.39
+ORD-50543,2023-10-08 22:00:00,UID-174,Standard,70,Female,West,PRD-TEC-75,Wireless Charger,Tech Accessories,4,35,0.15,0.0,PayPal,9,Shipped,3.2,15,119.0,59.0
+ORD-50544,2023-12-02 17:00:00,UID-709,Occasional,18,Male,East,PRD-SPO-26,Yoga Mat,Sports,1,25,0.02,14.26,PayPal,1,Delivered,4.1,10,24.5,0.24
+ORD-50545,2023-04-26 20:00:00,UID-497,Occasional,34,Male,North,PRD-SPO-34,Treadmill,Sports,4,500,0.02,0.0,PayPal,11,Delivered,2.7,300,1960.0,760.0
+ORD-50546,2023-07-26 06:00:00,UID-332,Premium,20,Female,North,PRD-SPO-39,Treadmill,Sports,5,500,0.21,0.0,Credit Card,13,Delivered,2.7,300,1975.0,475.0
+ORD-50547,2023-01-19 04:00:00,UID-662,Standard,40,Female,East,PRD-HOM-69,Table Lamp,Home & Garden,4,45,0.1,0.0,Crypto,10,Delivered,4.5,20,162.0,82.0
+ORD-50548,2023-12-14 22:00:00,UID-943,Occasional,37,Female,East,PRD-HOM-61,Vacuum Cleaner,Home & Garden,4,200,0.0,0.0,PayPal,8,Delivered,2.9,100,800.0,400.0
+ORD-50549,2023-02-13 09:00:00,UID-546,Occasional,58,Male,West,PRD-SPO-34,Resistance Bands,Sports,3,15,0.08,11.56,PayPal,13,Delivered,2.2,5,41.4,14.84
+ORD-50550,2023-09-07 08:00:00,UID-564,Occasional,53,Female,East,PRD-BEA-35,Moisturizer,Beauty,4,25,0.0,15.32,Crypto,4,Delivered,3.8,6,100.0,60.68
+ORD-50551,2023-09-05 11:00:00,UID-191,Occasional,65,Male,North,PRD-TEC-22,Bluetooth Speaker,Tech Accessories,3,60,0.07,0.0,PayPal,1,Delivered,3.6,30,167.4,77.4
+ORD-50552,2023-02-25 02:00:00,UID-541,Premium,51,Male,North,PRD-HOM-28,Indoor Plant,Home & Garden,3,25,0.18,20.76,PayPal,5,Returned,1.9,10,61.5,10.74
+ORD-50553,2023-01-10 07:00:00,UID-638,Standard,60,Male,East,PRD-BEA-65,Face Serum,Beauty,3,30,0.13,10.69,Bank Transfer,9,Delivered,2.9,8,78.3,43.61
+ORD-50554,2023-03-20 15:00:00,UID-384,Premium,60,Male,North,PRD-SPO-45,Dumbbells,Sports,2,40,0.24,14.04,Credit Card,1,Delivered,4.6,20,60.8,6.76
+ORD-50555,2023-07-09 22:00:00,UID-679,Standard,30,Male,North,PRD-TEC-18,Wireless Charger,Tech Accessories,2,35,0.11,12.52,PayPal,11,Delivered,3.3,15,62.3,19.78
+ORD-50556,2023-07-21 03:00:00,UID-218,Occasional,68,Male,West,PRD-HOM-30,Table Lamp,Home & Garden,2,45,0.09,20.93,Credit Card,6,Delivered,4.8,20,81.9,20.97
+ORD-50557,2023-01-14 01:00:00,UID-462,Standard,21,Male,East,PRD-SPO-19,Treadmill,Sports,4,500,0.09,0.0,Credit Card,4,Delivered,4.4,300,1820.0,620.0
+ORD-50558,2023-06-05 02:00:00,UID-686,Standard,35,Male,West,PRD-TEC-73,Smart Watch,Tech Accessories,3,150,0.14,0.0,Credit Card,13,Delivered,2.7,75,387.0,162.0
+ORD-50559,2023-12-16 04:00:00,UID-170,Occasional,27,Male,South,PRD-HOM-62,Table Lamp,Home & Garden,1,45,0.0,12.69,Credit Card,1,Delivered,3.7,20,45.0,12.31
+ORD-50560,2023-06-11 20:00:00,UID-803,Premium,49,Male,East,PRD-HOM-12,Table Lamp,Home & Garden,3,45,0.11,0.0,PayPal,2,Delivered,4.2,20,120.15,60.15
+ORD-50561,2023-08-06 15:00:00,UID-930,Premium,53,Female,West,PRD-HOM-11,Vacuum Cleaner,Home & Garden,3,200,0.19,0.0,Credit Card,12,Returned,1.4,100,486.0,186.0
+ORD-50562,2023-12-25 21:00:00,UID-381,Standard,47,Male,North,PRD-BEA-10,Face Serum,Beauty,1,30,0.07,9.63,PayPal,13,Shipped,2.6,8,27.9,10.27
+ORD-50563,2023-09-24 05:00:00,UID-924,Occasional,67,Male,South,PRD-HOM-23,Bed Sheets,Home & Garden,2,50,0.06,19.28,Crypto,5,Delivered,3.5,20,94.0,34.72
+ORD-50564,2023-10-11 02:00:00,UID-289,Premium,35,Male,North,PRD-HOM-61,Indoor Plant,Home & Garden,3,25,0.18,23.99,Credit Card,4,Delivered,4.7,10,61.5,7.51
+ORD-50565,2023-10-28 04:00:00,UID-690,Occasional,20,Male,South,PRD-SPO-64,Yoga Mat,Sports,3,25,0.0,22.07,Credit Card,11,Returned,1.4,10,75.0,22.93
+ORD-50566,2023-01-21 04:00:00,UID-528,Premium,38,Male,North,PRD-SPO-87,Resistance Bands,Sports,6,15,0.12,14.31,Credit Card,4,Delivered,4.3,5,79.2,34.89
+ORD-50567,2023-09-03 19:00:00,UID-147,Occasional,66,Male,West,PRD-SPO-59,Yoga Mat,Sports,1,25,0.0,6.07,Credit Card,5,Delivered,4.6,10,25.0,8.93
+ORD-50568,2023-10-15 15:00:00,UID-958,Occasional,64,Male,North,PRD-TEC-56,Phone Case,Tech Accessories,4,20,0.04,24.31,Credit Card,7,Shipped,4.7,5,76.8,32.49
+ORD-50569,2023-01-19 21:00:00,UID-683,Standard,43,Male,South,PRD-SPO-85,Treadmill,Sports,3,500,0.29,0.0,PayPal,9,Delivered,3.4,300,1065.0,165.0
+ORD-50570,2023-04-15 11:00:00,UID-413,Standard,33,Male,North,PRD-BEA-75,Makeup Set,Beauty,1,40,0.08,9.77,PayPal,6,Delivered,3.9,12,36.8,15.03
+ORD-50571,2023-02-26 12:00:00,UID-130,Standard,36,Female,South,PRD-TEC-27,Smart Watch,Tech Accessories,4,150,0.06,0.0,Credit Card,4,Shipped,3.8,75,564.0,264.0
+ORD-50572,2023-12-26 19:00:00,UID-698,Standard,20,Female,South,PRD-HOM-53,Vacuum Cleaner,Home & Garden,3,200,0.1,0.0,Bank Transfer,1,Delivered,4.8,100,540.0,240.0
+ORD-50573,2023-02-18 08:00:00,UID-950,Premium,36,Male,East,PRD-TEC-64,Smart Watch,Tech Accessories,4,150,0.13,0.0,PayPal,7,Delivered,5.0,75,522.0,222.0
+ORD-50574,2023-03-19 15:00:00,UID-514,Standard,25,Female,North,PRD-BEA-23,Moisturizer,Beauty,3,25,0.15,6.63,Crypto,8,Delivered,3.4,6,63.75,39.12
+ORD-50575,2023-06-30 17:00:00,UID-461,Standard,66,Female,North,PRD-HOM-90,Bed Sheets,Home & Garden,4,50,0.08,0.0,PayPal,14,Delivered,3.3,20,184.0,104.0
+ORD-50576,2023-10-14 16:00:00,UID-429,Occasional,24,Female,North,PRD-HOM-29,Bed Sheets,Home & Garden,2,50,0.01,10.76,Credit Card,3,Delivered,4.1,20,99.0,48.24
+ORD-50577,2023-11-17 21:00:00,UID-611,Standard,47,Male,North,PRD-HOM-47,Indoor Plant,Home & Garden,4,25,0.14,14.82,PayPal,3,Delivered,4.8,10,86.0,31.18
+ORD-50578,2023-10-01 22:00:00,UID-489,Standard,58,Female,East,PRD-HOM-89,Vacuum Cleaner,Home & Garden,2,200,0.09,0.0,Credit Card,8,Delivered,3.9,100,364.0,164.0
+ORD-50579,2023-08-11 04:00:00,UID-342,Standard,62,Male,East,PRD-HOM-32,Bed Sheets,Home & Garden,4,50,0.08,0.0,Credit Card,7,Delivered,3.8,20,184.0,104.0
+ORD-50580,2023-04-23 05:00:00,UID-655,Standard,37,Female,East,PRD-BEA-28,Face Serum,Beauty,3,30,0.13,23.59,Credit Card,14,Delivered,3.4,8,78.3,30.71
+ORD-50581,2023-07-17 00:00:00,UID-305,Standard,24,Female,South,PRD-SPO-38,Treadmill,Sports,4,500,0.38,0.0,Credit Card,6,Delivered,4.3,300,1240.0,40.0
+ORD-50582,2023-06-16 20:00:00,UID-637,Standard,20,Female,West,PRD-SPO-36,Yoga Mat,Sports,2,25,0.09,12.64,PayPal,13,Delivered,2.9,10,45.5,12.86
+ORD-50583,2023-10-25 19:00:00,UID-923,Standard,37,Female,West,PRD-SPO-70,Treadmill,Sports,1,500,0.1,0.0,Credit Card,9,Delivered,2.8,300,450.0,150.0
+ORD-50584,2023-03-22 19:00:00,UID-943,Standard,56,Female,North,PRD-SPO-92,Yoga Mat,Sports,1,25,0.13,22.04,Crypto,4,Delivered,3.7,10,21.75,-10.29
+ORD-50585,2023-10-18 02:00:00,UID-702,Standard,26,Female,South,PRD-SPO-20,Resistance Bands,Sports,3,15,0.07,9.4,Bank Transfer,3,Returned,1.6,5,41.85,17.45
+ORD-50586,2023-11-25 06:00:00,UID-231,Standard,23,Female,West,PRD-TEC-66,Bluetooth Speaker,Tech Accessories,3,60,0.09,0.0,Crypto,13,Delivered,3.5,30,163.8,73.8
+ORD-50587,2023-09-27 03:00:00,UID-115,Standard,58,Male,North,PRD-BEA-76,Face Serum,Beauty,4,30,0.06,0.0,Credit Card,1,Delivered,3.7,8,112.8,80.8
+ORD-50588,2023-10-06 20:00:00,UID-927,Standard,44,Female,South,PRD-BEA-92,Moisturizer,Beauty,1,25,0.26,11.09,Credit Card,8,Delivered,3.6,6,18.5,1.41
+ORD-50589,2023-01-08 18:00:00,UID-103,Occasional,54,Male,East,PRD-SPO-86,Dumbbells,Sports,4,40,0.06,0.0,Credit Card,10,Delivered,3.5,20,150.4,70.4
+ORD-50590,2023-06-13 20:00:00,UID-479,Standard,26,Female,North,PRD-HOM-75,Bed Sheets,Home & Garden,3,50,0.15,0.0,Credit Card,1,Delivered,3.7,20,127.5,67.5
+ORD-50591,2023-02-17 10:00:00,UID-921,Standard,56,Female,East,PRD-TEC-91,Phone Case,Tech Accessories,3,20,0.07,22.33,Credit Card,3,Delivered,4.2,5,55.8,18.47
+ORD-50592,2023-03-10 22:00:00,UID-110,Standard,34,Male,South,PRD-SPO-18,Resistance Bands,Sports,3,15,0.07,22.18,PayPal,7,Delivered,3.5,5,41.85,4.67
+ORD-50593,2023-05-06 22:00:00,UID-240,Premium,37,Male,East,PRD-SPO-80,Yoga Mat,Sports,4,25,0.21,15.76,Crypto,9,Delivered,3.3,10,79.0,23.24
+ORD-50594,2023-05-04 17:00:00,UID-586,Standard,37,Male,West,PRD-SPO-65,Yoga Mat,Sports,4,25,0.14,24.52,PayPal,9,Delivered,2.9,10,86.0,21.48
+ORD-50595,2023-02-03 17:00:00,UID-150,Occasional,50,Male,North,PRD-SPO-98,Resistance Bands,Sports,3,15,0.02,19.97,Credit Card,3,Delivered,4.9,5,44.1,9.13
+ORD-50596,2023-07-01 07:00:00,UID-618,Premium,42,Male,West,PRD-BEA-87,Makeup Set,Beauty,3,40,0.16,0.0,PayPal,9,Delivered,3.0,12,100.8,64.8
+ORD-50597,2023-06-09 12:00:00,UID-142,Occasional,66,Female,North,PRD-HOM-79,Bed Sheets,Home & Garden,4,50,0.0,0.0,Credit Card,14,Delivered,2.7,20,200.0,120.0
+ORD-50598,2023-08-26 05:00:00,UID-207,Standard,26,Female,East,PRD-BEA-45,Makeup Set,Beauty,3,40,0.07,0.0,PayPal,14,Delivered,3.3,12,111.6,75.6
+ORD-50599,2023-04-25 17:00:00,UID-240,Occasional,44,Male,South,PRD-HOM-70,Vacuum Cleaner,Home & Garden,4,200,0.0,0.0,Crypto,5,Delivered,4.4,100,800.0,400.0
+ORD-50600,2023-12-25 12:00:00,UID-193,Standard,60,Female,West,PRD-TEC-83,Phone Case,Tech Accessories,4,20,0.11,22.49,Bank Transfer,11,Delivered,2.6,5,71.2,28.71
+ORD-50601,2023-12-26 07:00:00,UID-667,Standard,26,Female,South,PRD-HOM-57,Vacuum Cleaner,Home & Garden,4,200,0.31,0.0,PayPal,4,Delivered,4.9,100,552.0,152.0
+ORD-50602,2023-01-30 16:00:00,UID-657,Occasional,23,Male,East,PRD-TEC-58,Phone Case,Tech Accessories,2,20,0.0,21.41,Credit Card,2,Delivered,4.3,5,40.0,8.59
+ORD-50603,2023-01-16 16:00:00,UID-268,Standard,49,Female,South,PRD-BEA-14,Perfume,Beauty,4,80,0.38,0.0,Crypto,10,Delivered,3.5,25,198.4,98.4
+ORD-50604,2023-11-21 20:00:00,UID-584,Premium,57,Female,West,PRD-TEC-51,Phone Case,Tech Accessories,7,20,0.2,0.0,Credit Card,7,Delivered,4.7,5,112.0,77.0
+ORD-50605,2023-06-25 08:00:00,UID-710,Standard,44,Male,North,PRD-BEA-44,Perfume,Beauty,3,80,0.06,0.0,Credit Card,6,Delivered,3.5,25,225.6,150.6
+ORD-50606,2023-11-14 22:00:00,UID-446,Occasional,59,Male,South,PRD-TEC-74,Phone Case,Tech Accessories,4,20,0.01,5.28,Credit Card,11,Delivered,3.3,5,79.2,53.92
+ORD-50607,2023-02-20 22:00:00,UID-236,Occasional,54,Female,North,PRD-SPO-86,Yoga Mat,Sports,3,25,0.03,8.53,PayPal,11,Delivered,3.1,10,72.75,34.22
+ORD-50608,2023-05-11 16:00:00,UID-229,Occasional,21,Female,East,PRD-SPO-60,Resistance Bands,Sports,4,15,0.0,6.6,Crypto,1,Delivered,4.0,5,60.0,33.4
+ORD-50609,2023-08-21 11:00:00,UID-780,Occasional,58,Male,West,PRD-BEA-64,Makeup Set,Beauty,1,40,0.01,13.46,Credit Card,11,Delivered,3.9,12,39.6,14.14
+ORD-50610,2023-08-03 13:00:00,UID-505,Standard,31,Male,North,PRD-HOM-28,Table Lamp,Home & Garden,4,45,0.06,0.0,Crypto,2,Delivered,4.5,20,169.2,89.2
+ORD-50611,2023-09-06 16:00:00,UID-263,Premium,55,Female,South,PRD-HOM-99,Indoor Plant,Home & Garden,4,25,0.2,9.83,Credit Card,2,Returned,1.0,10,80.0,30.17
+ORD-50612,2023-12-11 05:00:00,UID-243,Standard,31,Female,South,PRD-SPO-83,Treadmill,Sports,1,500,0.39,0.0,Credit Card,2,Delivered,3.6,300,305.0,5.0
+ORD-50613,2023-04-07 09:00:00,UID-468,Occasional,69,Male,North,PRD-HOM-90,Table Lamp,Home & Garden,3,45,0.1,0.0,Bank Transfer,2,Delivered,3.6,20,121.5,61.5
+ORD-50614,2023-11-21 11:00:00,UID-158,Premium,28,Male,West,PRD-SPO-64,Treadmill,Sports,3,500,0.2,0.0,Credit Card,10,Returned,1.8,300,1200.0,300.0
+ORD-50615,2023-03-22 00:00:00,UID-401,Occasional,18,Female,West,PRD-SPO-24,Resistance Bands,Sports,3,15,0.03,8.93,Bank Transfer,13,Delivered,4.3,5,43.65,19.72
+ORD-50616,2023-09-29 01:00:00,UID-672,Standard,68,Male,West,PRD-BEA-30,Perfume,Beauty,1,80,0.14,8.91,Credit Card,10,Delivered,3.8,25,68.8,34.89
+ORD-50617,2023-06-14 22:00:00,UID-211,Standard,49,Male,West,PRD-HOM-36,Bed Sheets,Home & Garden,4,50,0.12,0.0,Credit Card,5,Returned,1.8,20,176.0,96.0
+ORD-50618,2023-05-02 21:00:00,UID-902,Standard,59,Female,West,PRD-SPO-30,Treadmill,Sports,4,500,0.1,0.0,PayPal,11,Delivered,3.8,300,1800.0,600.0
+ORD-50619,2023-03-01 10:00:00,UID-172,Occasional,55,Male,South,PRD-SPO-65,Yoga Mat,Sports,2,25,0.33,20.72,Crypto,5,Delivered,4.5,10,33.5,-7.22
+ORD-50620,2023-08-03 09:00:00,UID-841,Occasional,55,Female,North,PRD-SPO-58,Treadmill,Sports,4,500,0.08,0.0,PayPal,9,Delivered,2.9,300,1840.0,640.0
+ORD-50621,2023-07-19 12:00:00,UID-160,Occasional,18,Male,North,PRD-HOM-74,Bed Sheets,Home & Garden,2,50,0.04,10.96,Credit Card,7,Delivered,4.2,20,96.0,45.04
+ORD-50622,2023-08-18 02:00:00,UID-528,Occasional,64,Male,East,PRD-BEA-72,Makeup Set,Beauty,4,40,0.0,0.0,Credit Card,7,Delivered,4.4,12,160.0,112.0
+ORD-50623,2023-03-06 18:00:00,UID-369,Standard,67,Male,West,PRD-BEA-42,Perfume,Beauty,3,80,0.15,0.0,PayPal,13,Delivered,2.5,25,204.0,129.0
+ORD-50624,2023-08-03 02:00:00,UID-510,Standard,51,Male,East,PRD-SPO-92,Dumbbells,Sports,3,40,0.11,0.0,Crypto,1,Delivered,4.1,20,106.8,46.8
+ORD-50625,2023-09-03 05:00:00,UID-245,Standard,24,Male,South,PRD-TEC-80,Smart Watch,Tech Accessories,2,150,0.13,0.0,Credit Card,11,Delivered,2.7,75,261.0,111.0
+ORD-50626,2023-01-24 05:00:00,UID-573,Standard,45,Male,South,PRD-TEC-35,Phone Case,Tech Accessories,2,20,0.29,15.5,Credit Card,11,Delivered,3.0,5,28.4,2.9
+ORD-50627,2023-07-25 05:00:00,UID-122,Standard,61,Male,North,PRD-HOM-10,Table Lamp,Home & Garden,2,45,0.1,13.94,Bank Transfer,12,Delivered,2.9,20,81.0,27.06
+ORD-50628,2023-11-23 17:00:00,UID-565,Occasional,39,Female,West,PRD-TEC-51,Phone Case,Tech Accessories,2,20,0.0,9.75,Bank Transfer,13,Returned,2.1,5,40.0,20.25
+ORD-50629,2023-04-18 10:00:00,UID-566,Premium,35,Female,West,PRD-TEC-93,Smart Watch,Tech Accessories,5,150,0.16,0.0,Crypto,6,Delivered,3.8,75,630.0,255.0
+ORD-50630,2023-11-15 19:00:00,UID-397,Standard,70,Female,West,PRD-HOM-84,Table Lamp,Home & Garden,2,45,0.12,19.49,PayPal,11,Shipped,2.7,20,79.2,19.71
+ORD-50631,2023-07-20 16:00:00,UID-753,Premium,47,Male,East,PRD-SPO-11,Treadmill,Sports,4,500,0.22,0.0,PayPal,8,Delivered,3.5,300,1560.0,360.0
+ORD-50632,2023-11-02 17:00:00,UID-679,Standard,45,Male,North,PRD-TEC-51,Bluetooth Speaker,Tech Accessories,4,60,0.06,0.0,PayPal,5,Delivered,4.9,30,225.6,105.6
+ORD-50633,2023-11-07 16:00:00,UID-858,Standard,56,Female,West,PRD-SPO-63,Yoga Mat,Sports,3,25,0.09,10.29,PayPal,8,Delivered,3.4,10,68.25,27.96
+ORD-50634,2023-12-07 08:00:00,UID-300,Premium,48,Male,West,PRD-SPO-24,Treadmill,Sports,5,500,0.13,0.0,Credit Card,13,Returned,2.2,300,2175.0,675.0
+ORD-50635,2023-01-09 16:00:00,UID-638,Standard,56,Male,South,PRD-HOM-93,Bed Sheets,Home & Garden,3,50,0.1,0.0,PayPal,5,Delivered,4.9,20,135.0,75.0
+ORD-50636,2023-02-23 13:00:00,UID-723,Occasional,24,Female,North,PRD-BEA-92,Moisturizer,Beauty,2,25,0.0,9.82,Credit Card,1,Delivered,4.2,6,50.0,28.18
+ORD-50637,2023-07-30 06:00:00,UID-642,Premium,46,Male,West,PRD-TEC-87,Bluetooth Speaker,Tech Accessories,5,60,0.12,0.0,Credit Card,10,Delivered,3.1,30,264.0,114.0
+ORD-50638,2023-10-02 05:00:00,UID-235,Standard,68,Male,East,PRD-HOM-63,Bed Sheets,Home & Garden,1,50,0.15,21.03,Credit Card,10,Delivered,3.0,20,42.5,1.47
+ORD-50639,2023-03-23 19:00:00,UID-386,Standard,38,Male,East,PRD-HOM-13,Indoor Plant,Home & Garden,3,25,0.12,9.46,Credit Card,2,Delivered,4.1,10,66.0,26.54
+ORD-50640,2023-03-08 12:00:00,UID-803,Standard,39,Male,West,PRD-TEC-62,Smart Watch,Tech Accessories,1,150,0.06,0.0,PayPal,14,Returned,1.1,75,141.0,66.0
+ORD-50641,2023-01-12 01:00:00,UID-173,Occasional,21,Female,North,PRD-TEC-98,Wireless Charger,Tech Accessories,1,35,0.0,21.61,Bank Transfer,6,Shipped,5.0,15,35.0,-1.61
+ORD-50642,2023-06-14 21:00:00,UID-820,Standard,43,Female,South,PRD-HOM-79,Vacuum Cleaner,Home & Garden,3,200,0.31,0.0,Credit Card,14,Returned,2.3,100,414.0,114.0
+ORD-50643,2023-10-16 22:00:00,UID-423,Standard,68,Female,North,PRD-SPO-23,Dumbbells,Sports,2,40,0.05,5.26,Crypto,14,Delivered,3.2,20,76.0,30.74
+ORD-50644,2023-07-19 04:00:00,UID-598,Premium,42,Male,South,PRD-SPO-41,Yoga Mat,Sports,2,25,0.25,10.58,Credit Card,14,Delivered,3.0,10,37.5,6.92
+ORD-50645,2023-04-03 11:00:00,UID-410,Standard,24,Male,East,PRD-HOM-30,Indoor Plant,Home & Garden,4,25,0.07,19.92,Crypto,5,Delivered,4.5,10,93.0,33.08
+ORD-50646,2023-04-04 09:00:00,UID-501,Standard,39,Female,West,PRD-BEA-59,Makeup Set,Beauty,1,40,0.1,14.5,Credit Card,12,Delivered,3.3,12,36.0,9.5
+ORD-50647,2023-08-29 02:00:00,UID-898,Premium,34,Male,South,PRD-BEA-38,Perfume,Beauty,6,80,0.33,0.0,PayPal,6,Delivered,4.0,25,321.6,171.6
+ORD-50648,2023-04-21 06:00:00,UID-756,Standard,31,Male,East,PRD-HOM-19,Bed Sheets,Home & Garden,4,50,0.07,0.0,PayPal,12,Delivered,3.3,20,186.0,106.0
+ORD-50649,2023-02-24 05:00:00,UID-662,Standard,20,Female,North,PRD-TEC-11,Phone Case,Tech Accessories,2,20,0.1,16.69,Credit Card,9,Delivered,2.9,5,36.0,9.31
+ORD-50650,2023-07-18 21:00:00,UID-582,Premium,59,Female,East,PRD-BEA-76,Face Serum,Beauty,4,30,0.12,0.0,Credit Card,9,Delivered,3.3,8,105.6,73.6
+ORD-50651,2023-05-22 06:00:00,UID-353,Standard,69,Female,North,PRD-TEC-31,Wireless Charger,Tech Accessories,3,35,0.15,7.58,Bank Transfer,8,Delivered,3.7,15,89.25,36.67
+ORD-50652,2023-08-19 05:00:00,UID-718,Premium,61,Female,North,PRD-HOM-66,Vacuum Cleaner,Home & Garden,5,200,0.23,0.0,PayPal,13,Returned,2.0,100,770.0,270.0
+ORD-50653,2023-11-30 13:00:00,UID-129,Standard,69,Male,North,PRD-SPO-45,Resistance Bands,Sports,3,15,0.13,15.09,PayPal,14,Delivered,2.4,5,39.15,9.06
+ORD-50654,2023-06-03 09:00:00,UID-427,Occasional,45,Female,South,PRD-HOM-98,Indoor Plant,Home & Garden,3,25,0.4,6.98,Credit Card,9,Delivered,2.4,10,45.0,8.02
+ORD-50655,2023-05-02 11:00:00,UID-894,Premium,19,Male,West,PRD-TEC-89,Phone Case,Tech Accessories,4,20,0.13,6.8,PayPal,13,Delivered,2.9,5,69.6,42.8
+ORD-50656,2023-09-21 00:00:00,UID-268,Premium,38,Male,North,PRD-SPO-59,Dumbbells,Sports,6,40,0.19,0.0,PayPal,10,Delivered,3.1,20,194.4,74.4
+ORD-50657,2023-12-29 12:00:00,UID-444,Standard,31,Male,North,PRD-TEC-95,Phone Case,Tech Accessories,2,20,0.15,14.02,PayPal,3,Shipped,3.7,5,34.0,9.98
+ORD-50658,2023-03-19 17:00:00,UID-372,Standard,19,Male,West,PRD-TEC-37,Smart Watch,Tech Accessories,3,150,0.13,0.0,Credit Card,13,Delivered,3.2,75,391.5,166.5
+ORD-50659,2023-08-31 08:00:00,UID-770,Standard,58,Male,West,PRD-HOM-79,Vacuum Cleaner,Home & Garden,1,200,0.05,0.0,PayPal,8,Delivered,3.6,100,190.0,90.0
+ORD-50660,2023-11-07 20:00:00,UID-863,Occasional,64,Female,North,PRD-TEC-39,Wireless Charger,Tech Accessories,1,35,0.03,17.48,Credit Card,13,Delivered,3.8,15,33.95,1.47
+ORD-50661,2023-05-25 13:00:00,UID-563,Premium,51,Female,North,PRD-TEC-52,Bluetooth Speaker,Tech Accessories,5,60,0.21,0.0,Bank Transfer,10,Delivered,3.5,30,237.0,87.0
+ORD-50662,2023-03-01 13:00:00,UID-107,Premium,41,Male,North,PRD-BEA-87,Perfume,Beauty,5,80,0.12,0.0,Crypto,10,Delivered,3.3,25,352.0,227.0
+ORD-50663,2023-01-24 11:00:00,UID-807,Standard,53,Female,South,PRD-TEC-51,Phone Case,Tech Accessories,2,20,0.07,12.42,Credit Card,14,Delivered,3.3,5,37.2,14.78
+ORD-50664,2023-03-02 07:00:00,UID-237,Standard,20,Male,West,PRD-TEC-62,Wireless Charger,Tech Accessories,1,35,0.08,12.99,Credit Card,6,Delivered,4.0,15,32.2,4.21
+ORD-50665,2023-12-21 17:00:00,UID-316,Occasional,51,Male,West,PRD-BEA-41,Perfume,Beauty,2,80,0.0,0.0,Credit Card,13,Delivered,3.5,25,160.0,110.0
+ORD-50666,2023-05-31 13:00:00,UID-235,Occasional,20,Female,East,PRD-TEC-71,Wireless Charger,Tech Accessories,2,35,0.0,12.72,Bank Transfer,10,Delivered,3.8,15,70.0,27.28
+ORD-50667,2023-11-08 05:00:00,UID-983,Standard,66,Female,North,PRD-HOM-18,Vacuum Cleaner,Home & Garden,2,200,0.1,0.0,PayPal,6,Delivered,4.6,100,360.0,160.0
+ORD-50668,2023-09-04 19:00:00,UID-416,Occasional,61,Male,South,PRD-BEA-85,Perfume,Beauty,2,80,0.35,0.0,Credit Card,2,Delivered,4.5,25,104.0,54.0
+ORD-50669,2023-05-19 22:00:00,UID-425,Occasional,23,Female,West,PRD-TEC-87,Wireless Charger,Tech Accessories,3,35,0.0,0.0,Credit Card,13,Delivered,3.3,15,105.0,60.0
+ORD-50670,2023-04-15 18:00:00,UID-633,Occasional,52,Female,North,PRD-SPO-84,Yoga Mat,Sports,4,25,0.01,20.15,Bank Transfer,4,Delivered,4.9,10,99.0,38.85
+ORD-50671,2023-11-10 03:00:00,UID-227,Premium,22,Female,West,PRD-BEA-70,Makeup Set,Beauty,3,40,0.22,9.95,Credit Card,10,Delivered,3.0,12,93.6,47.65
+ORD-50672,2023-10-15 18:00:00,UID-719,Standard,53,Female,North,PRD-BEA-71,Moisturizer,Beauty,3,25,0.11,10.52,Credit Card,13,Delivered,3.3,6,66.75,38.23
+ORD-50673,2023-05-01 05:00:00,UID-691,Occasional,46,Female,South,PRD-BEA-31,Perfume,Beauty,3,80,0.27,0.0,PayPal,5,Delivered,5.0,25,175.2,100.2
+ORD-50674,2023-06-03 07:00:00,UID-665,Standard,42,Female,North,PRD-SPO-94,Dumbbells,Sports,2,40,0.12,8.28,Crypto,6,Delivered,4.8,20,70.4,22.12
+ORD-50675,2023-10-05 21:00:00,UID-438,Premium,63,Male,West,PRD-BEA-79,Moisturizer,Beauty,3,25,0.22,14.8,Credit Card,13,Delivered,2.6,6,58.5,25.7
+ORD-50676,2023-07-05 20:00:00,UID-292,Premium,21,Female,East,PRD-TEC-32,Phone Case,Tech Accessories,4,20,0.24,20.42,Credit Card,13,Delivered,3.2,5,60.8,20.38
+ORD-50677,2023-02-11 00:00:00,UID-852,Standard,26,Female,East,PRD-HOM-78,Indoor Plant,Home & Garden,2,25,0.14,20.38,Credit Card,10,Delivered,3.0,10,43.0,2.62
+ORD-50678,2023-01-11 15:00:00,UID-769,Standard,45,Male,East,PRD-BEA-29,Perfume,Beauty,3,80,0.14,0.0,Credit Card,13,Delivered,3.9,25,206.4,131.4
+ORD-50679,2023-11-19 14:00:00,UID-486,Standard,41,Female,North,PRD-TEC-95,Wireless Charger,Tech Accessories,3,35,0.14,15.91,Crypto,1,Delivered,4.9,15,90.3,29.39
+ORD-50680,2023-11-07 15:00:00,UID-465,Standard,69,Female,North,PRD-TEC-92,Phone Case,Tech Accessories,2,20,0.1,5.22,PayPal,7,Shipped,3.5,5,36.0,20.78
+ORD-50681,2023-06-28 01:00:00,UID-157,Standard,68,Male,East,PRD-TEC-83,Bluetooth Speaker,Tech Accessories,4,60,0.08,0.0,Bank Transfer,2,Delivered,4.9,30,220.8,100.8
+ORD-50682,2023-09-01 16:00:00,UID-300,Premium,59,Male,South,PRD-HOM-50,Table Lamp,Home & Garden,3,45,0.37,23.13,Crypto,7,Delivered,4.9,20,85.05,1.92
+ORD-50683,2023-03-11 20:00:00,UID-319,Premium,54,Female,South,PRD-BEA-25,Face Serum,Beauty,2,30,0.33,24.75,Credit Card,13,Shipped,2.7,8,40.2,-0.55
+ORD-50684,2023-10-12 07:00:00,UID-614,Occasional,19,Male,North,PRD-SPO-63,Dumbbells,Sports,3,40,0.04,0.0,PayPal,10,Delivered,3.1,20,115.2,55.2
+ORD-50685,2023-07-09 08:00:00,UID-188,Occasional,45,Male,North,PRD-HOM-12,Indoor Plant,Home & Garden,2,25,0.05,15.72,Credit Card,9,Delivered,3.1,10,47.5,11.78
+ORD-50686,2023-12-03 15:00:00,UID-618,Occasional,36,Female,North,PRD-HOM-53,Indoor Plant,Home & Garden,4,25,0.0,14.52,Crypto,1,Delivered,3.9,10,100.0,45.48
+ORD-50687,2023-07-29 22:00:00,UID-902,Standard,29,Female,South,PRD-SPO-74,Dumbbells,Sports,3,40,0.15,0.0,PayPal,3,Delivered,4.7,20,102.0,42.0
+ORD-50688,2023-08-07 20:00:00,UID-359,Standard,39,Male,North,PRD-BEA-67,Moisturizer,Beauty,2,25,0.09,14.3,Crypto,2,Delivered,4.8,6,45.5,19.2
+ORD-50689,2023-12-10 06:00:00,UID-558,Standard,27,Female,West,PRD-BEA-50,Moisturizer,Beauty,1,25,0.14,11.92,Credit Card,11,Delivered,2.6,6,21.5,3.58
+ORD-50690,2023-08-30 15:00:00,UID-298,Premium,39,Female,West,PRD-SPO-30,Dumbbells,Sports,5,40,0.12,0.0,Credit Card,9,Delivered,3.2,20,176.0,76.0
+ORD-50691,2023-07-21 05:00:00,UID-114,Occasional,35,Male,West,PRD-HOM-66,Vacuum Cleaner,Home & Garden,4,200,0.07,0.0,Bank Transfer,9,Shipped,2.3,100,744.0,344.0
+ORD-50692,2023-12-06 20:00:00,UID-507,Standard,40,Male,East,PRD-HOM-51,Bed Sheets,Home & Garden,1,50,0.09,22.93,PayPal,11,Delivered,2.3,20,45.5,2.57
+ORD-50693,2023-07-20 00:00:00,UID-238,Standard,18,Male,East,PRD-BEA-23,Face Serum,Beauty,3,30,0.14,11.08,Credit Card,7,Delivered,3.6,8,77.4,42.32
+ORD-50694,2023-08-22 19:00:00,UID-437,Standard,32,Male,North,PRD-SPO-63,Dumbbells,Sports,4,40,0.1,0.0,Credit Card,6,Delivered,4.8,20,144.0,64.0
+ORD-50695,2023-11-25 09:00:00,UID-735,Occasional,27,Female,South,PRD-BEA-67,Makeup Set,Beauty,1,40,0.34,21.4,Bank Transfer,4,Delivered,4.1,12,26.4,-7.0
+ORD-50696,2023-06-30 19:00:00,UID-786,Premium,62,Male,East,PRD-HOM-91,Indoor Plant,Home & Garden,6,25,0.2,0.0,PayPal,10,Delivered,2.4,10,120.0,60.0
+ORD-50697,2023-11-27 13:00:00,UID-589,Premium,20,Female,South,PRD-BEA-56,Face Serum,Beauty,6,30,0.39,0.0,Crypto,4,Delivered,3.5,8,109.8,61.8
+ORD-50698,2023-04-15 22:00:00,UID-331,Standard,27,Female,South,PRD-SPO-34,Resistance Bands,Sports,1,15,0.31,18.25,PayPal,11,Delivered,3.7,5,10.35,-12.9
+ORD-50699,2023-07-28 02:00:00,UID-973,Premium,40,Female,East,PRD-BEA-33,Makeup Set,Beauty,2,40,0.13,23.01,Bank Transfer,11,Delivered,3.1,12,69.6,22.59
+ORD-50700,2023-06-08 13:00:00,UID-917,Occasional,63,Male,East,PRD-HOM-80,Vacuum Cleaner,Home & Garden,3,200,0.0,0.0,Credit Card,12,Delivered,3.1,100,600.0,300.0
+ORD-50701,2023-09-30 16:00:00,UID-808,Standard,47,Female,East,PRD-BEA-68,Moisturizer,Beauty,4,25,0.14,8.95,Credit Card,4,Delivered,4.9,6,86.0,53.05
+ORD-50702,2023-03-15 16:00:00,UID-631,Standard,21,Female,East,PRD-BEA-64,Face Serum,Beauty,2,30,0.09,13.17,Credit Card,2,Delivered,4.1,8,54.6,25.43
+ORD-50703,2023-11-09 20:00:00,UID-755,Standard,36,Female,South,PRD-SPO-18,Resistance Bands,Sports,1,15,0.35,22.63,Credit Card,9,Returned,2.2,5,9.75,-17.88
+ORD-50704,2023-10-26 10:00:00,UID-939,Standard,52,Male,East,PRD-BEA-59,Perfume,Beauty,3,80,0.06,0.0,PayPal,11,Delivered,2.8,25,225.6,150.6
+ORD-50705,2023-08-23 14:00:00,UID-975,Occasional,44,Male,East,PRD-HOM-81,Indoor Plant,Home & Garden,1,25,0.03,21.64,Credit Card,10,Delivered,3.7,10,24.25,-7.39
+ORD-50706,2023-07-26 17:00:00,UID-339,Standard,57,Female,East,PRD-BEA-64,Moisturizer,Beauty,2,25,0.09,19.49,Credit Card,12,Delivered,4.3,6,45.5,14.01
+ORD-50707,2023-02-17 06:00:00,UID-778,Standard,54,Male,West,PRD-SPO-11,Treadmill,Sports,4,500,0.09,0.0,Crypto,10,Delivered,4.1,300,1820.0,620.0
+ORD-50708,2023-12-01 00:00:00,UID-970,Occasional,55,Male,North,PRD-BEA-23,Perfume,Beauty,3,80,0.05,0.0,PayPal,3,Delivered,4.7,25,228.0,153.0
+ORD-50709,2023-03-23 15:00:00,UID-494,Standard,18,Female,North,PRD-BEA-59,Moisturizer,Beauty,2,25,0.09,6.26,Credit Card,10,Delivered,3.3,6,45.5,27.24
+ORD-50710,2023-05-15 17:00:00,UID-494,Premium,34,Male,South,PRD-HOM-26,Indoor Plant,Home & Garden,4,25,0.28,16.07,PayPal,14,Delivered,3.9,10,72.0,15.93
+ORD-50711,2023-09-26 08:00:00,UID-812,Standard,63,Male,West,PRD-TEC-28,Bluetooth Speaker,Tech Accessories,4,60,0.1,0.0,Credit Card,5,Delivered,3.8,30,216.0,96.0
+ORD-50712,2023-07-06 07:00:00,UID-216,Standard,31,Male,South,PRD-HOM-54,Vacuum Cleaner,Home & Garden,3,200,0.09,0.0,Crypto,14,Delivered,3.5,100,546.0,246.0
+ORD-50713,2023-01-31 16:00:00,UID-297,Premium,60,Female,East,PRD-TEC-35,Wireless Charger,Tech Accessories,3,35,0.14,7.44,Credit Card,4,Delivered,4.4,15,90.3,37.86
+ORD-50714,2023-11-28 12:00:00,UID-234,Occasional,26,Female,East,PRD-BEA-10,Perfume,Beauty,1,80,0.0,7.84,Credit Card,9,Delivered,2.9,25,80.0,47.16
+ORD-50715,2023-02-21 14:00:00,UID-224,Standard,30,Male,North,PRD-SPO-48,Resistance Bands,Sports,2,15,0.07,6.54,Bank Transfer,4,Returned,2.3,5,27.9,11.36
+ORD-50716,2023-08-26 14:00:00,UID-346,Premium,51,Female,South,PRD-HOM-47,Bed Sheets,Home & Garden,5,50,0.27,0.0,Credit Card,2,Delivered,4.3,20,182.5,82.5
+ORD-50717,2023-12-20 02:00:00,UID-242,Standard,60,Female,South,PRD-SPO-75,Treadmill,Sports,2,500,0.15,0.0,Credit Card,2,Delivered,4.3,300,850.0,250.0
+ORD-50718,2023-03-14 07:00:00,UID-229,Standard,61,Female,East,PRD-TEC-70,Bluetooth Speaker,Tech Accessories,4,60,0.07,0.0,Bank Transfer,2,Delivered,4.0,30,223.2,103.2
+ORD-50719,2023-09-05 13:00:00,UID-211,Standard,37,Male,North,PRD-HOM-17,Indoor Plant,Home & Garden,4,25,0.12,14.51,PayPal,7,Delivered,4.2,10,88.0,33.49
+ORD-50720,2023-11-23 22:00:00,UID-821,Occasional,25,Female,East,PRD-SPO-42,Resistance Bands,Sports,3,15,0.0,17.65,Bank Transfer,3,Delivered,3.8,5,45.0,12.35
+ORD-50721,2023-04-03 12:00:00,UID-340,Premium,37,Male,North,PRD-HOM-22,Table Lamp,Home & Garden,3,45,0.12,0.0,PayPal,13,Delivered,3.5,20,118.8,58.8
+ORD-50722,2023-04-08 22:00:00,UID-775,Occasional,36,Female,West,PRD-TEC-84,Phone Case,Tech Accessories,4,20,0.0,6.21,PayPal,6,Delivered,3.9,5,80.0,53.79
+ORD-50723,2023-06-21 10:00:00,UID-100,Standard,28,Male,North,PRD-BEA-89,Moisturizer,Beauty,1,25,0.13,9.58,Credit Card,5,Returned,1.1,6,21.75,6.17
+ORD-50724,2023-03-30 00:00:00,UID-410,Standard,55,Male,East,PRD-HOM-54,Indoor Plant,Home & Garden,3,25,0.11,17.21,Credit Card,6,Delivered,4.6,10,66.75,19.54
+ORD-50725,2023-05-27 21:00:00,UID-573,Standard,34,Male,South,PRD-SPO-54,Yoga Mat,Sports,2,25,0.31,22.48,Credit Card,7,Delivered,4.3,10,34.5,-7.98
+ORD-50726,2023-01-11 00:00:00,UID-897,Premium,70,Male,East,PRD-SPO-26,Dumbbells,Sports,2,40,0.11,8.63,Credit Card,9,Delivered,4.0,20,71.2,22.57
+ORD-50727,2023-04-12 04:00:00,UID-947,Occasional,32,Male,East,PRD-SPO-54,Treadmill,Sports,4,500,0.05,0.0,Credit Card,6,Delivered,4.5,300,1900.0,700.0
+ORD-50728,2023-01-08 22:00:00,UID-383,Standard,62,Female,West,PRD-HOM-46,Vacuum Cleaner,Home & Garden,2,200,0.13,0.0,Credit Card,7,Delivered,3.6,100,348.0,148.0
+ORD-50729,2023-01-30 22:00:00,UID-773,Standard,61,Male,South,PRD-HOM-45,Vacuum Cleaner,Home & Garden,2,200,0.11,0.0,PayPal,3,Returned,2.0,100,356.0,156.0
+ORD-50730,2023-04-03 20:00:00,UID-655,Occasional,22,Female,North,PRD-SPO-91,Treadmill,Sports,2,500,0.0,0.0,Credit Card,14,Delivered,4.0,300,1000.0,400.0
+ORD-50731,2023-03-14 18:00:00,UID-309,Standard,40,Male,South,PRD-HOM-85,Bed Sheets,Home & Garden,1,50,0.13,14.14,PayPal,7,Delivered,3.9,20,43.5,9.36
+ORD-50732,2023-02-25 19:00:00,UID-762,Standard,47,Female,East,PRD-TEC-99,Phone Case,Tech Accessories,4,20,0.07,20.99,Credit Card,5,Delivered,3.6,5,74.4,33.41
+ORD-50733,2023-10-21 20:00:00,UID-370,Standard,29,Male,North,PRD-HOM-59,Bed Sheets,Home & Garden,2,50,0.1,9.95,PayPal,1,Delivered,4.8,20,90.0,40.05
+ORD-50734,2023-08-01 05:00:00,UID-812,Occasional,49,Male,North,PRD-HOM-36,Table Lamp,Home & Garden,4,45,0.03,0.0,Credit Card,13,Delivered,2.0,20,174.6,94.6
+ORD-50735,2023-12-28 19:00:00,UID-315,Standard,30,Male,West,PRD-BEA-52,Makeup Set,Beauty,4,40,0.15,0.0,PayPal,9,Delivered,2.9,12,136.0,88.0
+ORD-50736,2023-11-08 06:00:00,UID-389,Standard,48,Male,North,PRD-TEC-24,Wireless Charger,Tech Accessories,3,35,0.14,9.99,Credit Card,10,Delivered,4.2,15,90.3,35.31
+ORD-50737,2023-12-29 13:00:00,UID-941,Standard,37,Female,West,PRD-HOM-59,Table Lamp,Home & Garden,4,45,0.13,0.0,Credit Card,7,Delivered,4.8,20,156.6,76.6
+ORD-50738,2023-09-20 07:00:00,UID-547,Occasional,56,Female,South,PRD-BEA-61,Makeup Set,Beauty,2,40,0.3,18.7,Credit Card,6,Delivered,4.3,12,56.0,13.3
+ORD-50739,2023-05-21 17:00:00,UID-239,Occasional,40,Male,North,PRD-BEA-91,Face Serum,Beauty,1,30,0.0,20.22,Credit Card,7,Returned,1.7,8,30.0,1.78
+ORD-50740,2023-07-01 12:00:00,UID-676,Standard,30,Male,North,PRD-TEC-77,Phone Case,Tech Accessories,4,20,0.13,14.4,PayPal,10,Delivered,4.4,5,69.6,35.2
+ORD-50741,2023-03-18 06:00:00,UID-580,Premium,18,Female,South,PRD-TEC-86,Bluetooth Speaker,Tech Accessories,2,60,0.4,8.18,Credit Card,11,Delivered,2.5,30,72.0,3.82
+ORD-50742,2023-03-01 03:00:00,UID-336,Occasional,40,Female,North,PRD-SPO-57,Yoga Mat,Sports,3,25,0.06,9.44,Bank Transfer,7,Delivered,3.7,10,70.5,31.06
+ORD-50743,2023-06-18 15:00:00,UID-188,Standard,49,Male,South,PRD-HOM-29,Indoor Plant,Home & Garden,1,25,0.28,23.48,Credit Card,10,Delivered,3.8,10,18.0,-15.48
+ORD-50744,2023-10-07 12:00:00,UID-120,Standard,23,Female,East,PRD-HOM-27,Indoor Plant,Home & Garden,4,25,0.06,23.22,Credit Card,8,Delivered,4.3,10,94.0,30.78
+ORD-50745,2023-06-29 03:00:00,UID-603,Occasional,64,Female,West,PRD-TEC-92,Wireless Charger,Tech Accessories,1,35,0.06,19.14,Credit Card,13,Returned,2.2,15,32.9,-1.24
+ORD-50746,2023-08-16 01:00:00,UID-260,Occasional,42,Female,North,PRD-BEA-70,Moisturizer,Beauty,3,25,0.0,5.7,PayPal,4,Delivered,3.7,6,75.0,51.3
+ORD-50747,2023-02-03 19:00:00,UID-432,Occasional,23,Male,South,PRD-HOM-34,Bed Sheets,Home & Garden,3,50,0.0,0.0,PayPal,12,Delivered,3.4,20,150.0,90.0
+ORD-50748,2023-06-13 04:00:00,UID-743,Standard,41,Female,East,PRD-SPO-11,Resistance Bands,Sports,4,15,0.13,17.71,Bank Transfer,14,Delivered,3.1,5,52.2,14.49
+ORD-50749,2023-11-01 16:00:00,UID-693,Occasional,55,Male,East,PRD-SPO-50,Yoga Mat,Sports,4,25,0.0,22.56,Crypto,7,Delivered,4.9,10,100.0,37.44
+ORD-50750,2023-05-14 02:00:00,UID-331,Standard,23,Male,South,PRD-HOM-50,Indoor Plant,Home & Garden,1,25,0.37,15.53,Bank Transfer,5,Delivered,3.8,10,15.75,-9.78
+ORD-50751,2023-03-12 14:00:00,UID-509,Premium,19,Male,South,PRD-HOM-67,Indoor Plant,Home & Garden,3,25,0.3,9.19,PayPal,1,Delivered,4.4,10,52.5,13.31
+ORD-50752,2023-06-24 06:00:00,UID-993,Standard,47,Male,West,PRD-BEA-22,Perfume,Beauty,2,80,0.12,0.0,Credit Card,13,Delivered,3.8,25,140.8,90.8
+ORD-50753,2023-06-16 20:00:00,UID-973,Occasional,58,Female,North,PRD-TEC-42,Bluetooth Speaker,Tech Accessories,2,60,0.03,0.0,Credit Card,6,Delivered,4.0,30,116.4,56.4
+ORD-50754,2023-06-20 22:00:00,UID-872,Standard,66,Male,West,PRD-SPO-39,Dumbbells,Sports,2,40,0.15,16.54,Credit Card,13,Delivered,3.8,20,68.0,11.46
+ORD-50755,2023-09-01 22:00:00,UID-578,Occasional,39,Male,North,PRD-SPO-36,Yoga Mat,Sports,4,25,0.0,5.64,Credit Card,9,Delivered,3.7,10,100.0,54.36
+ORD-50756,2023-02-28 01:00:00,UID-327,Occasional,56,Male,West,PRD-SPO-25,Treadmill,Sports,1,500,0.02,0.0,PayPal,14,Shipped,2.7,300,490.0,190.0
+ORD-50757,2023-12-01 20:00:00,UID-489,Standard,25,Female,North,PRD-BEA-90,Makeup Set,Beauty,3,40,0.14,0.0,PayPal,13,Returned,1.4,12,103.2,67.2
+ORD-50758,2023-03-02 19:00:00,UID-252,Standard,70,Female,North,PRD-SPO-26,Dumbbells,Sports,1,40,0.13,24.26,PayPal,12,Delivered,4.2,20,34.8,-9.46
+ORD-50759,2023-07-04 06:00:00,UID-551,Occasional,42,Female,West,PRD-HOM-30,Bed Sheets,Home & Garden,3,50,0.09,0.0,Credit Card,14,Delivered,3.4,20,136.5,76.5
+ORD-50760,2023-11-14 09:00:00,UID-246,Premium,35,Female,West,PRD-TEC-23,Bluetooth Speaker,Tech Accessories,2,60,0.17,24.95,Credit Card,13,Delivered,2.4,30,99.6,14.65
+ORD-50761,2023-10-27 00:00:00,UID-841,Standard,22,Female,West,PRD-TEC-68,Wireless Charger,Tech Accessories,4,35,0.09,0.0,PayPal,5,Delivered,3.7,15,127.4,67.4
+ORD-50762,2023-05-01 23:00:00,UID-295,Standard,69,Female,West,PRD-BEA-99,Perfume,Beauty,1,80,0.09,11.62,Bank Transfer,9,Delivered,3.0,25,72.8,36.18
+ORD-50763,2023-07-26 14:00:00,UID-277,Premium,50,Female,South,PRD-TEC-26,Smart Watch,Tech Accessories,4,150,0.15,0.0,PayPal,2,Delivered,4.4,75,510.0,210.0
+ORD-50764,2023-05-05 17:00:00,UID-627,Standard,60,Female,East,PRD-BEA-29,Perfume,Beauty,4,80,0.13,0.0,Credit Card,7,Delivered,4.0,25,278.4,178.4
+ORD-50765,2023-03-09 21:00:00,UID-716,Occasional,28,Male,West,PRD-BEA-41,Moisturizer,Beauty,3,25,0.0,19.81,Credit Card,10,Delivered,2.5,6,75.0,37.19
+ORD-50766,2023-08-30 06:00:00,UID-419,Standard,22,Male,West,PRD-BEA-48,Perfume,Beauty,3,80,0.09,0.0,PayPal,5,Delivered,3.9,25,218.4,143.4
+ORD-50767,2023-07-03 12:00:00,UID-562,Premium,35,Male,North,PRD-BEA-51,Moisturizer,Beauty,5,25,0.12,0.0,PayPal,5,Delivered,4.9,6,110.0,80.0
+ORD-50768,2023-07-16 05:00:00,UID-359,Occasional,55,Male,West,PRD-HOM-84,Vacuum Cleaner,Home & Garden,1,200,0.0,0.0,PayPal,10,Delivered,3.7,100,200.0,100.0
+ORD-50769,2023-08-24 19:00:00,UID-700,Standard,41,Male,West,PRD-HOM-18,Vacuum Cleaner,Home & Garden,3,200,0.09,0.0,PayPal,12,Delivered,3.9,100,546.0,246.0
+ORD-50770,2023-11-13 05:00:00,UID-513,Occasional,42,Female,South,PRD-SPO-83,Treadmill,Sports,4,500,0.32,0.0,PayPal,8,Delivered,4.1,300,1360.0,160.0
+ORD-50771,2023-10-13 07:00:00,UID-569,Occasional,61,Male,East,PRD-SPO-15,Resistance Bands,Sports,3,15,0.0,19.83,PayPal,14,Delivered,2.4,5,45.0,10.17
+ORD-50772,2023-08-22 02:00:00,UID-231,Standard,53,Female,East,PRD-BEA-34,Perfume,Beauty,4,80,0.12,0.0,Bank Transfer,3,Delivered,4.7,25,281.6,181.6
+ORD-50773,2023-11-19 10:00:00,UID-239,Standard,19,Female,South,PRD-BEA-63,Perfume,Beauty,2,80,0.14,0.0,PayPal,2,Delivered,4.7,25,137.6,87.6
+ORD-50774,2023-07-15 10:00:00,UID-166,Standard,43,Male,West,PRD-HOM-62,Table Lamp,Home & Garden,1,45,0.09,18.52,Credit Card,9,Delivered,4.0,20,40.95,2.43
+ORD-50775,2023-02-18 14:00:00,UID-674,Standard,29,Male,West,PRD-HOM-88,Bed Sheets,Home & Garden,2,50,0.14,21.27,Credit Card,8,Delivered,2.4,20,86.0,24.73
+ORD-50776,2023-07-20 23:00:00,UID-655,Premium,25,Male,South,PRD-HOM-35,Vacuum Cleaner,Home & Garden,4,200,0.38,0.0,PayPal,8,Delivered,3.2,100,496.0,96.0
+ORD-50777,2023-05-23 07:00:00,UID-966,Premium,48,Female,North,PRD-BEA-39,Makeup Set,Beauty,5,40,0.12,0.0,Credit Card,8,Delivered,2.6,12,176.0,116.0
+ORD-50778,2023-01-11 19:00:00,UID-237,Occasional,25,Female,East,PRD-HOM-70,Table Lamp,Home & Garden,4,45,0.05,0.0,PayPal,13,Shipped,3.8,20,171.0,91.0
+ORD-50779,2023-10-10 23:00:00,UID-556,Occasional,27,Female,North,PRD-TEC-17,Phone Case,Tech Accessories,2,20,0.04,12.67,PayPal,5,Delivered,4.8,5,38.4,15.73
+ORD-50780,2023-10-21 09:00:00,UID-726,Standard,38,Male,West,PRD-TEC-38,Phone Case,Tech Accessories,1,20,0.13,5.92,Credit Card,14,Delivered,3.7,5,17.4,6.48
+ORD-50781,2023-06-08 06:00:00,UID-505,Standard,45,Female,North,PRD-SPO-80,Treadmill,Sports,3,500,0.11,0.0,Bank Transfer,10,Delivered,2.3,300,1335.0,435.0
+ORD-50782,2023-11-05 18:00:00,UID-457,Standard,70,Female,North,PRD-HOM-46,Table Lamp,Home & Garden,3,45,0.09,0.0,Credit Card,2,Returned,1.6,20,122.85,62.85
+ORD-50783,2023-10-21 12:00:00,UID-825,Occasional,55,Male,West,PRD-TEC-15,Smart Watch,Tech Accessories,4,150,0.0,0.0,Credit Card,13,Delivered,2.7,75,600.0,300.0
+ORD-50784,2023-03-01 04:00:00,UID-726,Occasional,68,Male,East,PRD-HOM-90,Bed Sheets,Home & Garden,3,50,0.0,0.0,Crypto,8,Delivered,3.6,20,150.0,90.0
+ORD-50785,2023-07-06 20:00:00,UID-894,Standard,44,Male,South,PRD-SPO-24,Dumbbells,Sports,1,40,0.3,15.59,Credit Card,8,Delivered,2.8,20,28.0,-7.59
+ORD-50786,2023-01-14 01:00:00,UID-387,Standard,28,Female,East,PRD-SPO-79,Treadmill,Sports,1,500,0.14,0.0,Credit Card,4,Delivered,4.3,300,430.0,130.0
+ORD-50787,2023-02-25 09:00:00,UID-716,Standard,23,Male,East,PRD-TEC-38,Wireless Charger,Tech Accessories,1,35,0.13,15.33,Crypto,4,Delivered,3.7,15,30.45,0.12
+ORD-50788,2023-12-11 18:00:00,UID-931,Standard,43,Male,South,PRD-TEC-10,Smart Watch,Tech Accessories,2,150,0.38,0.0,Credit Card,8,Returned,1.2,75,186.0,36.0
+ORD-50789,2023-01-27 19:00:00,UID-667,Premium,48,Male,North,PRD-BEA-39,Makeup Set,Beauty,6,40,0.24,0.0,PayPal,10,Delivered,2.9,12,182.4,110.4
+ORD-50790,2023-01-08 08:00:00,UID-704,Occasional,43,Female,West,PRD-BEA-20,Makeup Set,Beauty,4,40,0.0,0.0,Credit Card,5,Delivered,3.8,12,160.0,112.0
+ORD-50791,2023-06-11 02:00:00,UID-467,Occasional,19,Female,East,PRD-BEA-47,Moisturizer,Beauty,3,25,0.03,14.66,PayPal,1,Delivered,3.8,6,72.75,40.09
+ORD-50792,2023-01-07 20:00:00,UID-973,Occasional,62,Female,North,PRD-BEA-48,Perfume,Beauty,2,80,0.0,0.0,Credit Card,5,Shipped,4.7,25,160.0,110.0
+ORD-50793,2023-01-16 09:00:00,UID-766,Occasional,21,Male,South,PRD-BEA-73,Moisturizer,Beauty,3,25,0.4,10.5,PayPal,3,Returned,1.4,6,45.0,16.5
+ORD-50794,2023-06-21 07:00:00,UID-840,Occasional,32,Female,South,PRD-BEA-13,Perfume,Beauty,2,80,0.27,0.0,Credit Card,2,Returned,1.8,25,116.8,66.8
+ORD-50795,2023-12-14 03:00:00,UID-672,Standard,69,Male,North,PRD-SPO-29,Resistance Bands,Sports,1,15,0.12,8.09,Credit Card,5,Delivered,3.6,5,13.2,0.11
+ORD-50796,2023-08-20 23:00:00,UID-565,Standard,41,Female,West,PRD-SPO-51,Yoga Mat,Sports,4,25,0.1,12.62,Crypto,11,Delivered,3.4,10,90.0,37.38
+ORD-50797,2023-06-10 10:00:00,UID-403,Standard,43,Female,South,PRD-BEA-41,Moisturizer,Beauty,4,25,0.36,22.66,Credit Card,3,Delivered,3.7,6,64.0,17.34
+ORD-50798,2023-04-19 03:00:00,UID-627,Standard,18,Female,South,PRD-TEC-71,Bluetooth Speaker,Tech Accessories,4,60,0.36,0.0,Bank Transfer,4,Delivered,4.6,30,153.6,33.6
+ORD-50799,2023-10-28 14:00:00,UID-349,Occasional,56,Male,West,PRD-TEC-50,Bluetooth Speaker,Tech Accessories,1,60,0.0,8.2,Credit Card,8,Delivered,3.6,30,60.0,21.8
+ORD-50800,2023-04-16 21:00:00,UID-250,Standard,32,Male,West,PRD-HOM-88,Vacuum Cleaner,Home & Garden,1,200,0.09,0.0,PayPal,10,Delivered,3.7,100,182.0,82.0
+ORD-50801,2023-08-18 23:00:00,UID-116,Standard,32,Male,West,PRD-BEA-90,Moisturizer,Beauty,4,25,0.13,23.83,Credit Card,10,Delivered,3.4,6,87.0,39.17
+ORD-50802,2023-02-13 14:00:00,UID-575,Standard,22,Male,South,PRD-BEA-80,Face Serum,Beauty,4,30,0.06,0.0,PayPal,11,Returned,1.8,8,112.8,80.8
+ORD-50803,2023-02-25 05:00:00,UID-263,Occasional,67,Male,West,PRD-HOM-17,Indoor Plant,Home & Garden,4,25,0.01,17.36,Bank Transfer,10,Returned,1.6,10,99.0,41.64
+ORD-50804,2023-08-05 08:00:00,UID-683,Standard,47,Female,North,PRD-HOM-74,Indoor Plant,Home & Garden,3,25,0.06,19.71,Credit Card,12,Delivered,3.3,10,70.5,20.79
+ORD-50805,2023-08-15 08:00:00,UID-312,Occasional,57,Male,North,PRD-TEC-96,Phone Case,Tech Accessories,4,20,0.09,21.29,Credit Card,4,Shipped,4.7,5,72.8,31.51
+ORD-50806,2023-01-26 15:00:00,UID-102,Premium,56,Male,West,PRD-HOM-38,Indoor Plant,Home & Garden,3,25,0.15,8.52,Credit Card,8,Delivered,3.2,10,63.75,25.23
+ORD-50807,2023-04-21 19:00:00,UID-712,Standard,27,Female,West,PRD-SPO-61,Treadmill,Sports,2,500,0.11,0.0,Credit Card,13,Delivered,2.9,300,890.0,290.0
+ORD-50808,2023-03-31 14:00:00,UID-672,Occasional,56,Male,North,PRD-TEC-34,Bluetooth Speaker,Tech Accessories,1,60,0.03,24.2,PayPal,9,Returned,1.3,30,58.2,4.0
+ORD-50809,2023-11-21 19:00:00,UID-566,Occasional,55,Female,West,PRD-BEA-89,Makeup Set,Beauty,4,40,0.0,0.0,PayPal,5,Returned,1.4,12,160.0,112.0
+ORD-50810,2023-12-24 14:00:00,UID-335,Occasional,43,Male,North,PRD-BEA-22,Face Serum,Beauty,3,30,0.0,15.93,Credit Card,2,Delivered,4.3,8,90.0,50.07
+ORD-50811,2023-02-09 02:00:00,UID-336,Standard,51,Female,South,PRD-HOM-38,Indoor Plant,Home & Garden,3,25,0.32,16.89,PayPal,12,Delivered,3.3,10,51.0,4.11
+ORD-50812,2023-10-29 19:00:00,UID-873,Occasional,67,Female,West,PRD-HOM-43,Bed Sheets,Home & Garden,2,50,0.0,6.14,Bank Transfer,11,Delivered,3.3,20,100.0,53.86
+ORD-50813,2023-07-12 02:00:00,UID-374,Standard,41,Male,North,PRD-TEC-35,Phone Case,Tech Accessories,2,20,0.11,16.92,Credit Card,8,Returned,1.2,5,35.6,8.68
+ORD-50814,2023-10-18 09:00:00,UID-921,Occasional,31,Male,East,PRD-HOM-13,Table Lamp,Home & Garden,3,45,0.0,0.0,Credit Card,11,Returned,1.6,20,135.0,75.0
+ORD-50815,2023-03-14 17:00:00,UID-181,Standard,27,Male,West,PRD-BEA-30,Makeup Set,Beauty,1,40,0.14,21.97,Crypto,13,Delivered,2.5,12,34.4,0.43
+ORD-50816,2023-04-24 08:00:00,UID-931,Premium,29,Male,West,PRD-TEC-92,Wireless Charger,Tech Accessories,5,35,0.14,0.0,Crypto,10,Returned,2.0,15,150.5,75.5
+ORD-50817,2023-10-12 06:00:00,UID-767,Occasional,39,Male,West,PRD-TEC-58,Wireless Charger,Tech Accessories,3,35,0.09,21.58,Credit Card,10,Returned,1.7,15,95.55,28.97
+ORD-50818,2023-04-23 18:00:00,UID-602,Standard,68,Male,South,PRD-BEA-25,Perfume,Beauty,1,80,0.26,22.76,Credit Card,6,Returned,2.1,25,59.2,11.44
+ORD-50819,2023-07-18 05:00:00,UID-945,Standard,53,Male,East,PRD-BEA-97,Moisturizer,Beauty,3,25,0.08,6.04,Credit Card,10,Delivered,2.9,6,69.0,44.96
+ORD-50820,2023-10-22 11:00:00,UID-335,Standard,59,Male,West,PRD-BEA-50,Face Serum,Beauty,2,30,0.11,21.35,Bank Transfer,12,Delivered,3.0,8,53.4,16.05
+ORD-50821,2023-10-13 21:00:00,UID-949,Standard,42,Female,West,PRD-SPO-25,Yoga Mat,Sports,3,25,0.08,5.65,Credit Card,5,Delivered,3.7,10,69.0,33.35
+ORD-50822,2023-02-03 01:00:00,UID-183,Occasional,55,Male,West,PRD-BEA-20,Face Serum,Beauty,4,30,0.0,0.0,Crypto,12,Delivered,3.5,8,120.0,88.0
+ORD-50823,2023-01-12 19:00:00,UID-519,Premium,27,Female,South,PRD-HOM-55,Bed Sheets,Home & Garden,6,50,0.23,0.0,Bank Transfer,13,Delivered,2.7,20,231.0,111.0
+ORD-50824,2023-10-12 12:00:00,UID-792,Occasional,70,Female,North,PRD-BEA-70,Makeup Set,Beauty,4,40,0.0,0.0,Bank Transfer,10,Delivered,2.4,12,160.0,112.0
+ORD-50825,2023-11-02 02:00:00,UID-159,Occasional,41,Female,South,PRD-HOM-92,Table Lamp,Home & Garden,1,45,0.34,12.54,PayPal,10,Delivered,3.1,20,29.7,-2.84
+ORD-50826,2023-03-15 19:00:00,UID-410,Premium,58,Male,West,PRD-SPO-80,Yoga Mat,Sports,7,25,0.12,0.0,Credit Card,7,Returned,1.0,10,154.0,84.0
+ORD-50827,2023-05-19 16:00:00,UID-865,Standard,53,Female,East,PRD-TEC-73,Phone Case,Tech Accessories,3,20,0.15,7.31,Credit Card,13,Delivered,3.2,5,51.0,28.69
+ORD-50828,2023-08-26 11:00:00,UID-861,Occasional,22,Female,North,PRD-SPO-96,Resistance Bands,Sports,1,15,0.0,11.61,Credit Card,3,Returned,2.0,5,15.0,-1.61
+ORD-50829,2023-03-08 14:00:00,UID-833,Standard,24,Female,South,PRD-HOM-54,Vacuum Cleaner,Home & Garden,4,200,0.31,0.0,PayPal,10,Delivered,3.4,100,552.0,152.0
+ORD-50830,2023-07-13 14:00:00,UID-499,Standard,47,Female,South,PRD-HOM-37,Bed Sheets,Home & Garden,2,50,0.12,17.52,Bank Transfer,3,Delivered,4.9,20,88.0,30.48
+ORD-50831,2023-07-12 00:00:00,UID-336,Premium,26,Male,East,PRD-BEA-74,Perfume,Beauty,2,80,0.22,0.0,Credit Card,4,Shipped,4.6,25,124.8,74.8
+ORD-50832,2023-05-28 20:00:00,UID-340,Standard,56,Female,North,PRD-TEC-61,Smart Watch,Tech Accessories,1,150,0.14,0.0,Credit Card,8,Delivered,3.5,75,129.0,54.0
+ORD-50833,2023-02-26 02:00:00,UID-641,Occasional,39,Female,East,PRD-SPO-34,Treadmill,Sports,2,500,0.03,0.0,PayPal,10,Delivered,3.8,300,970.0,370.0
+ORD-50834,2023-08-23 17:00:00,UID-217,Occasional,28,Male,North,PRD-SPO-73,Treadmill,Sports,3,500,0.09,0.0,Credit Card,14,Delivered,2.7,300,1365.0,465.0
+ORD-50835,2023-01-12 17:00:00,UID-965,Occasional,67,Male,South,PRD-SPO-60,Yoga Mat,Sports,4,25,0.08,8.81,Credit Card,1,Delivered,4.9,10,92.0,43.19
+ORD-50836,2023-11-13 02:00:00,UID-946,Occasional,47,Male,East,PRD-TEC-67,Wireless Charger,Tech Accessories,4,35,0.0,0.0,Crypto,7,Delivered,4.4,15,140.0,80.0
+ORD-50837,2023-02-27 03:00:00,UID-257,Occasional,24,Male,West,PRD-BEA-59,Perfume,Beauty,1,80,0.06,13.37,Credit Card,8,Delivered,2.9,25,75.2,36.83
+ORD-50838,2023-02-07 19:00:00,UID-503,Occasional,37,Female,South,PRD-BEA-14,Makeup Set,Beauty,3,40,0.34,23.82,Credit Card,7,Delivered,3.6,12,79.2,19.38
+ORD-50839,2023-07-12 02:00:00,UID-685,Occasional,58,Male,West,PRD-BEA-18,Makeup Set,Beauty,1,40,0.0,18.35,PayPal,5,Returned,1.7,12,40.0,9.65
+ORD-50840,2023-10-19 18:00:00,UID-865,Occasional,61,Female,East,PRD-BEA-51,Perfume,Beauty,1,80,0.08,11.38,Credit Card,2,Returned,1.7,25,73.6,37.22
+ORD-50841,2023-04-18 10:00:00,UID-455,Premium,56,Female,North,PRD-SPO-60,Dumbbells,Sports,3,40,0.13,0.0,Credit Card,12,Delivered,3.6,20,104.4,44.4
+ORD-50842,2023-01-27 11:00:00,UID-147,Standard,55,Male,North,PRD-BEA-21,Moisturizer,Beauty,3,25,0.05,10.68,Credit Card,6,Shipped,3.8,6,71.25,42.57
+ORD-50843,2023-02-28 23:00:00,UID-574,Occasional,57,Female,East,PRD-SPO-55,Yoga Mat,Sports,4,25,0.0,12.39,Credit Card,7,Shipped,3.7,10,100.0,47.61
+ORD-50844,2023-07-23 17:00:00,UID-971,Occasional,44,Male,East,PRD-TEC-70,Wireless Charger,Tech Accessories,1,35,0.0,23.99,Credit Card,13,Delivered,3.2,15,35.0,-3.99
+ORD-50845,2023-02-17 14:00:00,UID-509,Standard,35,Female,East,PRD-TEC-35,Phone Case,Tech Accessories,4,20,0.13,19.33,Credit Card,13,Delivered,4.1,5,69.6,30.27
+ORD-50846,2023-12-22 19:00:00,UID-307,Premium,56,Female,South,PRD-HOM-79,Table Lamp,Home & Garden,5,45,0.26,0.0,Credit Card,12,Delivered,3.1,20,166.5,66.5
+ORD-50847,2023-12-07 19:00:00,UID-710,Occasional,61,Female,East,PRD-SPO-12,Yoga Mat,Sports,2,25,0.0,16.96,Credit Card,13,Delivered,3.4,10,50.0,13.04
+ORD-50848,2023-11-02 18:00:00,UID-995,Standard,70,Male,West,PRD-BEA-72,Moisturizer,Beauty,1,25,0.09,11.21,PayPal,7,Returned,2.4,6,22.75,5.54
+ORD-50849,2023-06-01 18:00:00,UID-208,Occasional,33,Male,South,PRD-SPO-75,Yoga Mat,Sports,3,25,0.0,6.16,Bank Transfer,10,Delivered,3.3,10,75.0,38.84
+ORD-50850,2023-04-29 01:00:00,UID-337,Standard,62,Female,West,PRD-BEA-23,Perfume,Beauty,2,80,0.07,0.0,PayPal,7,Delivered,4.6,25,148.8,98.8
+ORD-50851,2023-12-19 14:00:00,UID-597,Occasional,44,Male,South,PRD-TEC-81,Smart Watch,Tech Accessories,2,150,0.07,0.0,Credit Card,1,Returned,2.5,75,279.0,129.0
+ORD-50852,2023-11-07 20:00:00,UID-693,Premium,47,Female,South,PRD-SPO-28,Resistance Bands,Sports,3,15,0.2,10.67,Bank Transfer,12,Delivered,2.7,5,36.0,10.33
+ORD-50853,2023-11-12 08:00:00,UID-707,Standard,47,Female,East,PRD-SPO-75,Yoga Mat,Sports,1,25,0.12,5.73,Credit Card,11,Returned,1.8,10,22.0,6.27
+ORD-50854,2023-04-08 07:00:00,UID-585,Standard,66,Male,West,PRD-BEA-90,Makeup Set,Beauty,2,40,0.12,18.52,Credit Card,9,Delivered,2.8,12,70.4,27.88
+ORD-50855,2023-02-10 11:00:00,UID-398,Standard,57,Male,North,PRD-BEA-38,Makeup Set,Beauty,3,40,0.05,0.0,PayPal,6,Delivered,4.0,12,114.0,78.0
+ORD-50856,2023-09-12 15:00:00,UID-510,Occasional,21,Female,East,PRD-BEA-24,Makeup Set,Beauty,2,40,0.0,7.95,PayPal,7,Delivered,3.6,12,80.0,48.05
+ORD-50857,2023-04-27 14:00:00,UID-642,Standard,64,Female,West,PRD-SPO-41,Resistance Bands,Sports,3,15,0.11,15.94,Credit Card,5,Delivered,3.9,5,40.05,9.11
+ORD-50858,2023-06-12 10:00:00,UID-770,Occasional,59,Female,East,PRD-SPO-68,Yoga Mat,Sports,4,25,0.0,12.59,Credit Card,6,Delivered,3.5,10,100.0,47.41
+ORD-50859,2023-07-22 00:00:00,UID-849,Standard,48,Male,East,PRD-BEA-55,Moisturizer,Beauty,4,25,0.08,6.41,Credit Card,9,Delivered,2.9,6,92.0,61.59
+ORD-50860,2023-05-20 05:00:00,UID-776,Occasional,49,Male,North,PRD-BEA-91,Moisturizer,Beauty,4,25,0.0,8.06,PayPal,2,Shipped,4.5,6,100.0,67.94
+ORD-50861,2023-09-30 23:00:00,UID-558,Standard,70,Female,East,PRD-SPO-15,Dumbbells,Sports,3,40,0.07,0.0,PayPal,11,Delivered,3.3,20,111.6,51.6
+ORD-50862,2023-09-09 08:00:00,UID-105,Standard,39,Male,East,PRD-TEC-52,Smart Watch,Tech Accessories,1,150,0.14,0.0,Credit Card,1,Delivered,3.8,75,129.0,54.0
+ORD-50863,2023-02-06 01:00:00,UID-511,Standard,34,Male,South,PRD-TEC-61,Phone Case,Tech Accessories,2,20,0.14,13.05,PayPal,6,Delivered,3.8,5,34.4,11.35
+ORD-50864,2023-09-29 01:00:00,UID-812,Standard,61,Female,West,PRD-TEC-18,Phone Case,Tech Accessories,2,20,0.12,22.54,Credit Card,12,Delivered,2.5,5,35.2,2.66
+ORD-50865,2023-09-28 23:00:00,UID-494,Standard,53,Female,East,PRD-HOM-11,Vacuum Cleaner,Home & Garden,4,200,0.12,0.0,Bank Transfer,13,Delivered,3.3,100,704.0,304.0
+ORD-50866,2023-10-01 23:00:00,UID-317,Standard,32,Female,East,PRD-TEC-12,Bluetooth Speaker,Tech Accessories,4,60,0.13,0.0,Credit Card,7,Delivered,4.3,30,208.8,88.8
+ORD-50867,2023-09-17 18:00:00,UID-791,Standard,37,Male,West,PRD-HOM-80,Vacuum Cleaner,Home & Garden,4,200,0.08,0.0,Credit Card,5,Shipped,3.5,100,736.0,336.0
+ORD-50868,2023-04-08 04:00:00,UID-667,Occasional,64,Female,West,PRD-BEA-14,Makeup Set,Beauty,1,40,0.0,5.87,Credit Card,12,Delivered,4.1,12,40.0,22.13
+ORD-50869,2023-10-13 06:00:00,UID-875,Premium,49,Male,North,PRD-TEC-76,Bluetooth Speaker,Tech Accessories,4,60,0.17,0.0,Credit Card,9,Delivered,3.5,30,199.2,79.2
+ORD-50870,2023-04-19 16:00:00,UID-597,Standard,55,Female,West,PRD-TEC-33,Wireless Charger,Tech Accessories,4,35,0.1,0.0,Credit Card,13,Delivered,4.1,15,126.0,66.0
+ORD-50871,2023-11-16 15:00:00,UID-880,Occasional,59,Male,North,PRD-SPO-73,Dumbbells,Sports,3,40,0.09,0.0,PayPal,6,Delivered,3.8,20,109.2,49.2
+ORD-50872,2023-09-28 04:00:00,UID-598,Standard,51,Male,North,PRD-SPO-11,Dumbbells,Sports,4,40,0.14,0.0,Crypto,9,Returned,2.4,20,137.6,57.6
+ORD-50873,2023-09-15 05:00:00,UID-969,Standard,34,Male,East,PRD-HOM-30,Bed Sheets,Home & Garden,1,50,0.11,11.25,Credit Card,5,Delivered,3.8,20,44.5,13.25
+ORD-50874,2023-08-21 12:00:00,UID-339,Occasional,42,Male,West,PRD-SPO-70,Treadmill,Sports,2,500,0.0,0.0,Credit Card,10,Delivered,4.0,300,1000.0,400.0
+ORD-50875,2023-12-20 04:00:00,UID-244,Standard,55,Female,South,PRD-SPO-47,Treadmill,Sports,4,500,0.33,0.0,Crypto,4,Delivered,4.6,300,1340.0,140.0
+ORD-50876,2023-11-10 00:00:00,UID-509,Standard,32,Male,South,PRD-BEA-74,Makeup Set,Beauty,1,40,0.1,9.66,Credit Card,12,Delivered,2.8,12,36.0,14.34
+ORD-50877,2023-02-20 19:00:00,UID-886,Occasional,30,Male,West,PRD-TEC-29,Smart Watch,Tech Accessories,3,150,0.0,0.0,Credit Card,13,Delivered,2.6,75,450.0,225.0
+ORD-50878,2023-01-19 22:00:00,UID-833,Premium,24,Female,North,PRD-BEA-45,Moisturizer,Beauty,5,25,0.13,0.0,Credit Card,3,Delivered,5.0,6,108.75,78.75
+ORD-50879,2023-11-28 10:00:00,UID-661,Standard,56,Female,North,PRD-HOM-87,Indoor Plant,Home & Garden,4,25,0.12,14.04,Credit Card,3,Shipped,4.9,10,88.0,33.96
+ORD-50880,2023-03-10 08:00:00,UID-845,Occasional,24,Male,North,PRD-SPO-96,Treadmill,Sports,1,500,0.0,0.0,Credit Card,1,Delivered,4.7,300,500.0,200.0
+ORD-50881,2023-08-16 17:00:00,UID-760,Standard,32,Female,South,PRD-BEA-37,Face Serum,Beauty,2,30,0.06,20.24,Crypto,7,Delivered,3.6,8,56.4,20.16
+ORD-50882,2023-06-26 01:00:00,UID-863,Occasional,64,Female,North,PRD-BEA-66,Moisturizer,Beauty,2,25,0.01,5.6,Credit Card,10,Delivered,2.4,6,49.5,31.9
+ORD-50883,2023-07-01 11:00:00,UID-145,Occasional,22,Female,North,PRD-BEA-10,Moisturizer,Beauty,4,25,0.0,12.36,Credit Card,11,Delivered,2.4,6,100.0,63.64
+ORD-50884,2023-06-20 08:00:00,UID-208,Standard,61,Male,South,PRD-SPO-68,Treadmill,Sports,3,500,0.28,0.0,PayPal,12,Delivered,2.7,300,1080.0,180.0
+ORD-50885,2023-03-10 07:00:00,UID-831,Standard,47,Female,South,PRD-BEA-92,Perfume,Beauty,4,80,0.28,0.0,Credit Card,3,Delivered,4.1,25,230.4,130.4
+ORD-50886,2023-11-27 21:00:00,UID-706,Premium,60,Female,North,PRD-HOM-68,Table Lamp,Home & Garden,7,45,0.23,0.0,Credit Card,9,Returned,1.6,20,242.55,102.55
+ORD-50887,2023-10-23 14:00:00,UID-529,Occasional,36,Female,West,PRD-SPO-14,Treadmill,Sports,4,500,0.09,0.0,Credit Card,10,Delivered,3.4,300,1820.0,620.0
+ORD-50888,2023-02-11 08:00:00,UID-367,Occasional,24,Male,South,PRD-TEC-65,Smart Watch,Tech Accessories,1,150,0.37,24.11,PayPal,12,Delivered,4.1,75,94.5,-4.61
+ORD-50889,2023-02-25 10:00:00,UID-611,Occasional,68,Male,North,PRD-TEC-84,Bluetooth Speaker,Tech Accessories,4,60,0.0,0.0,Credit Card,5,Delivered,4.2,30,240.0,120.0
+ORD-50890,2023-12-26 07:00:00,UID-636,Occasional,58,Female,East,PRD-HOM-57,Indoor Plant,Home & Garden,4,25,0.04,15.59,Credit Card,13,Delivered,3.1,10,96.0,40.41
+ORD-50891,2023-12-07 06:00:00,UID-332,Premium,52,Female,North,PRD-HOM-48,Bed Sheets,Home & Garden,4,50,0.24,0.0,Crypto,14,Delivered,2.7,20,152.0,72.0
+ORD-50892,2023-11-26 03:00:00,UID-356,Standard,28,Male,East,PRD-BEA-78,Face Serum,Beauty,3,30,0.06,18.04,PayPal,4,Delivered,3.6,8,84.6,42.56
+ORD-50893,2023-11-25 04:00:00,UID-166,Standard,68,Female,North,PRD-TEC-13,Smart Watch,Tech Accessories,1,150,0.11,0.0,Credit Card,11,Delivered,2.9,75,133.5,58.5
+ORD-50894,2023-06-12 20:00:00,UID-454,Occasional,28,Male,North,PRD-SPO-19,Treadmill,Sports,2,500,0.1,0.0,Crypto,7,Delivered,3.8,300,900.0,300.0
+ORD-50895,2023-01-29 06:00:00,UID-535,Occasional,40,Female,West,PRD-TEC-21,Wireless Charger,Tech Accessories,3,35,0.0,0.0,PayPal,5,Delivered,4.3,15,105.0,60.0
+ORD-50896,2023-03-19 01:00:00,UID-482,Standard,45,Male,South,PRD-BEA-63,Moisturizer,Beauty,4,25,0.39,17.14,Crypto,7,Delivered,4.7,6,61.0,19.86
+ORD-50897,2023-09-14 11:00:00,UID-422,Standard,29,Male,East,PRD-BEA-52,Makeup Set,Beauty,4,40,0.08,0.0,Credit Card,5,Delivered,4.8,12,147.2,99.2
+ORD-50898,2023-11-21 19:00:00,UID-556,Premium,31,Male,East,PRD-TEC-37,Phone Case,Tech Accessories,6,20,0.16,0.0,PayPal,13,Delivered,3.5,5,100.8,70.8
+ORD-50899,2023-08-31 03:00:00,UID-830,Premium,22,Female,North,PRD-BEA-24,Moisturizer,Beauty,4,25,0.1,11.57,Credit Card,14,Delivered,3.8,6,90.0,54.43
+ORD-50900,2023-03-31 20:00:00,UID-494,Standard,53,Male,North,PRD-BEA-98,Perfume,Beauty,1,80,0.06,18.78,Crypto,8,Delivered,4.0,25,75.2,31.42
+ORD-50901,2023-08-01 23:00:00,UID-457,Premium,32,Male,West,PRD-HOM-62,Indoor Plant,Home & Garden,5,25,0.2,11.4,Credit Card,11,Delivered,3.3,10,100.0,38.6
+ORD-50902,2023-10-09 15:00:00,UID-735,Occasional,31,Female,North,PRD-SPO-39,Dumbbells,Sports,2,40,0.0,17.46,Credit Card,7,Delivered,4.5,20,80.0,22.54
+ORD-50903,2023-08-09 12:00:00,UID-116,Occasional,43,Male,East,PRD-HOM-75,Table Lamp,Home & Garden,3,45,0.0,0.0,Crypto,1,Returned,1.6,20,135.0,75.0
+ORD-50904,2023-04-03 10:00:00,UID-210,Standard,51,Female,South,PRD-TEC-72,Wireless Charger,Tech Accessories,1,35,0.05,9.81,Credit Card,1,Delivered,4.9,15,33.25,8.44
+ORD-50905,2023-12-06 03:00:00,UID-643,Occasional,37,Female,South,PRD-TEC-33,Phone Case,Tech Accessories,1,20,0.06,21.61,Credit Card,4,Returned,1.4,5,18.8,-7.81
+ORD-50906,2023-11-03 08:00:00,UID-409,Standard,63,Female,West,PRD-HOM-14,Vacuum Cleaner,Home & Garden,3,200,0.07,0.0,Credit Card,7,Returned,2.3,100,558.0,258.0
+ORD-50907,2023-07-21 03:00:00,UID-828,Occasional,66,Male,East,PRD-TEC-57,Smart Watch,Tech Accessories,1,150,0.06,0.0,Bank Transfer,10,Shipped,3.4,75,141.0,66.0
+ORD-50908,2023-11-03 04:00:00,UID-527,Standard,53,Female,North,PRD-HOM-42,Vacuum Cleaner,Home & Garden,4,200,0.09,0.0,Bank Transfer,5,Delivered,4.0,100,728.0,328.0
+ORD-50909,2023-10-11 05:00:00,UID-990,Premium,40,Male,West,PRD-HOM-91,Vacuum Cleaner,Home & Garden,5,200,0.11,0.0,Credit Card,6,Delivered,3.8,100,890.0,390.0
+ORD-50910,2023-10-19 21:00:00,UID-719,Standard,32,Male,East,PRD-HOM-16,Vacuum Cleaner,Home & Garden,2,200,0.12,0.0,Bank Transfer,9,Delivered,3.1,100,352.0,152.0
+ORD-50911,2023-12-02 20:00:00,UID-159,Standard,47,Male,East,PRD-HOM-94,Indoor Plant,Home & Garden,1,25,0.06,14.46,Bank Transfer,2,Returned,1.3,10,23.5,-0.96
+ORD-50912,2023-09-02 22:00:00,UID-528,Occasional,57,Female,West,PRD-BEA-96,Makeup Set,Beauty,1,40,0.0,16.7,Credit Card,14,Delivered,3.7,12,40.0,11.3
+ORD-50913,2023-04-16 12:00:00,UID-763,Premium,37,Female,East,PRD-SPO-15,Dumbbells,Sports,4,40,0.17,0.0,Bank Transfer,5,Delivered,4.1,20,132.8,52.8
+ORD-50914,2023-03-03 08:00:00,UID-534,Standard,40,Female,West,PRD-TEC-91,Bluetooth Speaker,Tech Accessories,2,60,0.06,0.0,PayPal,14,Delivered,2.8,30,112.8,52.8
+ORD-50915,2023-11-20 04:00:00,UID-905,Occasional,67,Female,South,PRD-BEA-54,Perfume,Beauty,1,80,0.39,14.33,Credit Card,12,Returned,2.2,25,48.8,9.47
+ORD-50916,2023-01-12 08:00:00,UID-115,Standard,31,Male,South,PRD-HOM-21,Vacuum Cleaner,Home & Garden,1,200,0.11,0.0,Credit Card,11,Delivered,3.9,100,178.0,78.0
+ORD-50917,2023-11-06 00:00:00,UID-838,Standard,26,Female,South,PRD-TEC-87,Bluetooth Speaker,Tech Accessories,4,60,0.34,0.0,Credit Card,13,Delivered,4.0,30,158.4,38.4
+ORD-50918,2023-02-25 15:00:00,UID-494,Premium,57,Male,West,PRD-BEA-90,Perfume,Beauty,3,80,0.19,0.0,PayPal,5,Delivered,4.0,25,194.4,119.4
+ORD-50919,2023-05-30 04:00:00,UID-846,Standard,65,Male,South,PRD-TEC-43,Smart Watch,Tech Accessories,3,150,0.29,0.0,Credit Card,5,Delivered,3.7,75,319.5,94.5
+ORD-50920,2023-07-20 05:00:00,UID-240,Premium,49,Female,East,PRD-TEC-57,Phone Case,Tech Accessories,4,20,0.19,5.6,Credit Card,7,Returned,1.5,5,64.8,39.2
+ORD-50921,2023-10-31 22:00:00,UID-177,Occasional,67,Male,West,PRD-SPO-29,Resistance Bands,Sports,4,15,0.03,8.89,PayPal,11,Delivered,3.0,5,58.2,29.31
+ORD-50922,2023-02-08 12:00:00,UID-252,Standard,47,Female,West,PRD-HOM-58,Table Lamp,Home & Garden,1,45,0.07,6.67,PayPal,6,Delivered,4.4,20,41.85,15.18
+ORD-50923,2023-09-30 17:00:00,UID-238,Standard,69,Female,South,PRD-BEA-47,Face Serum,Beauty,1,30,0.05,6.34,Credit Card,8,Delivered,3.0,8,28.5,14.16
+ORD-50924,2023-07-26 07:00:00,UID-183,Standard,31,Male,North,PRD-SPO-59,Yoga Mat,Sports,4,25,0.1,6.0,Crypto,3,Delivered,3.9,10,90.0,44.0
+ORD-50925,2023-01-21 20:00:00,UID-241,Premium,19,Male,South,PRD-HOM-91,Indoor Plant,Home & Garden,7,25,0.25,0.0,Credit Card,6,Shipped,4.3,10,131.25,61.25
+ORD-50926,2023-01-23 00:00:00,UID-720,Standard,69,Male,East,PRD-SPO-42,Resistance Bands,Sports,3,15,0.07,24.96,Credit Card,5,Delivered,4.9,5,41.85,1.89
+ORD-50927,2023-02-11 20:00:00,UID-454,Premium,45,Male,West,PRD-BEA-77,Moisturizer,Beauty,4,25,0.13,15.96,Bank Transfer,6,Delivered,4.4,6,87.0,47.04
+ORD-50928,2023-03-06 16:00:00,UID-548,Standard,69,Male,West,PRD-BEA-95,Perfume,Beauty,4,80,0.06,0.0,Credit Card,13,Delivered,2.5,25,300.8,200.8
+ORD-50929,2023-03-25 20:00:00,UID-841,Occasional,61,Male,West,PRD-HOM-34,Indoor Plant,Home & Garden,3,25,0.0,7.78,Bank Transfer,8,Delivered,3.9,10,75.0,37.22
+ORD-50930,2023-12-03 10:00:00,UID-327,Standard,35,Female,North,PRD-HOM-69,Vacuum Cleaner,Home & Garden,1,200,0.11,0.0,PayPal,8,Delivered,3.0,100,178.0,78.0
+ORD-50931,2023-11-11 23:00:00,UID-322,Standard,43,Male,South,PRD-BEA-33,Moisturizer,Beauty,1,25,0.4,10.68,PayPal,14,Delivered,2.6,6,15.0,-1.68
+ORD-50932,2023-05-13 09:00:00,UID-208,Standard,49,Female,North,PRD-HOM-71,Vacuum Cleaner,Home & Garden,2,200,0.13,0.0,Crypto,6,Delivered,4.2,100,348.0,148.0
+ORD-50933,2023-01-30 00:00:00,UID-422,Occasional,65,Female,North,PRD-SPO-15,Resistance Bands,Sports,4,15,0.0,6.38,Credit Card,6,Delivered,4.1,5,60.0,33.62
+ORD-50934,2023-09-18 08:00:00,UID-569,Standard,67,Female,West,PRD-BEA-69,Face Serum,Beauty,1,30,0.13,19.75,PayPal,6,Delivered,3.6,8,26.1,-1.65
+ORD-50935,2023-05-05 07:00:00,UID-286,Premium,67,Female,North,PRD-HOM-61,Bed Sheets,Home & Garden,6,50,0.19,0.0,Crypto,12,Delivered,3.7,20,243.0,123.0
+ORD-50936,2023-03-10 02:00:00,UID-439,Occasional,27,Female,East,PRD-TEC-40,Smart Watch,Tech Accessories,1,150,0.04,0.0,PayPal,1,Delivered,4.0,75,144.0,69.0
+ORD-50937,2023-12-06 01:00:00,UID-639,Premium,42,Female,South,PRD-SPO-63,Dumbbells,Sports,4,40,0.36,0.0,Credit Card,12,Delivered,4.2,20,102.4,22.4
+ORD-50938,2023-09-16 01:00:00,UID-187,Occasional,33,Female,North,PRD-HOM-96,Indoor Plant,Home & Garden,4,25,0.01,22.98,Crypto,10,Delivered,3.4,10,99.0,36.02
+ORD-50939,2023-11-23 12:00:00,UID-597,Occasional,64,Male,West,PRD-HOM-84,Table Lamp,Home & Garden,2,45,0.0,10.73,Bank Transfer,6,Delivered,4.2,20,90.0,39.27
+ORD-50940,2023-06-05 05:00:00,UID-957,Premium,29,Male,East,PRD-TEC-40,Wireless Charger,Tech Accessories,5,35,0.23,0.0,Crypto,11,Returned,1.3,15,134.75,59.75
+ORD-50941,2023-05-19 09:00:00,UID-415,Standard,62,Male,South,PRD-SPO-47,Dumbbells,Sports,3,40,0.35,13.91,PayPal,11,Delivered,3.1,20,78.0,4.09
+ORD-50942,2023-09-17 15:00:00,UID-362,Occasional,34,Male,North,PRD-BEA-35,Face Serum,Beauty,3,30,0.03,16.61,Bank Transfer,9,Delivered,3.5,8,87.3,46.69
+ORD-50943,2023-01-07 19:00:00,UID-692,Occasional,40,Male,North,PRD-TEC-46,Wireless Charger,Tech Accessories,4,35,0.0,0.0,Credit Card,10,Delivered,3.2,15,140.0,80.0
+ORD-50944,2023-05-26 07:00:00,UID-673,Standard,43,Male,South,PRD-TEC-74,Bluetooth Speaker,Tech Accessories,4,60,0.26,0.0,Crypto,9,Delivered,3.0,30,177.6,57.6
+ORD-50945,2023-12-28 22:00:00,UID-960,Premium,58,Male,East,PRD-SPO-35,Yoga Mat,Sports,5,25,0.1,0.0,Crypto,13,Delivered,3.2,10,112.5,62.5
+ORD-50946,2023-01-25 08:00:00,UID-715,Occasional,58,Male,West,PRD-TEC-82,Wireless Charger,Tech Accessories,4,35,0.0,0.0,PayPal,5,Delivered,5.0,15,140.0,80.0
+ORD-50947,2023-12-17 18:00:00,UID-700,Occasional,19,Female,North,PRD-HOM-45,Vacuum Cleaner,Home & Garden,3,200,0.03,0.0,PayPal,6,Delivered,4.5,100,582.0,282.0
+ORD-50948,2023-08-25 00:00:00,UID-285,Premium,18,Female,West,PRD-BEA-44,Face Serum,Beauty,7,30,0.16,0.0,Credit Card,8,Delivered,2.9,8,176.4,120.4
+ORD-50949,2023-07-05 19:00:00,UID-268,Standard,63,Male,West,PRD-TEC-87,Wireless Charger,Tech Accessories,1,35,0.11,7.63,Credit Card,13,Delivered,2.6,15,31.15,8.52
+ORD-50950,2023-10-06 23:00:00,UID-616,Standard,40,Male,East,PRD-TEC-36,Bluetooth Speaker,Tech Accessories,1,60,0.11,6.18,Bank Transfer,12,Delivered,2.8,30,53.4,17.22
+ORD-50951,2023-08-18 16:00:00,UID-507,Occasional,70,Male,North,PRD-SPO-40,Yoga Mat,Sports,3,25,0.07,21.2,Credit Card,7,Delivered,3.8,10,69.75,18.55
+ORD-50952,2023-10-11 06:00:00,UID-563,Premium,32,Male,South,PRD-SPO-67,Dumbbells,Sports,4,40,0.36,0.0,Credit Card,11,Delivered,4.0,20,102.4,22.4
+ORD-50953,2023-12-09 01:00:00,UID-521,Standard,49,Female,North,PRD-SPO-42,Treadmill,Sports,2,500,0.12,0.0,Crypto,5,Delivered,4.5,300,880.0,280.0
+ORD-50954,2023-04-04 06:00:00,UID-427,Standard,27,Female,North,PRD-HOM-50,Bed Sheets,Home & Garden,1,50,0.11,6.57,Credit Card,11,Delivered,3.5,20,44.5,17.93
+ORD-50955,2023-08-31 12:00:00,UID-941,Standard,25,Male,West,PRD-SPO-13,Yoga Mat,Sports,2,25,0.09,18.43,Credit Card,9,Delivered,2.7,10,45.5,7.07
+ORD-50956,2023-11-23 14:00:00,UID-109,Standard,21,Male,East,PRD-TEC-43,Bluetooth Speaker,Tech Accessories,4,60,0.11,0.0,PayPal,14,Delivered,3.7,30,213.6,93.6
+ORD-50957,2023-04-07 20:00:00,UID-252,Standard,61,Male,North,PRD-SPO-89,Resistance Bands,Sports,2,15,0.15,22.56,PayPal,3,Delivered,4.2,5,25.5,-7.06
+ORD-50958,2023-03-11 01:00:00,UID-386,Occasional,68,Male,East,PRD-TEC-63,Smart Watch,Tech Accessories,4,150,0.0,0.0,Crypto,7,Delivered,4.9,75,600.0,300.0
+ORD-50959,2023-11-28 10:00:00,UID-297,Standard,65,Male,East,PRD-TEC-79,Bluetooth Speaker,Tech Accessories,2,60,0.08,0.0,PayPal,3,Returned,2.3,30,110.4,50.4
+ORD-50960,2023-04-01 01:00:00,UID-562,Occasional,66,Male,North,PRD-SPO-50,Treadmill,Sports,2,500,0.0,0.0,Credit Card,1,Delivered,3.8,300,1000.0,400.0
+ORD-50961,2023-10-28 21:00:00,UID-620,Standard,53,Male,East,PRD-SPO-11,Treadmill,Sports,4,500,0.07,0.0,PayPal,12,Delivered,3.0,300,1860.0,660.0
+ORD-50962,2023-10-18 09:00:00,UID-456,Occasional,53,Male,East,PRD-BEA-61,Moisturizer,Beauty,4,25,0.09,15.38,Bank Transfer,1,Delivered,4.9,6,91.0,51.62
+ORD-50963,2023-02-20 11:00:00,UID-478,Standard,18,Male,North,PRD-SPO-43,Dumbbells,Sports,2,40,0.06,12.96,Credit Card,8,Delivered,2.8,20,75.2,22.24
+ORD-50964,2023-01-26 02:00:00,UID-159,Occasional,19,Male,West,PRD-TEC-57,Bluetooth Speaker,Tech Accessories,2,60,0.09,0.0,Credit Card,8,Delivered,2.6,30,109.2,49.2
+ORD-50965,2023-02-26 00:00:00,UID-483,Standard,35,Female,West,PRD-HOM-92,Indoor Plant,Home & Garden,4,25,0.11,7.31,Credit Card,12,Delivered,4.0,10,89.0,41.69
+ORD-50966,2023-12-10 20:00:00,UID-113,Standard,70,Male,West,PRD-BEA-92,Perfume,Beauty,2,80,0.05,0.0,Credit Card,14,Returned,2.2,25,152.0,102.0
+ORD-50967,2023-09-02 16:00:00,UID-222,Standard,38,Male,West,PRD-SPO-87,Treadmill,Sports,2,500,0.13,0.0,Credit Card,11,Delivered,2.9,300,870.0,270.0
+ORD-50968,2023-01-23 09:00:00,UID-811,Standard,67,Female,West,PRD-HOM-75,Indoor Plant,Home & Garden,4,25,0.13,21.9,Credit Card,13,Delivered,2.6,10,87.0,25.1
+ORD-50969,2023-09-01 23:00:00,UID-528,Occasional,53,Female,North,PRD-TEC-18,Smart Watch,Tech Accessories,4,150,0.04,0.0,Bank Transfer,10,Delivered,3.6,75,576.0,276.0
+ORD-50970,2023-10-12 18:00:00,UID-205,Occasional,31,Male,East,PRD-HOM-17,Indoor Plant,Home & Garden,4,25,0.05,19.51,Credit Card,1,Delivered,4.2,10,95.0,35.49
+ORD-50971,2023-09-17 04:00:00,UID-191,Premium,69,Female,North,PRD-HOM-70,Indoor Plant,Home & Garden,5,25,0.13,0.0,Crypto,12,Delivered,2.6,10,108.75,58.75
+ORD-50972,2023-06-15 08:00:00,UID-133,Occasional,49,Female,East,PRD-BEA-38,Perfume,Beauty,4,80,0.09,0.0,Credit Card,9,Delivered,2.6,25,291.2,191.2
+ORD-50973,2023-01-12 07:00:00,UID-361,Premium,28,Male,East,PRD-BEA-71,Face Serum,Beauty,4,30,0.16,0.0,Credit Card,7,Delivered,4.9,8,100.8,68.8
+ORD-50974,2023-11-03 00:00:00,UID-674,Occasional,32,Female,West,PRD-BEA-18,Face Serum,Beauty,4,30,0.02,0.0,Credit Card,6,Delivered,3.9,8,117.6,85.6
+ORD-50975,2023-02-01 23:00:00,UID-480,Standard,50,Female,South,PRD-TEC-18,Bluetooth Speaker,Tech Accessories,1,60,0.25,12.05,Credit Card,12,Delivered,3.9,30,45.0,2.95
+ORD-50976,2023-01-03 22:00:00,UID-182,Occasional,30,Male,West,PRD-SPO-38,Resistance Bands,Sports,1,15,0.0,23.19,Credit Card,7,Delivered,4.0,5,15.0,-13.19
+ORD-50977,2023-06-18 08:00:00,UID-459,Standard,61,Male,North,PRD-SPO-19,Yoga Mat,Sports,1,25,0.14,7.45,PayPal,11,Delivered,4.1,10,21.5,4.05
+ORD-50978,2023-03-28 00:00:00,UID-158,Standard,31,Female,West,PRD-BEA-35,Face Serum,Beauty,1,30,0.08,18.98,Credit Card,14,Delivered,2.3,8,27.6,0.62
+ORD-50979,2023-06-05 15:00:00,UID-479,Standard,40,Female,West,PRD-BEA-80,Perfume,Beauty,2,80,0.14,0.0,Bank Transfer,13,Returned,1.5,25,137.6,87.6
+ORD-50980,2023-01-23 08:00:00,UID-730,Standard,37,Female,East,PRD-HOM-27,Vacuum Cleaner,Home & Garden,4,200,0.07,0.0,Crypto,13,Delivered,3.1,100,744.0,344.0
+ORD-50981,2023-06-16 07:00:00,UID-781,Standard,43,Female,East,PRD-HOM-41,Indoor Plant,Home & Garden,1,25,0.05,13.48,Crypto,13,Delivered,2.6,10,23.75,0.27
+ORD-50982,2023-07-24 20:00:00,UID-154,Premium,53,Male,North,PRD-SPO-37,Treadmill,Sports,4,500,0.21,0.0,Credit Card,1,Returned,1.1,300,1580.0,380.0
+ORD-50983,2023-04-11 06:00:00,UID-744,Occasional,39,Female,West,PRD-BEA-92,Makeup Set,Beauty,3,40,0.01,0.0,PayPal,13,Delivered,2.5,12,118.8,82.8
+ORD-50984,2023-12-07 16:00:00,UID-505,Premium,60,Male,North,PRD-TEC-65,Smart Watch,Tech Accessories,2,150,0.19,0.0,Credit Card,14,Returned,2.3,75,243.0,93.0
+ORD-50985,2023-04-09 00:00:00,UID-888,Standard,61,Male,South,PRD-HOM-20,Vacuum Cleaner,Home & Garden,4,200,0.11,0.0,Credit Card,6,Delivered,4.1,100,712.0,312.0
+ORD-50986,2023-12-20 15:00:00,UID-289,Premium,29,Female,West,PRD-BEA-12,Perfume,Beauty,2,80,0.18,0.0,Credit Card,9,Delivered,3.2,25,131.2,81.2
+ORD-50987,2023-01-11 08:00:00,UID-198,Standard,31,Male,East,PRD-HOM-24,Bed Sheets,Home & Garden,4,50,0.11,0.0,Credit Card,4,Delivered,4.8,20,178.0,98.0
+ORD-50988,2023-09-15 15:00:00,UID-282,Premium,59,Female,East,PRD-SPO-35,Treadmill,Sports,7,500,0.17,0.0,Credit Card,2,Returned,1.5,300,2905.0,805.0
+ORD-50989,2023-02-26 21:00:00,UID-247,Standard,57,Male,North,PRD-HOM-49,Bed Sheets,Home & Garden,1,50,0.11,10.24,Credit Card,7,Delivered,3.8,20,44.5,14.26
+ORD-50990,2023-07-23 21:00:00,UID-747,Occasional,62,Female,West,PRD-SPO-40,Dumbbells,Sports,1,40,0.01,9.18,Credit Card,12,Delivered,3.7,20,39.6,10.42
+ORD-50991,2023-12-05 04:00:00,UID-135,Occasional,60,Male,East,PRD-SPO-21,Treadmill,Sports,3,500,0.0,0.0,Bank Transfer,3,Delivered,4.7,300,1500.0,600.0
+ORD-50992,2023-03-28 14:00:00,UID-991,Standard,63,Female,South,PRD-TEC-19,Phone Case,Tech Accessories,4,20,0.08,9.11,Credit Card,12,Delivered,3.4,5,73.6,44.49
+ORD-50993,2023-04-18 05:00:00,UID-229,Premium,31,Female,North,PRD-HOM-30,Bed Sheets,Home & Garden,4,50,0.23,0.0,Credit Card,2,Delivered,4.5,20,154.0,74.0
+ORD-50994,2023-11-06 01:00:00,UID-729,Standard,46,Female,North,PRD-HOM-65,Vacuum Cleaner,Home & Garden,3,200,0.15,0.0,Credit Card,13,Delivered,4.2,100,510.0,210.0
+ORD-50995,2023-06-28 23:00:00,UID-572,Premium,59,Male,East,PRD-TEC-52,Wireless Charger,Tech Accessories,6,35,0.15,0.0,Bank Transfer,10,Delivered,2.7,15,178.5,88.5
+ORD-50996,2023-10-21 15:00:00,UID-645,Premium,21,Male,East,PRD-HOM-97,Table Lamp,Home & Garden,3,45,0.12,0.0,Credit Card,10,Delivered,2.7,20,118.8,58.8
+ORD-50997,2023-12-08 09:00:00,UID-406,Standard,32,Male,South,PRD-SPO-39,Dumbbells,Sports,4,40,0.36,0.0,Credit Card,2,Delivered,4.9,20,102.4,22.4
+ORD-50998,2023-01-25 02:00:00,UID-176,Occasional,65,Female,West,PRD-TEC-68,Wireless Charger,Tech Accessories,4,35,0.01,0.0,Credit Card,14,Delivered,3.6,15,138.6,78.6
+ORD-50999,2023-09-17 22:00:00,UID-784,Standard,41,Male,North,PRD-SPO-92,Treadmill,Sports,4,500,0.14,0.0,Crypto,10,Delivered,3.0,300,1720.0,520.0
+ORD-51000,2023-07-21 22:00:00,UID-755,Standard,64,Male,North,PRD-SPO-78,Yoga Mat,Sports,1,25,0.13,5.11,Credit Card,6,Delivered,4.7,10,21.75,6.64
+ORD-51001,2023-10-24 10:00:00,UID-614,Standard,44,Female,North,PRD-TEC-94,Phone Case,Tech Accessories,3,20,0.09,17.38,Credit Card,6,Delivered,4.1,5,54.6,22.22
+ORD-51002,2023-09-11 18:00:00,UID-167,Standard,61,Female,West,PRD-HOM-14,Table Lamp,Home & Garden,1,45,0.05,14.84,Credit Card,7,Delivered,4.6,20,42.75,7.91
+ORD-51003,2023-08-02 12:00:00,UID-629,Premium,26,Male,South,PRD-TEC-51,Smart Watch,Tech Accessories,3,150,0.21,0.0,PayPal,10,Delivered,3.2,75,355.5,130.5
+ORD-51004,2023-06-14 11:00:00,UID-442,Standard,36,Female,South,PRD-SPO-97,Treadmill,Sports,3,500,0.38,0.0,PayPal,14,Delivered,3.0,300,930.0,30.0
+ORD-51005,2023-05-07 11:00:00,UID-938,Standard,61,Female,North,PRD-HOM-80,Table Lamp,Home & Garden,1,45,0.14,21.96,Crypto,4,Delivered,4.6,20,38.7,-3.26
+ORD-51006,2023-05-04 18:00:00,UID-486,Standard,23,Male,West,PRD-TEC-52,Smart Watch,Tech Accessories,2,150,0.07,0.0,Credit Card,5,Delivered,4.4,75,279.0,129.0
+ORD-51007,2023-01-07 20:00:00,UID-247,Standard,68,Female,West,PRD-SPO-45,Resistance Bands,Sports,2,15,0.07,11.92,Credit Card,12,Delivered,4.0,5,27.9,5.98
+ORD-51008,2023-05-19 05:00:00,UID-846,Occasional,52,Female,North,PRD-HOM-29,Bed Sheets,Home & Garden,1,50,0.03,14.74,PayPal,2,Shipped,3.5,20,48.5,13.76
+ORD-51009,2023-09-04 07:00:00,UID-213,Standard,22,Female,East,PRD-SPO-55,Dumbbells,Sports,2,40,0.08,23.71,Credit Card,11,Delivered,4.1,20,73.6,9.89
+ORD-51010,2023-08-06 07:00:00,UID-344,Premium,50,Female,West,PRD-HOM-75,Indoor Plant,Home & Garden,6,25,0.17,0.0,Credit Card,5,Delivered,4.7,10,124.5,64.5
+ORD-51011,2023-05-03 01:00:00,UID-235,Standard,61,Male,North,PRD-TEC-13,Phone Case,Tech Accessories,2,20,0.05,15.78,PayPal,5,Delivered,4.3,5,38.0,12.22
+ORD-51012,2023-09-29 20:00:00,UID-476,Premium,19,Female,West,PRD-BEA-47,Face Serum,Beauty,7,30,0.12,0.0,PayPal,9,Delivered,2.6,8,184.8,128.8
+ORD-51013,2023-05-30 03:00:00,UID-866,Standard,18,Male,North,PRD-TEC-60,Wireless Charger,Tech Accessories,3,35,0.07,22.12,Credit Card,14,Delivered,2.5,15,97.65,30.53
+ORD-51014,2023-01-24 20:00:00,UID-337,Standard,40,Male,North,PRD-SPO-38,Dumbbells,Sports,2,40,0.07,8.27,Credit Card,6,Delivered,4.3,20,74.4,26.13
+ORD-51015,2023-06-11 00:00:00,UID-796,Standard,56,Male,North,PRD-BEA-44,Face Serum,Beauty,3,30,0.14,24.23,PayPal,10,Delivered,3.3,8,77.4,29.17
+ORD-51016,2023-05-12 14:00:00,UID-417,Standard,31,Female,West,PRD-TEC-45,Phone Case,Tech Accessories,1,20,0.06,15.87,Credit Card,9,Delivered,2.9,5,18.8,-2.07
+ORD-51017,2023-04-05 03:00:00,UID-620,Standard,49,Female,North,PRD-SPO-91,Resistance Bands,Sports,1,15,0.13,12.26,Credit Card,12,Delivered,2.5,5,13.05,-4.21
+ORD-51018,2023-11-06 13:00:00,UID-917,Premium,36,Female,East,PRD-SPO-14,Yoga Mat,Sports,3,25,0.23,8.04,Credit Card,14,Delivered,3.7,10,57.75,19.71
+ORD-51019,2023-08-13 21:00:00,UID-230,Premium,58,Female,South,PRD-HOM-38,Vacuum Cleaner,Home & Garden,7,200,0.29,0.0,PayPal,3,Delivered,4.8,100,994.0,294.0
+ORD-51020,2023-08-29 15:00:00,UID-973,Premium,61,Male,West,PRD-TEC-27,Phone Case,Tech Accessories,4,20,0.2,24.21,Credit Card,7,Delivered,4.5,5,64.0,19.79
+ORD-51021,2023-07-31 23:00:00,UID-137,Premium,50,Female,West,PRD-SPO-99,Resistance Bands,Sports,6,15,0.12,10.86,PayPal,11,Shipped,4.2,5,79.2,38.34
+ORD-51022,2023-01-03 17:00:00,UID-228,Standard,36,Male,South,PRD-HOM-13,Vacuum Cleaner,Home & Garden,4,200,0.12,0.0,Crypto,10,Delivered,2.9,100,704.0,304.0
+ORD-51023,2023-11-23 16:00:00,UID-275,Occasional,69,Female,South,PRD-BEA-22,Perfume,Beauty,3,80,0.08,0.0,Bank Transfer,7,Delivered,4.3,25,220.8,145.8
+ORD-51024,2023-05-31 22:00:00,UID-289,Standard,65,Female,South,PRD-TEC-11,Phone Case,Tech Accessories,3,20,0.12,11.66,Credit Card,8,Delivered,2.3,5,52.8,26.14
+ORD-51025,2023-08-16 16:00:00,UID-829,Standard,57,Female,West,PRD-SPO-89,Resistance Bands,Sports,1,15,0.13,6.94,Credit Card,9,Delivered,3.6,5,13.05,1.11
+ORD-51026,2023-01-03 03:00:00,UID-736,Standard,22,Male,West,PRD-TEC-84,Smart Watch,Tech Accessories,1,150,0.13,0.0,Credit Card,13,Returned,1.7,75,130.5,55.5
+ORD-51027,2023-04-27 17:00:00,UID-873,Occasional,49,Male,East,PRD-TEC-75,Smart Watch,Tech Accessories,3,150,0.08,0.0,Bank Transfer,8,Delivered,3.4,75,414.0,189.0
+ORD-51028,2023-10-27 18:00:00,UID-350,Standard,40,Female,North,PRD-BEA-99,Makeup Set,Beauty,4,40,0.13,0.0,PayPal,14,Delivered,3.0,12,139.2,91.2
+ORD-51029,2023-01-31 17:00:00,UID-648,Standard,31,Female,South,PRD-SPO-50,Resistance Bands,Sports,1,15,0.1,19.22,Bank Transfer,12,Delivered,2.7,5,13.5,-10.72
+ORD-51030,2023-11-01 15:00:00,UID-676,Occasional,23,Female,West,PRD-SPO-89,Dumbbells,Sports,3,40,0.0,0.0,Credit Card,6,Delivered,4.4,20,120.0,60.0
+ORD-51031,2023-04-03 01:00:00,UID-170,Premium,27,Male,West,PRD-BEA-85,Moisturizer,Beauty,4,25,0.1,6.42,Credit Card,11,Delivered,2.4,6,90.0,59.58
+ORD-51032,2023-04-06 20:00:00,UID-691,Premium,64,Male,South,PRD-SPO-25,Dumbbells,Sports,3,40,0.12,0.0,PayPal,12,Shipped,3.2,20,105.6,45.6
+ORD-51033,2023-07-05 09:00:00,UID-216,Standard,65,Male,North,PRD-SPO-19,Yoga Mat,Sports,4,25,0.06,21.84,Credit Card,5,Delivered,4.6,10,94.0,32.16
+ORD-51034,2023-09-08 17:00:00,UID-704,Standard,66,Female,East,PRD-HOM-73,Bed Sheets,Home & Garden,2,50,0.14,8.08,Credit Card,8,Delivered,3.2,20,86.0,37.92
+ORD-51035,2023-10-19 10:00:00,UID-133,Standard,55,Female,North,PRD-HOM-60,Vacuum Cleaner,Home & Garden,1,200,0.11,0.0,Credit Card,9,Delivered,3.1,100,178.0,78.0
+ORD-51036,2023-11-22 01:00:00,UID-367,Occasional,59,Female,North,PRD-TEC-72,Wireless Charger,Tech Accessories,3,35,0.0,0.0,Credit Card,2,Shipped,4.0,15,105.0,60.0
+ORD-51037,2023-11-07 02:00:00,UID-683,Premium,66,Male,East,PRD-HOM-94,Bed Sheets,Home & Garden,7,50,0.19,0.0,PayPal,1,Delivered,4.5,20,283.5,143.5
+ORD-51038,2023-12-22 18:00:00,UID-386,Standard,28,Male,West,PRD-TEC-53,Bluetooth Speaker,Tech Accessories,4,60,0.13,0.0,Credit Card,10,Delivered,3.0,30,208.8,88.8
+ORD-51039,2023-10-27 07:00:00,UID-919,Standard,19,Male,East,PRD-BEA-52,Face Serum,Beauty,1,30,0.1,17.02,Credit Card,3,Shipped,4.9,8,27.0,1.98
+ORD-51040,2023-10-13 04:00:00,UID-580,Occasional,60,Male,West,PRD-SPO-35,Yoga Mat,Sports,2,25,0.0,13.79,PayPal,9,Delivered,3.0,10,50.0,16.21
+ORD-51041,2023-07-29 20:00:00,UID-555,Standard,48,Female,East,PRD-HOM-17,Table Lamp,Home & Garden,2,45,0.11,15.37,PayPal,5,Delivered,4.7,20,80.1,24.73
+ORD-51042,2023-09-30 00:00:00,UID-880,Standard,51,Male,West,PRD-SPO-48,Yoga Mat,Sports,4,25,0.05,21.27,Credit Card,11,Delivered,3.0,10,95.0,33.73
+ORD-51043,2023-06-28 01:00:00,UID-249,Standard,39,Female,South,PRD-BEA-53,Perfume,Beauty,2,80,0.26,0.0,Credit Card,13,Delivered,3.0,25,118.4,68.4
+ORD-51044,2023-12-06 18:00:00,UID-961,Occasional,32,Male,North,PRD-SPO-12,Resistance Bands,Sports,2,15,0.07,18.87,PayPal,11,Delivered,3.6,5,27.9,-0.97
+ORD-51045,2023-01-21 02:00:00,UID-722,Standard,44,Male,East,PRD-SPO-85,Yoga Mat,Sports,4,25,0.08,11.54,Credit Card,9,Delivered,2.3,10,92.0,40.46
+ORD-51046,2023-01-06 07:00:00,UID-824,Occasional,68,Male,East,PRD-TEC-57,Phone Case,Tech Accessories,4,20,0.08,5.48,PayPal,11,Delivered,3.1,5,73.6,48.12
+ORD-51047,2023-01-25 06:00:00,UID-718,Standard,45,Male,East,PRD-TEC-76,Bluetooth Speaker,Tech Accessories,2,60,0.14,0.0,Credit Card,14,Delivered,3.4,30,103.2,43.2
+ORD-51048,2023-02-18 13:00:00,UID-202,Standard,45,Male,South,PRD-HOM-52,Indoor Plant,Home & Garden,3,25,0.37,9.79,PayPal,6,Delivered,3.7,10,47.25,7.46
+ORD-51049,2023-05-13 20:00:00,UID-839,Standard,37,Male,West,PRD-SPO-16,Treadmill,Sports,4,500,0.1,0.0,PayPal,6,Returned,2.0,300,1800.0,600.0
+ORD-51050,2023-10-13 02:00:00,UID-389,Occasional,57,Male,West,PRD-SPO-99,Treadmill,Sports,2,500,0.0,0.0,Credit Card,6,Delivered,4.9,300,1000.0,400.0
+ORD-51051,2023-12-07 06:00:00,UID-865,Occasional,52,Male,East,PRD-HOM-56,Bed Sheets,Home & Garden,2,50,0.04,14.84,Credit Card,10,Delivered,3.6,20,96.0,41.16
+ORD-51052,2023-02-05 00:00:00,UID-941,Occasional,69,Female,West,PRD-SPO-97,Treadmill,Sports,1,500,0.0,0.0,Credit Card,6,Delivered,4.4,300,500.0,200.0
+ORD-51053,2023-08-04 09:00:00,UID-853,Occasional,57,Female,West,PRD-HOM-76,Indoor Plant,Home & Garden,3,25,0.0,9.46,PayPal,8,Delivered,3.7,10,75.0,35.54
+ORD-51054,2023-07-11 23:00:00,UID-165,Premium,69,Female,South,PRD-BEA-40,Face Serum,Beauty,5,30,0.15,0.0,PayPal,11,Delivered,3.0,8,127.5,87.5
+ORD-51055,2023-09-26 15:00:00,UID-677,Occasional,53,Male,East,PRD-TEC-42,Wireless Charger,Tech Accessories,1,35,0.0,12.33,Credit Card,12,Delivered,3.0,15,35.0,7.67
+ORD-51056,2023-05-28 04:00:00,UID-451,Occasional,70,Female,North,PRD-SPO-96,Treadmill,Sports,2,500,0.0,0.0,Credit Card,12,Delivered,3.4,300,1000.0,400.0
+ORD-51057,2023-12-27 08:00:00,UID-129,Standard,50,Female,West,PRD-BEA-16,Face Serum,Beauty,1,30,0.13,6.1,Crypto,12,Returned,1.3,8,26.1,12.0
+ORD-51058,2023-03-03 04:00:00,UID-264,Standard,21,Female,South,PRD-SPO-99,Resistance Bands,Sports,2,15,0.14,16.69,Credit Card,14,Delivered,3.7,5,25.8,-0.89
+ORD-51059,2023-06-13 03:00:00,UID-324,Occasional,63,Female,East,PRD-SPO-33,Resistance Bands,Sports,3,15,0.0,9.67,Credit Card,12,Delivered,3.0,5,45.0,20.33
+ORD-51060,2023-02-13 07:00:00,UID-793,Standard,29,Male,North,PRD-BEA-67,Face Serum,Beauty,4,30,0.08,0.0,Bank Transfer,7,Delivered,4.4,8,110.4,78.4
+ORD-51061,2023-06-10 14:00:00,UID-522,Standard,47,Male,West,PRD-TEC-31,Bluetooth Speaker,Tech Accessories,1,60,0.1,11.31,Credit Card,9,Delivered,3.5,30,54.0,12.69
+ORD-51062,2023-02-24 07:00:00,UID-396,Occasional,27,Female,South,PRD-SPO-25,Resistance Bands,Sports,4,15,0.0,11.59,Credit Card,6,Delivered,3.8,5,60.0,28.41
+ORD-51063,2023-04-11 16:00:00,UID-192,Standard,28,Male,North,PRD-HOM-25,Bed Sheets,Home & Garden,4,50,0.11,0.0,Credit Card,3,Delivered,4.4,20,178.0,98.0
+ORD-51064,2023-05-07 07:00:00,UID-142,Occasional,31,Female,North,PRD-SPO-97,Dumbbells,Sports,4,40,0.08,0.0,Credit Card,13,Delivered,3.1,20,147.2,67.2
+ORD-51065,2023-03-21 17:00:00,UID-818,Premium,51,Female,West,PRD-TEC-87,Wireless Charger,Tech Accessories,2,35,0.22,11.9,Credit Card,8,Returned,2.4,15,54.6,12.7
+ORD-51066,2023-09-03 09:00:00,UID-674,Standard,54,Male,East,PRD-BEA-31,Makeup Set,Beauty,3,40,0.09,0.0,PayPal,12,Delivered,2.7,12,109.2,73.2
+ORD-51067,2023-10-20 02:00:00,UID-273,Standard,32,Male,South,PRD-HOM-69,Bed Sheets,Home & Garden,2,50,0.27,17.61,Credit Card,8,Delivered,2.8,20,73.0,15.39
+ORD-51068,2023-02-10 15:00:00,UID-773,Standard,24,Male,North,PRD-BEA-66,Perfume,Beauty,2,80,0.15,0.0,Credit Card,2,Delivered,4.9,25,136.0,86.0
+ORD-51069,2023-12-05 18:00:00,UID-805,Premium,60,Female,North,PRD-TEC-87,Smart Watch,Tech Accessories,2,150,0.23,0.0,PayPal,3,Delivered,4.5,75,231.0,81.0
+ORD-51070,2023-12-12 22:00:00,UID-199,Premium,60,Male,East,PRD-SPO-21,Treadmill,Sports,6,500,0.23,0.0,PayPal,10,Delivered,2.5,300,2310.0,510.0
+ORD-51071,2023-03-27 01:00:00,UID-496,Standard,20,Female,North,PRD-HOM-38,Table Lamp,Home & Garden,1,45,0.13,20.26,Credit Card,13,Delivered,2.6,20,39.15,-1.11
+ORD-51072,2023-10-08 12:00:00,UID-185,Standard,65,Male,North,PRD-SPO-84,Resistance Bands,Sports,1,15,0.12,14.74,Crypto,12,Delivered,2.5,5,13.2,-6.54
+ORD-51073,2023-08-09 18:00:00,UID-538,Standard,36,Female,South,PRD-HOM-97,Table Lamp,Home & Garden,4,45,0.1,0.0,PayPal,3,Delivered,4.4,20,162.0,82.0
+ORD-51074,2023-06-08 19:00:00,UID-628,Occasional,25,Male,East,PRD-SPO-66,Resistance Bands,Sports,3,15,0.0,13.94,Credit Card,5,Delivered,4.6,5,45.0,16.06
+ORD-51075,2023-01-18 04:00:00,UID-940,Standard,20,Male,East,PRD-TEC-76,Bluetooth Speaker,Tech Accessories,3,60,0.09,0.0,Credit Card,2,Delivered,3.6,30,163.8,73.8
+ORD-51076,2023-06-22 01:00:00,UID-140,Standard,42,Female,West,PRD-BEA-52,Face Serum,Beauty,3,30,0.08,19.2,Credit Card,8,Delivered,3.5,8,82.8,39.6
+ORD-51077,2023-06-10 05:00:00,UID-182,Standard,40,Female,East,PRD-SPO-44,Yoga Mat,Sports,1,25,0.09,5.52,Bank Transfer,4,Delivered,4.1,10,22.75,7.23
+ORD-51078,2023-06-17 23:00:00,UID-263,Standard,30,Female,South,PRD-SPO-86,Treadmill,Sports,4,500,0.38,0.0,PayPal,2,Delivered,4.8,300,1240.0,40.0
+ORD-51079,2023-09-23 09:00:00,UID-253,Occasional,49,Female,East,PRD-SPO-19,Dumbbells,Sports,4,40,0.03,0.0,PayPal,6,Returned,1.7,20,155.2,75.2
+ORD-51080,2023-05-12 03:00:00,UID-609,Occasional,69,Female,West,PRD-BEA-27,Face Serum,Beauty,2,30,0.0,19.62,PayPal,8,Delivered,2.4,8,60.0,24.38
+ORD-51081,2023-03-05 13:00:00,UID-913,Standard,65,Female,West,PRD-BEA-97,Makeup Set,Beauty,2,40,0.15,11.17,Credit Card,8,Delivered,2.6,12,68.0,32.83
+ORD-51082,2023-09-24 17:00:00,UID-590,Standard,62,Male,North,PRD-TEC-24,Wireless Charger,Tech Accessories,4,35,0.08,0.0,Credit Card,1,Delivered,4.8,15,128.8,68.8
+ORD-51083,2023-12-24 06:00:00,UID-386,Occasional,51,Male,West,PRD-SPO-45,Yoga Mat,Sports,2,25,0.0,16.04,PayPal,10,Delivered,3.8,10,50.0,13.96
+ORD-51084,2023-01-03 02:00:00,UID-776,Standard,21,Male,East,PRD-BEA-60,Face Serum,Beauty,4,30,0.05,0.0,Credit Card,6,Delivered,3.6,8,114.0,82.0
+ORD-51085,2023-01-30 12:00:00,UID-947,Occasional,46,Male,West,PRD-BEA-86,Face Serum,Beauty,3,30,0.0,16.64,Crypto,6,Delivered,4.3,8,90.0,49.36
+ORD-51086,2023-02-17 17:00:00,UID-344,Premium,54,Male,West,PRD-BEA-17,Perfume,Beauty,4,80,0.18,0.0,PayPal,14,Delivered,3.2,25,262.4,162.4
+ORD-51087,2023-08-19 13:00:00,UID-143,Standard,30,Female,East,PRD-TEC-19,Phone Case,Tech Accessories,1,20,0.07,20.42,PayPal,11,Delivered,3.4,5,18.6,-6.82
+ORD-51088,2023-02-06 16:00:00,UID-464,Standard,39,Male,North,PRD-HOM-28,Vacuum Cleaner,Home & Garden,1,200,0.11,0.0,Credit Card,10,Returned,2.0,100,178.0,78.0
+ORD-51089,2023-08-23 02:00:00,UID-862,Premium,60,Female,North,PRD-SPO-75,Treadmill,Sports,5,500,0.21,0.0,PayPal,3,Delivered,3.7,300,1975.0,475.0
+ORD-51090,2023-11-08 21:00:00,UID-708,Standard,50,Male,South,PRD-BEA-74,Face Serum,Beauty,4,30,0.35,19.7,Crypto,7,Delivered,4.9,8,78.0,26.3
+ORD-51091,2023-05-26 06:00:00,UID-318,Occasional,25,Male,East,PRD-BEA-83,Makeup Set,Beauty,1,40,0.0,10.36,PayPal,4,Returned,1.0,12,40.0,17.64
+ORD-51092,2023-02-01 03:00:00,UID-163,Standard,67,Male,West,PRD-SPO-44,Dumbbells,Sports,3,40,0.05,0.0,PayPal,8,Delivered,3.6,20,114.0,54.0
+ORD-51093,2023-09-22 04:00:00,UID-574,Standard,63,Female,East,PRD-TEC-35,Smart Watch,Tech Accessories,2,150,0.07,0.0,Credit Card,12,Returned,1.9,75,279.0,129.0
+ORD-51094,2023-11-03 14:00:00,UID-310,Standard,64,Male,North,PRD-TEC-86,Bluetooth Speaker,Tech Accessories,4,60,0.09,0.0,Bank Transfer,2,Shipped,4.1,30,218.4,98.4
+ORD-51095,2023-06-12 14:00:00,UID-617,Standard,52,Male,South,PRD-TEC-32,Wireless Charger,Tech Accessories,3,35,0.28,7.12,Crypto,3,Delivered,4.5,15,75.6,23.48
+ORD-51096,2023-05-29 17:00:00,UID-247,Standard,43,Female,West,PRD-BEA-47,Perfume,Beauty,2,80,0.14,0.0,PayPal,7,Delivered,4.7,25,137.6,87.6
+ORD-51097,2023-01-19 11:00:00,UID-128,Premium,57,Female,South,PRD-TEC-68,Wireless Charger,Tech Accessories,5,35,0.31,0.0,Credit Card,3,Delivered,3.6,15,120.75,45.75
+ORD-51098,2023-12-31 13:00:00,UID-182,Standard,37,Male,South,PRD-HOM-16,Vacuum Cleaner,Home & Garden,1,200,0.07,0.0,Credit Card,3,Delivered,4.3,100,186.0,86.0
+ORD-51099,2023-11-26 08:00:00,UID-225,Occasional,37,Male,North,PRD-SPO-56,Resistance Bands,Sports,3,15,0.0,12.77,PayPal,1,Delivered,4.0,5,45.0,17.23
+ORD-51100,2023-05-16 01:00:00,UID-127,Standard,55,Male,North,PRD-TEC-92,Smart Watch,Tech Accessories,3,150,0.09,0.0,PayPal,1,Delivered,4.9,75,409.5,184.5
+ORD-51101,2023-01-06 16:00:00,UID-995,Occasional,25,Female,West,PRD-HOM-49,Bed Sheets,Home & Garden,2,50,0.05,11.57,PayPal,5,Delivered,3.5,20,95.0,43.43
+ORD-51102,2023-09-11 17:00:00,UID-944,Occasional,46,Male,North,PRD-HOM-31,Indoor Plant,Home & Garden,1,25,0.0,22.26,Bank Transfer,8,Delivered,2.7,10,25.0,-7.26
+ORD-51103,2023-04-19 21:00:00,UID-613,Standard,25,Male,West,PRD-SPO-12,Dumbbells,Sports,4,40,0.11,0.0,Crypto,11,Delivered,3.7,20,142.4,62.4
+ORD-51104,2023-08-21 12:00:00,UID-156,Standard,30,Male,North,PRD-HOM-46,Indoor Plant,Home & Garden,2,25,0.11,7.98,Credit Card,2,Delivered,4.3,10,44.5,16.52
+ORD-51105,2023-04-06 07:00:00,UID-114,Occasional,27,Female,East,PRD-BEA-73,Perfume,Beauty,1,80,0.0,13.88,Credit Card,12,Delivered,3.7,25,80.0,41.12
+ORD-51106,2023-01-30 02:00:00,UID-898,Standard,24,Male,East,PRD-TEC-11,Bluetooth Speaker,Tech Accessories,4,60,0.06,0.0,Crypto,2,Delivered,3.5,30,225.6,105.6
+ORD-51107,2023-06-26 15:00:00,UID-456,Standard,50,Male,South,PRD-TEC-70,Bluetooth Speaker,Tech Accessories,4,60,0.32,0.0,Crypto,14,Returned,1.0,30,163.2,43.2
+ORD-51108,2023-06-22 21:00:00,UID-309,Premium,66,Female,East,PRD-HOM-53,Vacuum Cleaner,Home & Garden,2,200,0.12,0.0,PayPal,4,Delivered,4.6,100,352.0,152.0
+ORD-51109,2023-01-12 11:00:00,UID-115,Occasional,56,Female,East,PRD-HOM-74,Table Lamp,Home & Garden,2,45,0.03,7.37,PayPal,7,Delivered,3.9,20,87.3,39.93
+ORD-51110,2023-06-10 14:00:00,UID-935,Premium,21,Male,North,PRD-TEC-39,Wireless Charger,Tech Accessories,4,35,0.15,0.0,PayPal,7,Delivered,4.6,15,119.0,59.0
+ORD-51111,2023-06-30 15:00:00,UID-484,Occasional,62,Male,North,PRD-BEA-20,Makeup Set,Beauty,4,40,0.0,0.0,Credit Card,11,Delivered,2.7,12,160.0,112.0
+ORD-51112,2023-08-06 22:00:00,UID-877,Occasional,36,Female,North,PRD-HOM-45,Vacuum Cleaner,Home & Garden,4,200,0.0,0.0,Credit Card,9,Delivered,3.3,100,800.0,400.0
+ORD-51113,2023-06-30 00:00:00,UID-163,Standard,24,Female,North,PRD-BEA-82,Perfume,Beauty,4,80,0.13,0.0,Crypto,2,Delivered,4.3,25,278.4,178.4
+ORD-51114,2023-03-24 05:00:00,UID-939,Standard,63,Male,East,PRD-TEC-48,Phone Case,Tech Accessories,1,20,0.06,17.46,PayPal,4,Delivered,4.9,5,18.8,-3.66
+ORD-51115,2023-03-01 11:00:00,UID-795,Standard,21,Male,East,PRD-SPO-17,Dumbbells,Sports,4,40,0.06,0.0,Crypto,1,Delivered,4.8,20,150.4,70.4
+ORD-51116,2023-09-07 01:00:00,UID-257,Premium,55,Male,West,PRD-BEA-25,Face Serum,Beauty,3,30,0.21,12.18,PayPal,7,Shipped,4.3,8,71.1,34.92
+ORD-51117,2023-05-31 22:00:00,UID-714,Standard,27,Male,North,PRD-HOM-20,Table Lamp,Home & Garden,4,45,0.1,0.0,Credit Card,11,Delivered,3.4,20,162.0,82.0
+ORD-51118,2023-06-21 15:00:00,UID-282,Standard,43,Female,West,PRD-TEC-43,Phone Case,Tech Accessories,3,20,0.08,14.98,Credit Card,12,Delivered,3.4,5,55.2,25.22
+ORD-51119,2023-12-19 02:00:00,UID-224,Standard,33,Female,West,PRD-SPO-18,Resistance Bands,Sports,1,15,0.13,19.65,Bank Transfer,12,Returned,2.3,5,13.05,-11.6
+ORD-51120,2023-08-27 12:00:00,UID-680,Premium,57,Female,West,PRD-BEA-77,Perfume,Beauty,5,80,0.24,0.0,Credit Card,6,Delivered,4.7,25,304.0,179.0
+ORD-51121,2023-01-29 05:00:00,UID-257,Occasional,66,Female,North,PRD-SPO-18,Treadmill,Sports,2,500,0.08,0.0,PayPal,4,Delivered,4.4,300,920.0,320.0
+ORD-51122,2023-11-05 21:00:00,UID-180,Occasional,54,Male,South,PRD-HOM-88,Vacuum Cleaner,Home & Garden,2,200,0.28,0.0,PayPal,9,Delivered,3.4,100,288.0,88.0
+ORD-51123,2023-11-12 17:00:00,UID-930,Occasional,19,Female,West,PRD-TEC-26,Bluetooth Speaker,Tech Accessories,2,60,0.0,0.0,Credit Card,11,Delivered,4.0,30,120.0,60.0
+ORD-51124,2023-12-23 13:00:00,UID-930,Standard,68,Male,East,PRD-SPO-25,Dumbbells,Sports,1,40,0.12,8.33,Credit Card,3,Returned,1.1,20,35.2,6.87
+ORD-51125,2023-08-14 07:00:00,UID-367,Occasional,43,Male,West,PRD-BEA-60,Makeup Set,Beauty,3,40,0.0,0.0,Credit Card,10,Returned,1.0,12,120.0,84.0
+ORD-51126,2023-04-22 02:00:00,UID-144,Standard,21,Male,West,PRD-SPO-27,Treadmill,Sports,4,500,0.07,0.0,Credit Card,7,Returned,2.4,300,1860.0,660.0
+ORD-51127,2023-09-26 05:00:00,UID-936,Occasional,52,Male,South,PRD-TEC-89,Smart Watch,Tech Accessories,1,150,0.0,0.0,Credit Card,5,Delivered,3.8,75,150.0,75.0
+ORD-51128,2023-10-29 23:00:00,UID-854,Standard,53,Female,South,PRD-TEC-36,Bluetooth Speaker,Tech Accessories,4,60,0.12,0.0,Bank Transfer,5,Delivered,4.2,30,211.2,91.2
+ORD-51129,2023-11-23 08:00:00,UID-837,Standard,54,Male,South,PRD-BEA-81,Perfume,Beauty,2,80,0.11,0.0,Credit Card,5,Delivered,3.9,25,142.4,92.4
+ORD-51130,2023-03-02 10:00:00,UID-379,Standard,40,Male,West,PRD-BEA-29,Makeup Set,Beauty,2,40,0.08,10.29,Bank Transfer,5,Delivered,3.8,12,73.6,39.31
+ORD-51131,2023-06-18 03:00:00,UID-860,Occasional,54,Female,East,PRD-SPO-51,Yoga Mat,Sports,4,25,0.0,17.55,Credit Card,1,Delivered,4.1,10,100.0,42.45
+ORD-51132,2023-06-02 00:00:00,UID-888,Occasional,27,Female,West,PRD-HOM-15,Bed Sheets,Home & Garden,2,50,0.05,24.84,PayPal,13,Delivered,3.5,20,95.0,30.16
+ORD-51133,2023-04-26 05:00:00,UID-688,Occasional,64,Female,West,PRD-HOM-92,Vacuum Cleaner,Home & Garden,2,200,0.1,0.0,Bank Transfer,5,Returned,2.4,100,360.0,160.0
+ORD-51134,2023-07-14 23:00:00,UID-332,Occasional,64,Female,East,PRD-HOM-57,Indoor Plant,Home & Garden,2,25,0.0,5.15,Credit Card,11,Delivered,2.8,10,50.0,24.85
+ORD-51135,2023-11-03 06:00:00,UID-526,Occasional,37,Female,North,PRD-TEC-22,Bluetooth Speaker,Tech Accessories,4,60,0.0,0.0,Credit Card,1,Shipped,3.8,30,240.0,120.0
+ORD-51136,2023-12-25 11:00:00,UID-723,Occasional,65,Male,South,PRD-BEA-60,Makeup Set,Beauty,4,40,0.0,0.0,Credit Card,6,Delivered,3.5,12,160.0,112.0
+ORD-51137,2023-12-07 20:00:00,UID-889,Standard,67,Female,North,PRD-BEA-52,Perfume,Beauty,1,80,0.12,20.56,Credit Card,3,Delivered,4.0,25,70.4,24.84
+ORD-51138,2023-11-29 20:00:00,UID-272,Premium,53,Male,South,PRD-HOM-88,Bed Sheets,Home & Garden,3,50,0.32,0.0,PayPal,10,Shipped,3.2,20,102.0,42.0
+ORD-51139,2023-04-09 04:00:00,UID-559,Occasional,55,Female,North,PRD-SPO-43,Resistance Bands,Sports,4,15,0.0,14.42,PayPal,14,Delivered,3.0,5,60.0,25.58
+ORD-51140,2023-04-14 19:00:00,UID-309,Occasional,49,Male,North,PRD-TEC-19,Wireless Charger,Tech Accessories,2,35,0.0,20.29,Credit Card,11,Delivered,3.7,15,70.0,19.71
+ORD-51141,2023-09-24 15:00:00,UID-179,Standard,67,Female,South,PRD-HOM-95,Vacuum Cleaner,Home & Garden,3,200,0.14,0.0,Credit Card,1,Delivered,4.6,100,516.0,216.0
+ORD-51142,2023-09-04 05:00:00,UID-398,Standard,56,Female,East,PRD-SPO-49,Resistance Bands,Sports,3,15,0.07,15.14,Bank Transfer,7,Delivered,5.0,5,41.85,11.71
+ORD-51143,2023-07-01 00:00:00,UID-529,Premium,45,Female,West,PRD-BEA-66,Perfume,Beauty,7,80,0.21,0.0,PayPal,6,Delivered,3.9,25,442.4,267.4
+ORD-51144,2023-01-29 05:00:00,UID-975,Standard,62,Female,East,PRD-HOM-90,Vacuum Cleaner,Home & Garden,3,200,0.13,0.0,Bank Transfer,2,Delivered,4.2,100,522.0,222.0
+ORD-51145,2023-04-21 11:00:00,UID-264,Premium,30,Female,North,PRD-TEC-60,Phone Case,Tech Accessories,6,20,0.13,0.0,Credit Card,12,Delivered,3.0,5,104.4,74.4
+ORD-51146,2023-11-20 13:00:00,UID-769,Premium,34,Male,North,PRD-BEA-79,Makeup Set,Beauty,4,40,0.2,0.0,Credit Card,14,Delivered,2.9,12,128.0,80.0
+ORD-51147,2023-09-01 09:00:00,UID-587,Standard,54,Female,West,PRD-BEA-56,Perfume,Beauty,3,80,0.14,0.0,PayPal,12,Delivered,3.3,25,206.4,131.4
+ORD-51148,2023-05-11 17:00:00,UID-574,Premium,24,Female,East,PRD-SPO-39,Treadmill,Sports,5,500,0.18,0.0,Credit Card,10,Returned,2.3,300,2050.0,550.0
+ORD-51149,2023-01-21 13:00:00,UID-877,Occasional,21,Female,North,PRD-BEA-31,Makeup Set,Beauty,4,40,0.02,0.0,PayPal,6,Shipped,3.9,12,156.8,108.8
+ORD-51150,2023-02-18 04:00:00,UID-521,Standard,67,Male,East,PRD-SPO-24,Dumbbells,Sports,2,40,0.07,14.14,Credit Card,2,Delivered,4.4,20,74.4,20.26
+ORD-51151,2023-11-13 00:00:00,UID-314,Occasional,66,Male,North,PRD-SPO-37,Resistance Bands,Sports,4,15,0.0,7.72,Credit Card,10,Delivered,2.6,5,60.0,32.28
+ORD-51152,2023-12-03 03:00:00,UID-457,Standard,51,Female,North,PRD-BEA-27,Perfume,Beauty,3,80,0.07,0.0,Credit Card,8,Delivered,3.6,25,223.2,148.2
+ORD-51153,2023-02-08 05:00:00,UID-564,Standard,20,Female,East,PRD-SPO-90,Yoga Mat,Sports,1,25,0.09,21.38,Bank Transfer,13,Delivered,4.2,10,22.75,-8.63
+ORD-51154,2023-06-10 02:00:00,UID-289,Premium,51,Female,North,PRD-SPO-63,Yoga Mat,Sports,5,25,0.12,0.0,Credit Card,5,Delivered,3.8,10,110.0,60.0
+ORD-51155,2023-07-10 16:00:00,UID-573,Standard,30,Female,East,PRD-SPO-26,Resistance Bands,Sports,2,15,0.08,5.82,Credit Card,6,Delivered,3.8,5,27.6,11.78
+ORD-51156,2023-04-27 11:00:00,UID-551,Standard,67,Female,West,PRD-BEA-96,Makeup Set,Beauty,3,40,0.14,0.0,Bank Transfer,8,Delivered,4.0,12,103.2,67.2
+ORD-51157,2023-04-26 20:00:00,UID-427,Standard,20,Male,South,PRD-SPO-34,Treadmill,Sports,3,500,0.29,0.0,Credit Card,2,Shipped,4.5,300,1065.0,165.0
+ORD-51158,2023-09-07 04:00:00,UID-133,Standard,53,Male,South,PRD-HOM-98,Bed Sheets,Home & Garden,3,50,0.1,0.0,Credit Card,13,Delivered,3.7,20,135.0,75.0
+ORD-51159,2023-06-09 04:00:00,UID-824,Standard,67,Female,North,PRD-HOM-11,Table Lamp,Home & Garden,3,45,0.06,0.0,PayPal,3,Delivered,4.7,20,126.9,66.9
+ORD-51160,2023-11-26 09:00:00,UID-246,Premium,20,Male,North,PRD-HOM-14,Bed Sheets,Home & Garden,5,50,0.21,0.0,Credit Card,5,Delivered,4.8,20,197.5,97.5
+ORD-51161,2023-08-22 02:00:00,UID-750,Standard,49,Male,West,PRD-SPO-97,Yoga Mat,Sports,2,25,0.06,12.89,Credit Card,9,Shipped,3.4,10,47.0,14.11
+ORD-51162,2023-06-21 12:00:00,UID-732,Standard,31,Male,North,PRD-HOM-59,Table Lamp,Home & Garden,2,45,0.12,16.84,PayPal,4,Delivered,3.5,20,79.2,22.36
+ORD-51163,2023-09-03 20:00:00,UID-592,Standard,67,Female,East,PRD-TEC-99,Wireless Charger,Tech Accessories,4,35,0.12,0.0,Credit Card,8,Delivered,3.3,15,123.2,63.2
+ORD-51164,2023-06-10 23:00:00,UID-933,Standard,47,Female,South,PRD-HOM-53,Vacuum Cleaner,Home & Garden,2,200,0.09,0.0,Credit Card,2,Delivered,4.8,100,364.0,164.0
+ORD-51165,2023-07-07 08:00:00,UID-760,Occasional,57,Male,North,PRD-BEA-99,Perfume,Beauty,2,80,0.0,0.0,PayPal,3,Delivered,3.5,25,160.0,110.0
+ORD-51166,2023-02-04 13:00:00,UID-194,Premium,62,Female,North,PRD-SPO-54,Dumbbells,Sports,5,40,0.2,0.0,PayPal,13,Delivered,2.7,20,160.0,60.0
+ORD-51167,2023-08-16 19:00:00,UID-593,Premium,34,Female,North,PRD-SPO-39,Treadmill,Sports,5,500,0.19,0.0,Credit Card,10,Delivered,4.2,300,2025.0,525.0
+ORD-51168,2023-12-23 04:00:00,UID-138,Standard,26,Female,West,PRD-SPO-92,Treadmill,Sports,2,500,0.08,0.0,Credit Card,11,Delivered,3.5,300,920.0,320.0
+ORD-51169,2023-12-03 06:00:00,UID-543,Premium,66,Female,West,PRD-HOM-64,Indoor Plant,Home & Garden,6,25,0.17,0.0,Credit Card,7,Delivered,4.4,10,124.5,64.5
+ORD-51170,2023-09-27 13:00:00,UID-520,Standard,27,Male,North,PRD-HOM-76,Vacuum Cleaner,Home & Garden,4,200,0.11,0.0,PayPal,12,Delivered,2.2,100,712.0,312.0
+ORD-51171,2023-04-22 17:00:00,UID-795,Standard,41,Male,East,PRD-BEA-11,Makeup Set,Beauty,1,40,0.13,11.23,Credit Card,10,Delivered,3.1,12,34.8,11.57
+ORD-51172,2023-02-06 01:00:00,UID-599,Standard,55,Female,North,PRD-TEC-42,Smart Watch,Tech Accessories,4,150,0.11,0.0,Bank Transfer,3,Delivered,4.2,75,534.0,234.0
+ORD-51173,2023-10-09 15:00:00,UID-789,Premium,69,Female,West,PRD-HOM-55,Vacuum Cleaner,Home & Garden,5,200,0.14,0.0,Credit Card,10,Returned,2.4,100,860.0,360.0
+ORD-51174,2023-07-21 07:00:00,UID-373,Standard,46,Male,East,PRD-TEC-55,Bluetooth Speaker,Tech Accessories,3,60,0.15,0.0,Bank Transfer,9,Delivered,3.8,30,153.0,63.0
+ORD-51175,2023-10-07 22:00:00,UID-920,Occasional,36,Male,West,PRD-BEA-69,Moisturizer,Beauty,2,25,0.04,22.16,Credit Card,6,Delivered,5.0,6,48.0,13.84
+ORD-51176,2023-04-16 00:00:00,UID-943,Standard,47,Female,East,PRD-SPO-19,Yoga Mat,Sports,1,25,0.12,9.65,Bank Transfer,12,Delivered,3.2,10,22.0,2.35
+ORD-51177,2023-07-05 08:00:00,UID-398,Standard,59,Female,East,PRD-BEA-63,Makeup Set,Beauty,3,40,0.08,0.0,Credit Card,9,Returned,1.8,12,110.4,74.4
+ORD-51178,2023-05-04 06:00:00,UID-436,Standard,41,Male,South,PRD-BEA-43,Face Serum,Beauty,4,30,0.27,9.3,PayPal,4,Shipped,4.0,8,87.6,46.3
+ORD-51179,2023-05-11 05:00:00,UID-217,Standard,37,Male,West,PRD-HOM-93,Bed Sheets,Home & Garden,1,50,0.15,19.21,PayPal,14,Delivered,3.5,20,42.5,3.29
+ORD-51180,2023-05-23 16:00:00,UID-906,Occasional,54,Female,West,PRD-SPO-63,Treadmill,Sports,2,500,0.0,0.0,Credit Card,8,Returned,2.0,300,1000.0,400.0
+ORD-51181,2023-05-16 05:00:00,UID-427,Standard,27,Male,West,PRD-TEC-29,Phone Case,Tech Accessories,1,20,0.09,9.13,PayPal,10,Delivered,4.3,5,18.2,4.07
+ORD-51182,2023-05-14 19:00:00,UID-163,Standard,37,Male,East,PRD-TEC-41,Wireless Charger,Tech Accessories,3,35,0.14,14.34,Credit Card,8,Delivered,3.9,15,90.3,30.96
+ORD-51183,2023-06-16 04:00:00,UID-321,Standard,32,Male,East,PRD-HOM-76,Indoor Plant,Home & Garden,2,25,0.07,13.7,Credit Card,4,Returned,1.4,10,46.5,12.8
+ORD-51184,2023-01-07 00:00:00,UID-973,Standard,18,Female,West,PRD-HOM-80,Indoor Plant,Home & Garden,3,25,0.12,10.82,Crypto,9,Delivered,2.7,10,66.0,25.18
+ORD-51185,2023-10-09 10:00:00,UID-321,Occasional,49,Male,East,PRD-BEA-94,Face Serum,Beauty,3,30,0.06,13.6,Credit Card,4,Delivered,4.5,8,84.6,47.0
+ORD-51186,2023-04-24 16:00:00,UID-846,Occasional,28,Male,West,PRD-TEC-87,Smart Watch,Tech Accessories,3,150,0.1,0.0,Credit Card,10,Delivered,3.3,75,405.0,180.0
+ORD-51187,2023-12-04 00:00:00,UID-802,Occasional,69,Male,West,PRD-HOM-41,Vacuum Cleaner,Home & Garden,2,200,0.03,0.0,Credit Card,5,Delivered,4.3,100,388.0,188.0
+ORD-51188,2023-11-03 16:00:00,UID-586,Standard,48,Female,East,PRD-SPO-35,Yoga Mat,Sports,4,25,0.11,19.08,Credit Card,1,Shipped,4.2,10,89.0,29.92
+ORD-51189,2023-08-22 17:00:00,UID-477,Premium,32,Female,South,PRD-TEC-17,Phone Case,Tech Accessories,4,20,0.35,5.41,Credit Card,9,Delivered,2.6,5,52.0,26.59
+ORD-51190,2023-06-05 03:00:00,UID-341,Occasional,59,Female,South,PRD-HOM-81,Bed Sheets,Home & Garden,4,50,0.31,0.0,Credit Card,14,Returned,1.1,20,138.0,58.0
+ORD-51191,2023-02-14 06:00:00,UID-230,Occasional,19,Male,East,PRD-BEA-45,Perfume,Beauty,4,80,0.09,0.0,PayPal,7,Delivered,3.7,25,291.2,191.2
+ORD-51192,2023-11-07 05:00:00,UID-929,Standard,61,Male,North,PRD-BEA-18,Perfume,Beauty,4,80,0.13,0.0,Credit Card,14,Delivered,4.4,25,278.4,178.4
+ORD-51193,2023-06-06 10:00:00,UID-683,Standard,41,Female,North,PRD-SPO-48,Resistance Bands,Sports,1,15,0.06,11.93,Credit Card,6,Delivered,3.6,5,14.1,-2.83
+ORD-51194,2023-10-09 04:00:00,UID-489,Occasional,49,Male,West,PRD-SPO-67,Dumbbells,Sports,3,40,0.0,0.0,Credit Card,10,Returned,1.7,20,120.0,60.0
+ORD-51195,2023-12-15 16:00:00,UID-117,Standard,40,Male,North,PRD-SPO-62,Treadmill,Sports,1,500,0.07,0.0,PayPal,6,Delivered,4.1,300,465.0,165.0
+ORD-51196,2023-07-28 23:00:00,UID-411,Premium,44,Male,South,PRD-TEC-86,Bluetooth Speaker,Tech Accessories,5,60,0.31,0.0,Credit Card,10,Delivered,3.5,30,207.0,57.0
+ORD-51197,2023-11-21 17:00:00,UID-443,Standard,37,Female,South,PRD-BEA-91,Makeup Set,Beauty,1,40,0.39,12.63,Crypto,11,Delivered,2.8,12,24.4,-0.23
+ORD-51198,2023-07-12 16:00:00,UID-247,Occasional,27,Male,West,PRD-SPO-15,Treadmill,Sports,1,500,0.0,0.0,PayPal,13,Delivered,3.8,300,500.0,200.0
+ORD-51199,2023-10-05 07:00:00,UID-731,Occasional,42,Female,North,PRD-BEA-66,Moisturizer,Beauty,4,25,0.0,5.27,PayPal,12,Delivered,2.8,6,100.0,70.73
+ORD-51200,2023-10-25 09:00:00,UID-563,Standard,38,Male,West,PRD-SPO-66,Resistance Bands,Sports,4,15,0.14,13.0,PayPal,7,Delivered,3.7,5,51.6,18.6
+ORD-51201,2023-07-14 23:00:00,UID-432,Standard,61,Female,North,PRD-TEC-79,Bluetooth Speaker,Tech Accessories,3,60,0.11,0.0,Credit Card,5,Delivered,3.5,30,160.2,70.2
+ORD-51202,2023-12-08 07:00:00,UID-342,Standard,49,Female,West,PRD-SPO-75,Treadmill,Sports,3,500,0.15,0.0,Crypto,10,Delivered,3.0,300,1275.0,375.0
+ORD-51203,2023-11-09 21:00:00,UID-543,Occasional,56,Male,North,PRD-TEC-96,Smart Watch,Tech Accessories,3,150,0.0,0.0,PayPal,3,Delivered,4.8,75,450.0,225.0
+ORD-51204,2023-10-09 18:00:00,UID-873,Occasional,19,Male,East,PRD-HOM-90,Bed Sheets,Home & Garden,1,50,0.0,8.83,Credit Card,7,Delivered,4.5,20,50.0,21.17
+ORD-51205,2023-06-09 15:00:00,UID-372,Standard,40,Male,South,PRD-BEA-85,Moisturizer,Beauty,1,25,0.34,17.5,Bank Transfer,11,Delivered,2.2,6,16.5,-7.0
+ORD-51206,2023-08-03 03:00:00,UID-726,Standard,50,Female,West,PRD-HOM-33,Vacuum Cleaner,Home & Garden,1,200,0.13,0.0,PayPal,10,Delivered,3.8,100,174.0,74.0
+ORD-51207,2023-04-01 01:00:00,UID-738,Standard,23,Female,North,PRD-TEC-85,Wireless Charger,Tech Accessories,1,35,0.07,17.19,Credit Card,1,Delivered,3.9,15,32.55,0.36
+ORD-51208,2023-10-28 20:00:00,UID-479,Standard,25,Male,West,PRD-BEA-19,Face Serum,Beauty,3,30,0.07,19.99,Credit Card,11,Delivered,3.5,8,83.7,39.71
+ORD-51209,2023-07-25 00:00:00,UID-807,Premium,33,Male,North,PRD-TEC-77,Smart Watch,Tech Accessories,6,150,0.11,0.0,Bank Transfer,12,Shipped,3.0,75,801.0,351.0
+ORD-51210,2023-11-18 08:00:00,UID-981,Premium,57,Female,East,PRD-SPO-22,Treadmill,Sports,7,500,0.2,0.0,PayPal,4,Delivered,4.0,300,2800.0,700.0
+ORD-51211,2023-01-15 07:00:00,UID-686,Premium,68,Female,North,PRD-SPO-21,Treadmill,Sports,4,500,0.18,0.0,Credit Card,5,Delivered,4.4,300,1640.0,440.0
+ORD-51212,2023-04-19 00:00:00,UID-708,Occasional,19,Female,East,PRD-BEA-68,Makeup Set,Beauty,2,40,0.0,8.5,Credit Card,4,Delivered,5.0,12,80.0,47.5
+ORD-51213,2023-09-12 21:00:00,UID-911,Occasional,26,Female,South,PRD-HOM-50,Table Lamp,Home & Garden,4,45,0.05,0.0,Credit Card,10,Delivered,4.1,20,171.0,91.0
+ORD-51214,2023-10-25 18:00:00,UID-481,Premium,49,Male,South,PRD-BEA-78,Face Serum,Beauty,4,30,0.25,15.61,Credit Card,8,Delivered,3.4,8,90.0,42.39
+ORD-51215,2023-08-06 05:00:00,UID-464,Standard,65,Female,East,PRD-BEA-84,Perfume,Beauty,3,80,0.14,0.0,Credit Card,4,Delivered,4.2,25,206.4,131.4
+ORD-51216,2023-04-05 15:00:00,UID-345,Standard,35,Female,East,PRD-BEA-41,Makeup Set,Beauty,4,40,0.12,0.0,Credit Card,2,Delivered,4.7,12,140.8,92.8
+ORD-51217,2023-12-03 06:00:00,UID-423,Premium,51,Female,East,PRD-BEA-98,Face Serum,Beauty,6,30,0.16,0.0,Credit Card,14,Returned,1.8,8,151.2,103.2
+ORD-51218,2023-11-06 10:00:00,UID-494,Occasional,35,Female,South,PRD-TEC-57,Wireless Charger,Tech Accessories,1,35,0.36,20.89,PayPal,8,Delivered,3.8,15,22.4,-13.49
+ORD-51219,2023-07-16 06:00:00,UID-745,Premium,63,Male,East,PRD-HOM-31,Table Lamp,Home & Garden,4,45,0.15,0.0,Crypto,13,Delivered,3.3,20,153.0,73.0
+ORD-51220,2023-10-06 23:00:00,UID-505,Standard,37,Male,West,PRD-TEC-90,Wireless Charger,Tech Accessories,3,35,0.06,20.44,Credit Card,5,Delivered,3.9,15,98.7,33.26
+ORD-51221,2023-04-24 20:00:00,UID-635,Occasional,27,Female,West,PRD-SPO-99,Dumbbells,Sports,2,40,0.0,7.69,Credit Card,14,Delivered,2.9,20,80.0,32.31
+ORD-51222,2023-07-16 19:00:00,UID-832,Standard,70,Male,West,PRD-BEA-29,Face Serum,Beauty,3,30,0.09,16.35,Credit Card,5,Returned,2.4,8,81.9,41.55
+ORD-51223,2023-03-30 15:00:00,UID-717,Occasional,55,Female,North,PRD-BEA-13,Moisturizer,Beauty,1,25,0.0,7.77,PayPal,4,Delivered,4.2,6,25.0,11.23
+ORD-51224,2023-05-18 19:00:00,UID-106,Standard,41,Female,North,PRD-TEC-97,Wireless Charger,Tech Accessories,1,35,0.12,8.14,Credit Card,9,Delivered,3.5,15,30.8,7.66
+ORD-51225,2023-07-02 15:00:00,UID-247,Standard,32,Female,East,PRD-TEC-24,Phone Case,Tech Accessories,1,20,0.06,19.18,Credit Card,12,Delivered,3.2,5,18.8,-5.38
+ORD-51226,2023-03-12 20:00:00,UID-585,Standard,58,Female,East,PRD-SPO-49,Dumbbells,Sports,4,40,0.08,0.0,Credit Card,2,Delivered,3.8,20,147.2,67.2
+ORD-51227,2023-09-22 12:00:00,UID-449,Occasional,19,Male,West,PRD-HOM-11,Bed Sheets,Home & Garden,1,50,0.01,24.38,Credit Card,11,Delivered,2.1,20,49.5,5.12
+ORD-51228,2023-09-12 05:00:00,UID-402,Occasional,23,Female,South,PRD-SPO-37,Dumbbells,Sports,2,40,0.3,23.56,Credit Card,1,Delivered,5.0,20,56.0,-7.56
+ORD-51229,2023-08-02 02:00:00,UID-814,Premium,43,Male,South,PRD-SPO-95,Treadmill,Sports,4,500,0.25,0.0,Crypto,5,Delivered,4.6,300,1500.0,300.0
+ORD-51230,2023-02-11 08:00:00,UID-781,Occasional,40,Female,East,PRD-SPO-87,Treadmill,Sports,3,500,0.1,0.0,Credit Card,10,Delivered,2.6,300,1350.0,450.0
+ORD-51231,2023-06-23 11:00:00,UID-647,Standard,61,Male,East,PRD-BEA-56,Makeup Set,Beauty,2,40,0.09,8.01,Credit Card,2,Delivered,4.3,12,72.8,40.79
+ORD-51232,2023-03-24 18:00:00,UID-947,Standard,42,Female,East,PRD-TEC-18,Wireless Charger,Tech Accessories,3,35,0.1,13.77,Credit Card,5,Delivered,3.8,15,94.5,35.73
+ORD-51233,2023-07-10 01:00:00,UID-674,Standard,29,Male,West,PRD-TEC-79,Smart Watch,Tech Accessories,4,150,0.08,0.0,Credit Card,5,Delivered,3.8,75,552.0,252.0
+ORD-51234,2023-03-20 16:00:00,UID-196,Standard,38,Female,North,PRD-HOM-54,Indoor Plant,Home & Garden,4,25,0.1,18.7,Credit Card,13,Delivered,2.8,10,90.0,31.3
+ORD-51235,2023-08-01 00:00:00,UID-859,Occasional,20,Female,North,PRD-TEC-69,Bluetooth Speaker,Tech Accessories,1,60,0.0,19.5,Credit Card,13,Delivered,2.9,30,60.0,10.5
+ORD-51236,2023-01-20 13:00:00,UID-448,Standard,62,Male,West,PRD-HOM-35,Indoor Plant,Home & Garden,1,25,0.11,16.04,Credit Card,7,Delivered,4.4,10,22.25,-3.79
+ORD-51237,2023-02-21 00:00:00,UID-166,Occasional,21,Female,East,PRD-SPO-11,Yoga Mat,Sports,2,25,0.0,11.82,Credit Card,2,Delivered,4.1,10,50.0,18.18
+ORD-51238,2023-02-19 20:00:00,UID-986,Premium,64,Male,North,PRD-BEA-51,Makeup Set,Beauty,4,40,0.23,0.0,Crypto,6,Delivered,4.5,12,123.2,75.2
+ORD-51239,2023-05-28 13:00:00,UID-632,Standard,68,Male,South,PRD-BEA-43,Makeup Set,Beauty,2,40,0.27,18.38,Crypto,11,Delivered,3.1,12,58.4,16.02
+ORD-51240,2023-12-24 05:00:00,UID-219,Standard,45,Female,West,PRD-TEC-72,Phone Case,Tech Accessories,3,20,0.09,24.02,PayPal,11,Returned,1.1,5,54.6,15.58
+ORD-51241,2023-05-31 09:00:00,UID-577,Premium,69,Female,East,PRD-SPO-62,Treadmill,Sports,2,500,0.17,0.0,PayPal,14,Delivered,2.6,300,830.0,230.0
+ORD-51242,2023-11-18 01:00:00,UID-226,Standard,25,Male,South,PRD-SPO-83,Yoga Mat,Sports,3,25,0.29,11.49,Credit Card,13,Delivered,4.0,10,53.25,11.76
+ORD-51243,2023-08-30 03:00:00,UID-393,Premium,44,Female,South,PRD-BEA-68,Perfume,Beauty,5,80,0.21,0.0,PayPal,6,Delivered,4.6,25,316.0,191.0
+ORD-51244,2023-10-29 04:00:00,UID-269,Premium,27,Male,West,PRD-SPO-55,Treadmill,Sports,3,500,0.19,0.0,Credit Card,7,Delivered,4.7,300,1215.0,315.0
+ORD-51245,2023-07-01 01:00:00,UID-992,Standard,55,Male,South,PRD-HOM-96,Indoor Plant,Home & Garden,4,25,0.12,5.43,Credit Card,5,Delivered,4.0,10,88.0,42.57
+ORD-51246,2023-02-24 11:00:00,UID-423,Standard,46,Female,North,PRD-HOM-38,Table Lamp,Home & Garden,2,45,0.07,15.81,Bank Transfer,4,Delivered,4.5,20,83.7,27.89
+ORD-51247,2023-09-28 04:00:00,UID-329,Occasional,65,Female,West,PRD-SPO-31,Dumbbells,Sports,2,40,0.01,14.5,PayPal,6,Delivered,3.7,20,79.2,24.7
+ORD-51248,2023-01-06 20:00:00,UID-968,Occasional,25,Male,North,PRD-TEC-21,Smart Watch,Tech Accessories,3,150,0.0,0.0,Bank Transfer,7,Delivered,4.4,75,450.0,225.0
+ORD-51249,2023-05-14 00:00:00,UID-634,Occasional,47,Male,North,PRD-SPO-61,Resistance Bands,Sports,1,15,0.0,16.74,Credit Card,5,Delivered,4.4,5,15.0,-6.74
+ORD-51250,2023-07-29 14:00:00,UID-816,Standard,52,Male,East,PRD-HOM-72,Vacuum Cleaner,Home & Garden,1,200,0.1,0.0,PayPal,4,Shipped,4.0,100,180.0,80.0
